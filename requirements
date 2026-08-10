@@ -1,0 +1,4 @@
+SoccerNet
+subprocess
+winget install ffmpeg
+opencv-python pygame
