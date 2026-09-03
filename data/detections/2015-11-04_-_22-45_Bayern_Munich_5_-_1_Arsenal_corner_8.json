@@ -1,0 +1,149 @@
+{
+    "image": "2015-11-04_-_22-45_Bayern_Munich_5_-_1_Arsenal_corner_8.jpg",
+    "total_players": 11,
+    "players": [
+        {
+            "box": [
+                241,
+                599,
+                281,
+                685
+            ],
+            "foot_point": [
+                261,
+                685
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                860,
+                536,
+                894,
+                613
+            ],
+            "foot_point": [
+                877,
+                613
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                105,
+                504,
+                130,
+                575
+            ],
+            "foot_point": [
+                117,
+                575
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                630,
+                516,
+                656,
+                580
+            ],
+            "foot_point": [
+                643,
+                580
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                156,
+                449,
+                182,
+                503
+            ],
+            "foot_point": [
+                169,
+                503
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                89,
+                439,
+                116,
+                498
+            ],
+            "foot_point": [
+                102,
+                498
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                218,
+                439,
+                241,
+                495
+            ],
+            "foot_point": [
+                229,
+                495
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                41,
+                432,
+                64,
+                488
+            ],
+            "foot_point": [
+                52,
+                488
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                8,
+                446,
+                40,
+                503
+            ],
+            "foot_point": [
+                24,
+                503
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                239,
+                421,
+                259,
+                474
+            ],
+            "foot_point": [
+                249,
+                474
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                338,
+                436,
+                358,
+                492
+            ],
+            "foot_point": [
+                348,
+                492
+            ],
+            "status": "manual"
+        }
+    ]
+}

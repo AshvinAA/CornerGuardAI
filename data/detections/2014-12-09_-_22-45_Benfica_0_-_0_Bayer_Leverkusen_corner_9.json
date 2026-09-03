@@ -1,0 +1,175 @@
+{
+    "image": "2014-12-09_-_22-45_Benfica_0_-_0_Bayer_Leverkusen_corner_9.jpg",
+    "total_players": 13,
+    "players": [
+        {
+            "box": [
+                337,
+                307,
+                357,
+                359
+            ],
+            "foot_point": [
+                347,
+                359
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                70,
+                359,
+                95,
+                422
+            ],
+            "foot_point": [
+                82,
+                422
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                121,
+                343,
+                143,
+                402
+            ],
+            "foot_point": [
+                132,
+                402
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                214,
+                288,
+                241,
+                354
+            ],
+            "foot_point": [
+                227,
+                354
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                11,
+                277,
+                37,
+                344
+            ],
+            "foot_point": [
+                24,
+                344
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                50,
+                281,
+                80,
+                336
+            ],
+            "foot_point": [
+                65,
+                336
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                84,
+                285,
+                112,
+                340
+            ],
+            "foot_point": [
+                98,
+                340
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                117,
+                267,
+                141,
+                316
+            ],
+            "foot_point": [
+                129,
+                316
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                133,
+                293,
+                150,
+                341
+            ],
+            "foot_point": [
+                141,
+                341
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                158,
+                262,
+                176,
+                301
+            ],
+            "foot_point": [
+                167,
+                301
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                157,
+                285,
+                184,
+                336
+            ],
+            "foot_point": [
+                170,
+                336
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                266,
+                251,
+                289,
+                298
+            ],
+            "foot_point": [
+                277,
+                298
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                276,
+                278,
+                296,
+                330
+            ],
+            "foot_point": [
+                286,
+                330
+            ],
+            "status": "manual"
+        }
+    ]
+}

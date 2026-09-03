@@ -1,0 +1,201 @@
+{
+    "image": "2015-05-06_-_21-45_Barcelona_3_-_0_Bayern_Munich_corner_4.jpg",
+    "total_players": 15,
+    "players": [
+        {
+            "box": [
+                334,
+                398,
+                377,
+                478
+            ],
+            "foot_point": [
+                355,
+                478
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                568,
+                468,
+                641,
+                554
+            ],
+            "foot_point": [
+                604,
+                554
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                371,
+                415,
+                416,
+                488
+            ],
+            "foot_point": [
+                393,
+                488
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                493,
+                434,
+                529,
+                528
+            ],
+            "foot_point": [
+                511,
+                528
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                586,
+                389,
+                641,
+                474
+            ],
+            "foot_point": [
+                613,
+                474
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                808,
+                357,
+                833,
+                445
+            ],
+            "foot_point": [
+                820,
+                445
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                631,
+                469,
+                660,
+                564
+            ],
+            "foot_point": [
+                645,
+                564
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                518,
+                452,
+                552,
+                533
+            ],
+            "foot_point": [
+                535,
+                533
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                683,
+                355,
+                713,
+                441
+            ],
+            "foot_point": [
+                698,
+                441
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                623,
+                380,
+                642,
+                446
+            ],
+            "foot_point": [
+                632,
+                446
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                660,
+                376,
+                677,
+                455
+            ],
+            "foot_point": [
+                668,
+                455
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                631,
+                373,
+                657,
+                450
+            ],
+            "foot_point": [
+                644,
+                450
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                642,
+                318,
+                664,
+                386
+            ],
+            "foot_point": [
+                653,
+                386
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                665,
+                315,
+                693,
+                388
+            ],
+            "foot_point": [
+                679,
+                388
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                629,
+                309,
+                654,
+                378
+            ],
+            "foot_point": [
+                641,
+                378
+            ],
+            "status": "manual"
+        }
+    ]
+}

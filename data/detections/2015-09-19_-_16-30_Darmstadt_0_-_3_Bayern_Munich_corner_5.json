@@ -1,0 +1,188 @@
+{
+    "image": "2015-09-19_-_16-30_Darmstadt_0_-_3_Bayern_Munich_corner_5.jpg",
+    "total_players": 14,
+    "players": [
+        {
+            "box": [
+                17,
+                461,
+                39,
+                528
+            ],
+            "foot_point": [
+                28,
+                528
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                573,
+                449,
+                595,
+                508
+            ],
+            "foot_point": [
+                584,
+                508
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                547,
+                417,
+                563,
+                466
+            ],
+            "foot_point": [
+                555,
+                466
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                649,
+                455,
+                672,
+                518
+            ],
+            "foot_point": [
+                660,
+                518
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                71,
+                423,
+                89,
+                487
+            ],
+            "foot_point": [
+                80,
+                487
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                85,
+                387,
+                111,
+                438
+            ],
+            "foot_point": [
+                98,
+                438
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                69,
+                358,
+                93,
+                411
+            ],
+            "foot_point": [
+                81,
+                411
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                122,
+                405,
+                163,
+                443
+            ],
+            "foot_point": [
+                142,
+                443
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                164,
+                397,
+                187,
+                443
+            ],
+            "foot_point": [
+                175,
+                443
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                156,
+                364,
+                177,
+                413
+            ],
+            "foot_point": [
+                166,
+                413
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                325,
+                380,
+                341,
+                425
+            ],
+            "foot_point": [
+                333,
+                425
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                307,
+                371,
+                325,
+                412
+            ],
+            "foot_point": [
+                316,
+                412
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                304,
+                387,
+                331,
+                428
+            ],
+            "foot_point": [
+                317,
+                428
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                337,
+                374,
+                354,
+                429
+            ],
+            "foot_point": [
+                345,
+                429
+            ],
+            "status": "manual"
+        }
+    ]
+}

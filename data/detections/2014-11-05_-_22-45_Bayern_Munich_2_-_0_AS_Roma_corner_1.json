@@ -1,0 +1,240 @@
+{
+    "image": "2014-11-05_-_22-45_Bayern_Munich_2_-_0_AS_Roma_corner_1.jpg",
+    "total_players": 18,
+    "players": [
+        {
+            "box": [
+                100,
+                494,
+                118,
+                547
+            ],
+            "foot_point": [
+                109,
+                547
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                207,
+                466,
+                227,
+                521
+            ],
+            "foot_point": [
+                217,
+                521
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                77,
+                466,
+                96,
+                515
+            ],
+            "foot_point": [
+                86,
+                515
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1015,
+                626,
+                1043,
+                667
+            ],
+            "foot_point": [
+                1029,
+                667
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                178,
+                443,
+                194,
+                486
+            ],
+            "foot_point": [
+                186,
+                486
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                457,
+                454,
+                482,
+                501
+            ],
+            "foot_point": [
+                469,
+                501
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                436,
+                442,
+                460,
+                494
+            ],
+            "foot_point": [
+                448,
+                494
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                393,
+                441,
+                416,
+                483
+            ],
+            "foot_point": [
+                404,
+                483
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                351,
+                436,
+                371,
+                475
+            ],
+            "foot_point": [
+                361,
+                475
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                356,
+                461,
+                372,
+                502
+            ],
+            "foot_point": [
+                364,
+                502
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                213,
+                447,
+                230,
+                490
+            ],
+            "foot_point": [
+                221,
+                490
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                233,
+                442,
+                249,
+                491
+            ],
+            "foot_point": [
+                241,
+                491
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                247,
+                448,
+                268,
+                487
+            ],
+            "foot_point": [
+                257,
+                487
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                290,
+                431,
+                310,
+                473
+            ],
+            "foot_point": [
+                300,
+                473
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                308,
+                454,
+                324,
+                494
+            ],
+            "foot_point": [
+                316,
+                494
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                321,
+                455,
+                338,
+                492
+            ],
+            "foot_point": [
+                329,
+                492
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                325,
+                443,
+                345,
+                479
+            ],
+            "foot_point": [
+                335,
+                479
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                479,
+                430,
+                497,
+                474
+            ],
+            "foot_point": [
+                488,
+                474
+            ],
+            "status": "manual"
+        }
+    ]
+}

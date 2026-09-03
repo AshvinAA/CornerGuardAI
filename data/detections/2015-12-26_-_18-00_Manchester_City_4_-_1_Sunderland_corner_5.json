@@ -1,0 +1,162 @@
+{
+    "image": "2015-12-26_-_18-00_Manchester_City_4_-_1_Sunderland_corner_5.jpg",
+    "total_players": 12,
+    "players": [
+        {
+            "box": [
+                909,
+                306,
+                934,
+                363
+            ],
+            "foot_point": [
+                921,
+                363
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1048,
+                311,
+                1074,
+                368
+            ],
+            "foot_point": [
+                1061,
+                368
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1113,
+                312,
+                1136,
+                372
+            ],
+            "foot_point": [
+                1124,
+                372
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1203,
+                382,
+                1228,
+                450
+            ],
+            "foot_point": [
+                1215,
+                450
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1167,
+                298,
+                1193,
+                353
+            ],
+            "foot_point": [
+                1180,
+                353
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                916,
+                278,
+                941,
+                324
+            ],
+            "foot_point": [
+                928,
+                324
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                943,
+                262,
+                967,
+                315
+            ],
+            "foot_point": [
+                955,
+                315
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1197,
+                343,
+                1227,
+                388
+            ],
+            "foot_point": [
+                1212,
+                388
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1191,
+                337,
+                1213,
+                385
+            ],
+            "foot_point": [
+                1202,
+                385
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1195,
+                300,
+                1215,
+                353
+            ],
+            "foot_point": [
+                1205,
+                353
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1215,
+                295,
+                1243,
+                342
+            ],
+            "foot_point": [
+                1229,
+                342
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1217,
+                321,
+                1256,
+                357
+            ],
+            "foot_point": [
+                1236,
+                357
+            ],
+            "status": "manual"
+        }
+    ]
+}

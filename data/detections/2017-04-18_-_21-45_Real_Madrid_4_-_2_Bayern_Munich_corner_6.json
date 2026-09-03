@@ -1,0 +1,214 @@
+{
+    "image": "2017-04-18_-_21-45_Real_Madrid_4_-_2_Bayern_Munich_corner_6.jpg",
+    "total_players": 16,
+    "players": [
+        {
+            "box": [
+                978,
+                306,
+                1008,
+                384
+            ],
+            "foot_point": [
+                993,
+                384
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                927,
+                351,
+                961,
+                443
+            ],
+            "foot_point": [
+                944,
+                443
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1057,
+                373,
+                1096,
+                469
+            ],
+            "foot_point": [
+                1076,
+                469
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                526,
+                352,
+                593,
+                433
+            ],
+            "foot_point": [
+                559,
+                433
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1085,
+                264,
+                1113,
+                337
+            ],
+            "foot_point": [
+                1099,
+                337
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                420,
+                329,
+                449,
+                408
+            ],
+            "foot_point": [
+                434,
+                408
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                496,
+                315,
+                518,
+                402
+            ],
+            "foot_point": [
+                507,
+                402
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                752,
+                238,
+                782,
+                296
+            ],
+            "foot_point": [
+                767,
+                296
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                297,
+                277,
+                316,
+                354
+            ],
+            "foot_point": [
+                306,
+                354
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                461,
+                278,
+                495,
+                352
+            ],
+            "foot_point": [
+                478,
+                352
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                530,
+                316,
+                557,
+                395
+            ],
+            "foot_point": [
+                543,
+                395
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                615,
+                300,
+                640,
+                367
+            ],
+            "foot_point": [
+                627,
+                367
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                632,
+                361,
+                653,
+                424
+            ],
+            "foot_point": [
+                642,
+                424
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                617,
+                337,
+                661,
+                396
+            ],
+            "foot_point": [
+                639,
+                396
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                526,
+                279,
+                552,
+                347
+            ],
+            "foot_point": [
+                539,
+                347
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                521,
+                273,
+                558,
+                336
+            ],
+            "foot_point": [
+                539,
+                336
+            ],
+            "status": "manual"
+        }
+    ]
+}

@@ -1,0 +1,188 @@
+{
+    "image": "2014-12-09_-_22-45_Liverpool_1_-_1_Basel_corner_8.jpg",
+    "total_players": 14,
+    "players": [
+        {
+            "box": [
+                368,
+                339,
+                388,
+                384
+            ],
+            "foot_point": [
+                378,
+                384
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                106,
+                328,
+                132,
+                388
+            ],
+            "foot_point": [
+                119,
+                388
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                84,
+                321,
+                104,
+                380
+            ],
+            "foot_point": [
+                94,
+                380
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                152,
+                331,
+                171,
+                388
+            ],
+            "foot_point": [
+                161,
+                388
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                142,
+                307,
+                165,
+                356
+            ],
+            "foot_point": [
+                153,
+                356
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                159,
+                297,
+                181,
+                343
+            ],
+            "foot_point": [
+                170,
+                343
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                223,
+                345,
+                240,
+                389
+            ],
+            "foot_point": [
+                231,
+                389
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                229,
+                320,
+                245,
+                364
+            ],
+            "foot_point": [
+                237,
+                364
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                213,
+                312,
+                231,
+                362
+            ],
+            "foot_point": [
+                222,
+                362
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                307,
+                319,
+                331,
+                363
+            ],
+            "foot_point": [
+                319,
+                363
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                323,
+                334,
+                344,
+                380
+            ],
+            "foot_point": [
+                333,
+                380
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                282,
+                301,
+                306,
+                354
+            ],
+            "foot_point": [
+                294,
+                354
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                292,
+                303,
+                330,
+                354
+            ],
+            "foot_point": [
+                311,
+                354
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                388,
+                321,
+                421,
+                370
+            ],
+            "foot_point": [
+                404,
+                370
+            ],
+            "status": "manual"
+        }
+    ]
+}

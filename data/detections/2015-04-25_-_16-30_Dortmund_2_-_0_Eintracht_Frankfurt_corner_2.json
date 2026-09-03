@@ -1,0 +1,201 @@
+{
+    "image": "2015-04-25_-_16-30_Dortmund_2_-_0_Eintracht_Frankfurt_corner_2.jpg",
+    "total_players": 15,
+    "players": [
+        {
+            "box": [
+                99,
+                380,
+                115,
+                431
+            ],
+            "foot_point": [
+                107,
+                431
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                267,
+                385,
+                284,
+                428
+            ],
+            "foot_point": [
+                275,
+                428
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                156,
+                390,
+                177,
+                440
+            ],
+            "foot_point": [
+                166,
+                440
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                177,
+                383,
+                195,
+                435
+            ],
+            "foot_point": [
+                186,
+                435
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                141,
+                379,
+                163,
+                436
+            ],
+            "foot_point": [
+                152,
+                436
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                168,
+                377,
+                181,
+                424
+            ],
+            "foot_point": [
+                174,
+                424
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                224,
+                428,
+                240,
+                481
+            ],
+            "foot_point": [
+                232,
+                481
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                196,
+                385,
+                208,
+                431
+            ],
+            "foot_point": [
+                202,
+                431
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                205,
+                351,
+                224,
+                390
+            ],
+            "foot_point": [
+                214,
+                390
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                -1,
+                397,
+                14,
+                438
+            ],
+            "foot_point": [
+                6,
+                438
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                255,
+                357,
+                275,
+                409
+            ],
+            "foot_point": [
+                265,
+                409
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                284,
+                370,
+                304,
+                415
+            ],
+            "foot_point": [
+                294,
+                415
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                311,
+                380,
+                336,
+                425
+            ],
+            "foot_point": [
+                323,
+                425
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                331,
+                362,
+                361,
+                404
+            ],
+            "foot_point": [
+                346,
+                404
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                412,
+                376,
+                432,
+                425
+            ],
+            "foot_point": [
+                422,
+                425
+            ],
+            "status": "manual"
+        }
+    ]
+}

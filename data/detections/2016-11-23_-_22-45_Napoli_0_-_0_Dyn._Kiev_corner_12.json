@@ -1,0 +1,188 @@
+{
+    "image": "2016-11-23_-_22-45_Napoli_0_-_0_Dyn._Kiev_corner_12.jpg",
+    "total_players": 14,
+    "players": [
+        {
+            "box": [
+                146,
+                385,
+                176,
+                460
+            ],
+            "foot_point": [
+                161,
+                460
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1112,
+                213,
+                1132,
+                271
+            ],
+            "foot_point": [
+                1122,
+                271
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                516,
+                331,
+                536,
+                402
+            ],
+            "foot_point": [
+                526,
+                402
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                685,
+                244,
+                709,
+                294
+            ],
+            "foot_point": [
+                697,
+                294
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                792,
+                204,
+                818,
+                258
+            ],
+            "foot_point": [
+                805,
+                258
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                734,
+                230,
+                754,
+                280
+            ],
+            "foot_point": [
+                744,
+                280
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                816,
+                194,
+                838,
+                232
+            ],
+            "foot_point": [
+                827,
+                232
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                817,
+                179,
+                842,
+                227
+            ],
+            "foot_point": [
+                829,
+                227
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                724,
+                189,
+                743,
+                242
+            ],
+            "foot_point": [
+                733,
+                242
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                860,
+                216,
+                888,
+                257
+            ],
+            "foot_point": [
+                874,
+                257
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                859,
+                190,
+                880,
+                242
+            ],
+            "foot_point": [
+                869,
+                242
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                875,
+                175,
+                895,
+                226
+            ],
+            "foot_point": [
+                885,
+                226
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                894,
+                179,
+                919,
+                220
+            ],
+            "foot_point": [
+                906,
+                220
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                878,
+                167,
+                897,
+                217
+            ],
+            "foot_point": [
+                887,
+                217
+            ],
+            "status": "manual"
+        }
+    ]
+}

@@ -1,0 +1,227 @@
+{
+    "image": "2016-11-27_-_22-45_Lyon_1_-_2_Paris_SG_corner_8.jpg",
+    "total_players": 17,
+    "players": [
+        {
+            "box": [
+                43,
+                369,
+                69,
+                424
+            ],
+            "foot_point": [
+                56,
+                424
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                526,
+                337,
+                546,
+                382
+            ],
+            "foot_point": [
+                536,
+                382
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                266,
+                399,
+                284,
+                455
+            ],
+            "foot_point": [
+                275,
+                455
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                260,
+                348,
+                280,
+                402
+            ],
+            "foot_point": [
+                270,
+                402
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                352,
+                300,
+                371,
+                347
+            ],
+            "foot_point": [
+                361,
+                347
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                289,
+                369,
+                318,
+                423
+            ],
+            "foot_point": [
+                303,
+                423
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                329,
+                305,
+                347,
+                353
+            ],
+            "foot_point": [
+                338,
+                353
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                131,
+                294,
+                155,
+                336
+            ],
+            "foot_point": [
+                143,
+                336
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                190,
+                290,
+                217,
+                337
+            ],
+            "foot_point": [
+                203,
+                337
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                149,
+                340,
+                178,
+                380
+            ],
+            "foot_point": [
+                163,
+                380
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                176,
+                350,
+                193,
+                390
+            ],
+            "foot_point": [
+                184,
+                390
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                276,
+                301,
+                295,
+                345
+            ],
+            "foot_point": [
+                285,
+                345
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                288,
+                313,
+                308,
+                358
+            ],
+            "foot_point": [
+                298,
+                358
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                449,
+                276,
+                467,
+                322
+            ],
+            "foot_point": [
+                458,
+                322
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                503,
+                309,
+                519,
+                349
+            ],
+            "foot_point": [
+                511,
+                349
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                510,
+                294,
+                530,
+                340
+            ],
+            "foot_point": [
+                520,
+                340
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                492,
+                306,
+                510,
+                352
+            ],
+            "foot_point": [
+                501,
+                352
+            ],
+            "status": "manual"
+        }
+    ]
+}

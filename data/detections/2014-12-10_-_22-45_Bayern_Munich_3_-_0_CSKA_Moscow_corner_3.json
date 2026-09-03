@@ -1,0 +1,188 @@
+{
+    "image": "2014-12-10_-_22-45_Bayern_Munich_3_-_0_CSKA_Moscow_corner_3.jpg",
+    "total_players": 14,
+    "players": [
+        {
+            "box": [
+                327,
+                453,
+                355,
+                501
+            ],
+            "foot_point": [
+                341,
+                501
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                9,
+                424,
+                31,
+                485
+            ],
+            "foot_point": [
+                20,
+                485
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                33,
+                426,
+                54,
+                477
+            ],
+            "foot_point": [
+                43,
+                477
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                40,
+                463,
+                59,
+                519
+            ],
+            "foot_point": [
+                49,
+                519
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                40,
+                452,
+                60,
+                489
+            ],
+            "foot_point": [
+                50,
+                489
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                75,
+                444,
+                97,
+                504
+            ],
+            "foot_point": [
+                86,
+                504
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                107,
+                435,
+                124,
+                490
+            ],
+            "foot_point": [
+                115,
+                490
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                126,
+                416,
+                143,
+                467
+            ],
+            "foot_point": [
+                134,
+                467
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                151,
+                416,
+                168,
+                464
+            ],
+            "foot_point": [
+                159,
+                464
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                149,
+                443,
+                169,
+                500
+            ],
+            "foot_point": [
+                159,
+                500
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                208,
+                423,
+                236,
+                486
+            ],
+            "foot_point": [
+                222,
+                486
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                266,
+                446,
+                288,
+                493
+            ],
+            "foot_point": [
+                277,
+                493
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                255,
+                439,
+                275,
+                494
+            ],
+            "foot_point": [
+                265,
+                494
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                323,
+                414,
+                349,
+                473
+            ],
+            "foot_point": [
+                336,
+                473
+            ],
+            "status": "manual"
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "image": "2017-02-27_-_23-00_Leicester_3_-_1_Liverpool_corner_12.jpg",
+    "total_players": 9,
+    "players": [
+        {
+            "box": [
+                188,
+                329,
+                213,
+                393
+            ],
+            "foot_point": [
+                200,
+                393
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                311,
+                340,
+                334,
+                402
+            ],
+            "foot_point": [
+                322,
+                402
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                81,
+                352,
+                105,
+                418
+            ],
+            "foot_point": [
+                93,
+                418
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                427,
+                393,
+                457,
+                461
+            ],
+            "foot_point": [
+                442,
+                461
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                406,
+                415,
+                434,
+                484
+            ],
+            "foot_point": [
+                420,
+                484
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                280,
+                300,
+                301,
+                357
+            ],
+            "foot_point": [
+                290,
+                357
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                179,
+                296,
+                198,
+                334
+            ],
+            "foot_point": [
+                188,
+                334
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                -3,
+                293,
+                11,
+                351
+            ],
+            "foot_point": [
+                4,
+                351
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                220,
+                267,
+                266,
+                334
+            ],
+            "foot_point": [
+                243,
+                334
+            ],
+            "status": "manual"
+        }
+    ]
+}

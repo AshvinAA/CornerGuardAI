@@ -1,0 +1,162 @@
+{
+    "image": "2015-11-21_-_20-30_Manchester_City_1_-_4_Liverpool_corner_6.jpg",
+    "total_players": 12,
+    "players": [
+        {
+            "box": [
+                116,
+                478,
+                147,
+                568
+            ],
+            "foot_point": [
+                131,
+                568
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                187,
+                364,
+                213,
+                435
+            ],
+            "foot_point": [
+                200,
+                435
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                226,
+                349,
+                253,
+                424
+            ],
+            "foot_point": [
+                239,
+                424
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                371,
+                309,
+                392,
+                377
+            ],
+            "foot_point": [
+                381,
+                377
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                588,
+                395,
+                620,
+                476
+            ],
+            "foot_point": [
+                604,
+                476
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                870,
+                366,
+                892,
+                435
+            ],
+            "foot_point": [
+                881,
+                435
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                507,
+                338,
+                544,
+                426
+            ],
+            "foot_point": [
+                525,
+                426
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                664,
+                382,
+                694,
+                450
+            ],
+            "foot_point": [
+                679,
+                450
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                564,
+                380,
+                584,
+                457
+            ],
+            "foot_point": [
+                574,
+                457
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                841,
+                329,
+                863,
+                397
+            ],
+            "foot_point": [
+                852,
+                397
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                705,
+                428,
+                735,
+                509
+            ],
+            "foot_point": [
+                720,
+                509
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                686,
+                401,
+                713,
+                477
+            ],
+            "foot_point": [
+                699,
+                477
+            ],
+            "status": "manual"
+        }
+    ]
+}

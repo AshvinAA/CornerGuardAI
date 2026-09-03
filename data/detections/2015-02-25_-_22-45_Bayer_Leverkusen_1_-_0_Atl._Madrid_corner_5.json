@@ -1,0 +1,201 @@
+{
+    "image": "2015-02-25_-_22-45_Bayer_Leverkusen_1_-_0_Atl._Madrid_corner_5.jpg",
+    "total_players": 15,
+    "players": [
+        {
+            "box": [
+                985,
+                503,
+                1012,
+                581
+            ],
+            "foot_point": [
+                998,
+                581
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                415,
+                455,
+                452,
+                527
+            ],
+            "foot_point": [
+                433,
+                527
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                674,
+                450,
+                706,
+                516
+            ],
+            "foot_point": [
+                690,
+                516
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                452,
+                430,
+                482,
+                506
+            ],
+            "foot_point": [
+                467,
+                506
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                538,
+                454,
+                567,
+                527
+            ],
+            "foot_point": [
+                552,
+                527
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                860,
+                305,
+                878,
+                364
+            ],
+            "foot_point": [
+                869,
+                364
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                820,
+                419,
+                842,
+                489
+            ],
+            "foot_point": [
+                831,
+                489
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                475,
+                407,
+                505,
+                479
+            ],
+            "foot_point": [
+                490,
+                479
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                522,
+                452,
+                544,
+                525
+            ],
+            "foot_point": [
+                533,
+                525
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                639,
+                459,
+                672,
+                524
+            ],
+            "foot_point": [
+                655,
+                524
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                616,
+                456,
+                643,
+                526
+            ],
+            "foot_point": [
+                629,
+                526
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                316,
+                424,
+                350,
+                490
+            ],
+            "foot_point": [
+                333,
+                490
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                543,
+                407,
+                577,
+                463
+            ],
+            "foot_point": [
+                560,
+                463
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                504,
+                401,
+                538,
+                455
+            ],
+            "foot_point": [
+                521,
+                455
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                524,
+                378,
+                558,
+                444
+            ],
+            "foot_point": [
+                541,
+                444
+            ],
+            "status": "manual"
+        }
+    ]
+}

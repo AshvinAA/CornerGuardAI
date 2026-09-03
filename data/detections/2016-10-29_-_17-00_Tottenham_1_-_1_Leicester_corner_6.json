@@ -1,0 +1,175 @@
+{
+    "image": "2016-10-29_-_17-00_Tottenham_1_-_1_Leicester_corner_6.jpg",
+    "total_players": 13,
+    "players": [
+        {
+            "box": [
+                387,
+                411,
+                425,
+                518
+            ],
+            "foot_point": [
+                406,
+                518
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                498,
+                414,
+                523,
+                506
+            ],
+            "foot_point": [
+                510,
+                506
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                513,
+                345,
+                546,
+                420
+            ],
+            "foot_point": [
+                529,
+                420
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                910,
+                346,
+                949,
+                412
+            ],
+            "foot_point": [
+                929,
+                412
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                575,
+                351,
+                610,
+                429
+            ],
+            "foot_point": [
+                592,
+                429
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                670,
+                350,
+                696,
+                428
+            ],
+            "foot_point": [
+                683,
+                428
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                698,
+                394,
+                743,
+                464
+            ],
+            "foot_point": [
+                720,
+                464
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                597,
+                343,
+                628,
+                427
+            ],
+            "foot_point": [
+                612,
+                427
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                621,
+                358,
+                661,
+                432
+            ],
+            "foot_point": [
+                641,
+                432
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                627,
+                321,
+                656,
+                385
+            ],
+            "foot_point": [
+                641,
+                385
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                651,
+                317,
+                680,
+                385
+            ],
+            "foot_point": [
+                665,
+                385
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                720,
+                321,
+                761,
+                391
+            ],
+            "foot_point": [
+                740,
+                391
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                708,
+                382,
+                738,
+                461
+            ],
+            "foot_point": [
+                723,
+                461
+            ],
+            "status": "manual"
+        }
+    ]
+}

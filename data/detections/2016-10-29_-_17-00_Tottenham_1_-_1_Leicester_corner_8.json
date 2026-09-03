@@ -1,0 +1,201 @@
+{
+    "image": "2016-10-29_-_17-00_Tottenham_1_-_1_Leicester_corner_8.jpg",
+    "total_players": 15,
+    "players": [
+        {
+            "box": [
+                237,
+                452,
+                266,
+                518
+            ],
+            "foot_point": [
+                251,
+                518
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                330,
+                428,
+                353,
+                492
+            ],
+            "foot_point": [
+                341,
+                492
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                3,
+                385,
+                27,
+                438
+            ],
+            "foot_point": [
+                15,
+                438
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                150,
+                369,
+                166,
+                416
+            ],
+            "foot_point": [
+                158,
+                416
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                380,
+                354,
+                397,
+                403
+            ],
+            "foot_point": [
+                388,
+                403
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                176,
+                364,
+                195,
+                407
+            ],
+            "foot_point": [
+                185,
+                407
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                52,
+                378,
+                85,
+                426
+            ],
+            "foot_point": [
+                68,
+                426
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                111,
+                358,
+                131,
+                398
+            ],
+            "foot_point": [
+                121,
+                398
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                86,
+                349,
+                108,
+                400
+            ],
+            "foot_point": [
+                97,
+                400
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                232,
+                383,
+                248,
+                423
+            ],
+            "foot_point": [
+                240,
+                423
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                229,
+                361,
+                246,
+                403
+            ],
+            "foot_point": [
+                237,
+                403
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                234,
+                370,
+                260,
+                407
+            ],
+            "foot_point": [
+                247,
+                407
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                325,
+                335,
+                352,
+                387
+            ],
+            "foot_point": [
+                338,
+                387
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                423,
+                360,
+                443,
+                415
+            ],
+            "foot_point": [
+                433,
+                415
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                444,
+                367,
+                469,
+                411
+            ],
+            "foot_point": [
+                456,
+                411
+            ],
+            "status": "manual"
+        }
+    ]
+}

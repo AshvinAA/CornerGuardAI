@@ -1,0 +1,188 @@
+{
+    "image": "2015-09-26_-_18-30_Nantes_1_-_4_Paris_SG_corner_9.jpg",
+    "total_players": 14,
+    "players": [
+        {
+            "box": [
+                316,
+                527,
+                337,
+                586
+            ],
+            "foot_point": [
+                326,
+                586
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                374,
+                472,
+                401,
+                528
+            ],
+            "foot_point": [
+                387,
+                528
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                422,
+                373,
+                450,
+                411
+            ],
+            "foot_point": [
+                436,
+                411
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                481,
+                367,
+                495,
+                400
+            ],
+            "foot_point": [
+                488,
+                400
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                473,
+                395,
+                490,
+                442
+            ],
+            "foot_point": [
+                481,
+                442
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                148,
+                392,
+                166,
+                427
+            ],
+            "foot_point": [
+                157,
+                427
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                165,
+                391,
+                179,
+                421
+            ],
+            "foot_point": [
+                172,
+                421
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                170,
+                406,
+                195,
+                434
+            ],
+            "foot_point": [
+                182,
+                434
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                193,
+                389,
+                215,
+                429
+            ],
+            "foot_point": [
+                204,
+                429
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                210,
+                419,
+                222,
+                449
+            ],
+            "foot_point": [
+                216,
+                449
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                220,
+                381,
+                235,
+                412
+            ],
+            "foot_point": [
+                227,
+                412
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                233,
+                380,
+                247,
+                410
+            ],
+            "foot_point": [
+                240,
+                410
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                242,
+                403,
+                256,
+                441
+            ],
+            "foot_point": [
+                249,
+                441
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                250,
+                384,
+                269,
+                425
+            ],
+            "foot_point": [
+                259,
+                425
+            ],
+            "status": "manual"
+        }
+    ]
+}

@@ -1,0 +1,201 @@
+{
+    "image": "2017-03-07_-_22-45_Napoli_1_-_3_Real_Madrid_corner_10.jpg",
+    "total_players": 15,
+    "players": [
+        {
+            "box": [
+                2,
+                370,
+                27,
+                430
+            ],
+            "foot_point": [
+                14,
+                430
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                492,
+                315,
+                513,
+                363
+            ],
+            "foot_point": [
+                502,
+                363
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                204,
+                272,
+                229,
+                318
+            ],
+            "foot_point": [
+                216,
+                318
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                236,
+                315,
+                265,
+                363
+            ],
+            "foot_point": [
+                250,
+                363
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                255,
+                359,
+                270,
+                403
+            ],
+            "foot_point": [
+                262,
+                403
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                277,
+                306,
+                299,
+                342
+            ],
+            "foot_point": [
+                288,
+                342
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                279,
+                283,
+                302,
+                325
+            ],
+            "foot_point": [
+                290,
+                325
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                327,
+                318,
+                348,
+                364
+            ],
+            "foot_point": [
+                337,
+                364
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                353,
+                322,
+                373,
+                371
+            ],
+            "foot_point": [
+                363,
+                371
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                369,
+                299,
+                390,
+                342
+            ],
+            "foot_point": [
+                379,
+                342
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                325,
+                276,
+                347,
+                321
+            ],
+            "foot_point": [
+                336,
+                321
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                411,
+                300,
+                442,
+                348
+            ],
+            "foot_point": [
+                426,
+                348
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                452,
+                303,
+                474,
+                349
+            ],
+            "foot_point": [
+                463,
+                349
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                468,
+                281,
+                489,
+                329
+            ],
+            "foot_point": [
+                478,
+                329
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                526,
+                296,
+                552,
+                345
+            ],
+            "foot_point": [
+                539,
+                345
+            ],
+            "status": "manual"
+        }
+    ]
+}

@@ -1,0 +1,201 @@
+{
+    "image": "2015-04-22_-_21-45_Monaco_0_-_0_Juventus_corner_1.jpg",
+    "total_players": 15,
+    "players": [
+        {
+            "box": [
+                157,
+                510,
+                178,
+                568
+            ],
+            "foot_point": [
+                167,
+                568
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                910,
+                499,
+                929,
+                556
+            ],
+            "foot_point": [
+                919,
+                556
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                299,
+                468,
+                316,
+                522
+            ],
+            "foot_point": [
+                307,
+                522
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                506,
+                429,
+                527,
+                472
+            ],
+            "foot_point": [
+                516,
+                472
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                462,
+                426,
+                485,
+                468
+            ],
+            "foot_point": [
+                473,
+                468
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                401,
+                402,
+                417,
+                446
+            ],
+            "foot_point": [
+                409,
+                446
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                70,
+                410,
+                82,
+                458
+            ],
+            "foot_point": [
+                76,
+                458
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                219,
+                419,
+                243,
+                452
+            ],
+            "foot_point": [
+                231,
+                452
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                229,
+                397,
+                247,
+                437
+            ],
+            "foot_point": [
+                238,
+                437
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                238,
+                425,
+                257,
+                454
+            ],
+            "foot_point": [
+                247,
+                454
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                253,
+                417,
+                269,
+                470
+            ],
+            "foot_point": [
+                261,
+                470
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                276,
+                425,
+                290,
+                466
+            ],
+            "foot_point": [
+                283,
+                466
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                302,
+                414,
+                318,
+                453
+            ],
+            "foot_point": [
+                310,
+                453
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                325,
+                411,
+                342,
+                453
+            ],
+            "foot_point": [
+                333,
+                453
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                422,
+                389,
+                440,
+                429
+            ],
+            "foot_point": [
+                431,
+                429
+            ],
+            "status": "manual"
+        }
+    ]
+}

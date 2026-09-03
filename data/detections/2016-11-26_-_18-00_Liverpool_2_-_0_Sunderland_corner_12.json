@@ -1,0 +1,240 @@
+{
+    "image": "2016-11-26_-_18-00_Liverpool_2_-_0_Sunderland_corner_12.jpg",
+    "total_players": 18,
+    "players": [
+        {
+            "box": [
+                621,
+                459,
+                659,
+                554
+            ],
+            "foot_point": [
+                640,
+                554
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                166,
+                416,
+                200,
+                508
+            ],
+            "foot_point": [
+                183,
+                508
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                541,
+                460,
+                570,
+                557
+            ],
+            "foot_point": [
+                555,
+                557
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                822,
+                424,
+                860,
+                508
+            ],
+            "foot_point": [
+                841,
+                508
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                328,
+                622,
+                365,
+                720
+            ],
+            "foot_point": [
+                346,
+                720
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                892,
+                492,
+                931,
+                582
+            ],
+            "foot_point": [
+                911,
+                582
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1028,
+                414,
+                1063,
+                515
+            ],
+            "foot_point": [
+                1045,
+                515
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                444,
+                624,
+                497,
+                720
+            ],
+            "foot_point": [
+                470,
+                720
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                856,
+                437,
+                893,
+                518
+            ],
+            "foot_point": [
+                874,
+                518
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                863,
+                391,
+                892,
+                482
+            ],
+            "foot_point": [
+                877,
+                482
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                869,
+                385,
+                902,
+                484
+            ],
+            "foot_point": [
+                885,
+                484
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                901,
+                383,
+                943,
+                470
+            ],
+            "foot_point": [
+                922,
+                470
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                882,
+                371,
+                924,
+                450
+            ],
+            "foot_point": [
+                903,
+                450
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                907,
+                359,
+                952,
+                460
+            ],
+            "foot_point": [
+                929,
+                460
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                936,
+                539,
+                989,
+                643
+            ],
+            "foot_point": [
+                962,
+                643
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                888,
+                523,
+                934,
+                609
+            ],
+            "foot_point": [
+                911,
+                609
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                940,
+                497,
+                999,
+                587
+            ],
+            "foot_point": [
+                969,
+                587
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1044,
+                393,
+                1072,
+                498
+            ],
+            "foot_point": [
+                1058,
+                498
+            ],
+            "status": "manual"
+        }
+    ]
+}

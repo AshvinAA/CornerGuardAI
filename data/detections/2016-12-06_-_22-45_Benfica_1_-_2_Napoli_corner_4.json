@@ -1,0 +1,227 @@
+{
+    "image": "2016-12-06_-_22-45_Benfica_1_-_2_Napoli_corner_4.jpg",
+    "total_players": 17,
+    "players": [
+        {
+            "box": [
+                309,
+                511,
+                350,
+                588
+            ],
+            "foot_point": [
+                329,
+                588
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                495,
+                447,
+                521,
+                522
+            ],
+            "foot_point": [
+                508,
+                522
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                648,
+                466,
+                680,
+                549
+            ],
+            "foot_point": [
+                664,
+                549
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                634,
+                496,
+                663,
+                582
+            ],
+            "foot_point": [
+                648,
+                582
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                370,
+                434,
+                405,
+                513
+            ],
+            "foot_point": [
+                387,
+                513
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                542,
+                402,
+                567,
+                471
+            ],
+            "foot_point": [
+                554,
+                471
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                620,
+                431,
+                645,
+                513
+            ],
+            "foot_point": [
+                632,
+                513
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                953,
+                308,
+                980,
+                361
+            ],
+            "foot_point": [
+                966,
+                361
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1073,
+                252,
+                1092,
+                303
+            ],
+            "foot_point": [
+                1082,
+                303
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                273,
+                460,
+                298,
+                528
+            ],
+            "foot_point": [
+                285,
+                528
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                420,
+                428,
+                467,
+                497
+            ],
+            "foot_point": [
+                443,
+                497
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                599,
+                432,
+                627,
+                508
+            ],
+            "foot_point": [
+                613,
+                508
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                277,
+                406,
+                304,
+                481
+            ],
+            "foot_point": [
+                290,
+                481
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                324,
+                396,
+                366,
+                448
+            ],
+            "foot_point": [
+                345,
+                448
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                470,
+                397,
+                486,
+                461
+            ],
+            "foot_point": [
+                478,
+                461
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                466,
+                383,
+                493,
+                446
+            ],
+            "foot_point": [
+                479,
+                446
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                505,
+                369,
+                541,
+                427
+            ],
+            "foot_point": [
+                523,
+                427
+            ],
+            "status": "manual"
+        }
+    ]
+}

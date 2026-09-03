@@ -1,0 +1,201 @@
+{
+    "image": "2015-08-29_-_17-00_Chelsea_1_-_2_Crystal_Palace_corner_1.jpg",
+    "total_players": 15,
+    "players": [
+        {
+            "box": [
+                552,
+                440,
+                591,
+                523
+            ],
+            "foot_point": [
+                571,
+                523
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                603,
+                417,
+                634,
+                496
+            ],
+            "foot_point": [
+                618,
+                496
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                822,
+                454,
+                852,
+                554
+            ],
+            "foot_point": [
+                837,
+                554
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                741,
+                405,
+                768,
+                490
+            ],
+            "foot_point": [
+                754,
+                490
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                853,
+                365,
+                882,
+                441
+            ],
+            "foot_point": [
+                867,
+                441
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                495,
+                442,
+                552,
+                517
+            ],
+            "foot_point": [
+                523,
+                517
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                913,
+                365,
+                936,
+                435
+            ],
+            "foot_point": [
+                924,
+                435
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                851,
+                486,
+                900,
+                585
+            ],
+            "foot_point": [
+                875,
+                585
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                889,
+                481,
+                934,
+                571
+            ],
+            "foot_point": [
+                911,
+                571
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                885,
+                444,
+                912,
+                522
+            ],
+            "foot_point": [
+                898,
+                522
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                791,
+                346,
+                821,
+                411
+            ],
+            "foot_point": [
+                806,
+                411
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                835,
+                358,
+                855,
+                415
+            ],
+            "foot_point": [
+                845,
+                415
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                825,
+                353,
+                850,
+                412
+            ],
+            "foot_point": [
+                837,
+                412
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1027,
+                365,
+                1067,
+                447
+            ],
+            "foot_point": [
+                1047,
+                447
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                858,
+                356,
+                889,
+                432
+            ],
+            "foot_point": [
+                873,
+                432
+            ],
+            "status": "manual"
+        }
+    ]
+}

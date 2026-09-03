@@ -1,0 +1,97 @@
+{
+    "image": "2015-08-29_-_17-00_Chelsea_1_-_2_Crystal_Palace_corner_14.jpg",
+    "total_players": 7,
+    "players": [
+        {
+            "box": [
+                1084,
+                359,
+                1102,
+                412
+            ],
+            "foot_point": [
+                1093,
+                412
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                947,
+                346,
+                965,
+                394
+            ],
+            "foot_point": [
+                956,
+                394
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1034,
+                339,
+                1057,
+                384
+            ],
+            "foot_point": [
+                1045,
+                384
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                901,
+                356,
+                926,
+                405
+            ],
+            "foot_point": [
+                913,
+                405
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                971,
+                336,
+                995,
+                380
+            ],
+            "foot_point": [
+                983,
+                380
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                999,
+                328,
+                1024,
+                374
+            ],
+            "foot_point": [
+                1011,
+                374
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1025,
+                329,
+                1044,
+                380
+            ],
+            "foot_point": [
+                1034,
+                380
+            ],
+            "status": "manual"
+        }
+    ]
+}

@@ -1,0 +1,175 @@
+{
+    "image": "2016-10-15_-_18-00_Nancy_1_-_2_Paris_SG_corner_2.jpg",
+    "total_players": 13,
+    "players": [
+        {
+            "box": [
+                1164,
+                549,
+                1190,
+                630
+            ],
+            "foot_point": [
+                1177,
+                630
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                801,
+                417,
+                817,
+                460
+            ],
+            "foot_point": [
+                809,
+                460
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                924,
+                382,
+                945,
+                434
+            ],
+            "foot_point": [
+                934,
+                434
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1222,
+                414,
+                1236,
+                464
+            ],
+            "foot_point": [
+                1229,
+                464
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                901,
+                391,
+                919,
+                439
+            ],
+            "foot_point": [
+                910,
+                439
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                1027,
+                400,
+                1042,
+                446
+            ],
+            "foot_point": [
+                1034,
+                446
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1168,
+                402,
+                1182,
+                450
+            ],
+            "foot_point": [
+                1175,
+                450
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1187,
+                424,
+                1198,
+                459
+            ],
+            "foot_point": [
+                1192,
+                459
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1195,
+                412,
+                1207,
+                459
+            ],
+            "foot_point": [
+                1201,
+                459
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1184,
+                399,
+                1204,
+                457
+            ],
+            "foot_point": [
+                1194,
+                457
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1238,
+                408,
+                1252,
+                463
+            ],
+            "foot_point": [
+                1245,
+                463
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1242,
+                400,
+                1258,
+                460
+            ],
+            "foot_point": [
+                1250,
+                460
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1252,
+                398,
+                1274,
+                460
+            ],
+            "foot_point": [
+                1263,
+                460
+            ],
+            "status": "manual"
+        }
+    ]
+}

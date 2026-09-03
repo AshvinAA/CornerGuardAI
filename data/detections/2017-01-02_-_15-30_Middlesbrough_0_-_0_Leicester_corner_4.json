@@ -1,0 +1,188 @@
+{
+    "image": "2017-01-02_-_15-30_Middlesbrough_0_-_0_Leicester_corner_4.jpg",
+    "total_players": 14,
+    "players": [
+        {
+            "box": [
+                594,
+                345,
+                623,
+                440
+            ],
+            "foot_point": [
+                608,
+                440
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                773,
+                272,
+                818,
+                358
+            ],
+            "foot_point": [
+                795,
+                358
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                950,
+                278,
+                986,
+                356
+            ],
+            "foot_point": [
+                968,
+                356
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                129,
+                275,
+                159,
+                352
+            ],
+            "foot_point": [
+                144,
+                352
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                574,
+                279,
+                602,
+                351
+            ],
+            "foot_point": [
+                588,
+                351
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                693,
+                349,
+                731,
+                441
+            ],
+            "foot_point": [
+                712,
+                441
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                613,
+                282,
+                644,
+                355
+            ],
+            "foot_point": [
+                628,
+                355
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                911,
+                276,
+                943,
+                358
+            ],
+            "foot_point": [
+                927,
+                358
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                885,
+                273,
+                920,
+                357
+            ],
+            "foot_point": [
+                902,
+                357
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                647,
+                297,
+                678,
+                377
+            ],
+            "foot_point": [
+                662,
+                377
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                703,
+                251,
+                736,
+                317
+            ],
+            "foot_point": [
+                719,
+                317
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                701,
+                298,
+                731,
+                370
+            ],
+            "foot_point": [
+                716,
+                370
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                719,
+                353,
+                753,
+                432
+            ],
+            "foot_point": [
+                736,
+                432
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                722,
+                295,
+                748,
+                370
+            ],
+            "foot_point": [
+                735,
+                370
+            ],
+            "status": "manual"
+        }
+    ]
+}

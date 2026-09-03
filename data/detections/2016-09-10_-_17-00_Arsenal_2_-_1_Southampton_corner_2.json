@@ -1,0 +1,188 @@
+{
+    "image": "2016-09-10_-_17-00_Arsenal_2_-_1_Southampton_corner_2.jpg",
+    "total_players": 14,
+    "players": [
+        {
+            "box": [
+                482,
+                320,
+                504,
+                381
+            ],
+            "foot_point": [
+                493,
+                381
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                47,
+                247,
+                72,
+                297
+            ],
+            "foot_point": [
+                59,
+                297
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                658,
+                387,
+                683,
+                458
+            ],
+            "foot_point": [
+                670,
+                458
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                518,
+                277,
+                535,
+                331
+            ],
+            "foot_point": [
+                526,
+                331
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                204,
+                225,
+                232,
+                277
+            ],
+            "foot_point": [
+                218,
+                277
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                92,
+                228,
+                117,
+                273
+            ],
+            "foot_point": [
+                104,
+                273
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                101,
+                239,
+                117,
+                291
+            ],
+            "foot_point": [
+                109,
+                291
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                112,
+                260,
+                130,
+                297
+            ],
+            "foot_point": [
+                121,
+                297
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                126,
+                246,
+                159,
+                299
+            ],
+            "foot_point": [
+                142,
+                299
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                146,
+                218,
+                164,
+                272
+            ],
+            "foot_point": [
+                155,
+                272
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                239,
+                227,
+                252,
+                278
+            ],
+            "foot_point": [
+                245,
+                278
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                257,
+                227,
+                274,
+                278
+            ],
+            "foot_point": [
+                265,
+                278
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                281,
+                235,
+                304,
+                282
+            ],
+            "foot_point": [
+                292,
+                282
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                274,
+                199,
+                300,
+                253
+            ],
+            "foot_point": [
+                287,
+                253
+            ],
+            "status": "manual"
+        }
+    ]
+}

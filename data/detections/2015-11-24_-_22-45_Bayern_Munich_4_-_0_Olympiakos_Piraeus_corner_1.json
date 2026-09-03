@@ -1,0 +1,214 @@
+{
+    "image": "2015-11-24_-_22-45_Bayern_Munich_4_-_0_Olympiakos_Piraeus_corner_1.jpg",
+    "total_players": 16,
+    "players": [
+        {
+            "box": [
+                786,
+                429,
+                842,
+                532
+            ],
+            "foot_point": [
+                814,
+                532
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                357,
+                385,
+                405,
+                493
+            ],
+            "foot_point": [
+                381,
+                493
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                453,
+                354,
+                510,
+                451
+            ],
+            "foot_point": [
+                481,
+                451
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                731,
+                339,
+                776,
+                417
+            ],
+            "foot_point": [
+                753,
+                417
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1097,
+                280,
+                1123,
+                352
+            ],
+            "foot_point": [
+                1110,
+                352
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                546,
+                368,
+                585,
+                463
+            ],
+            "foot_point": [
+                565,
+                463
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                786,
+                350,
+                819,
+                431
+            ],
+            "foot_point": [
+                802,
+                431
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                586,
+                370,
+                636,
+                455
+            ],
+            "foot_point": [
+                611,
+                455
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                324,
+                381,
+                354,
+                482
+            ],
+            "foot_point": [
+                339,
+                482
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                398,
+                362,
+                431,
+                458
+            ],
+            "foot_point": [
+                414,
+                458
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                368,
+                327,
+                401,
+                405
+            ],
+            "foot_point": [
+                384,
+                405
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                767,
+                275,
+                795,
+                351
+            ],
+            "foot_point": [
+                781,
+                351
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                619,
+                363,
+                668,
+                454
+            ],
+            "foot_point": [
+                643,
+                454
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                209,
+                344,
+                251,
+                436
+            ],
+            "foot_point": [
+                230,
+                436
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                517,
+                334,
+                553,
+                419
+            ],
+            "foot_point": [
+                535,
+                419
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                547,
+                341,
+                577,
+                422
+            ],
+            "foot_point": [
+                562,
+                422
+            ],
+            "status": "manual"
+        }
+    ]
+}

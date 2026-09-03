@@ -1,0 +1,188 @@
+{
+    "image": "2017-04-18_-_21-45_Real_Madrid_4_-_2_Bayern_Munich_corner_7.jpg",
+    "total_players": 14,
+    "players": [
+        {
+            "box": [
+                76,
+                376,
+                102,
+                432
+            ],
+            "foot_point": [
+                89,
+                432
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                9,
+                326,
+                31,
+                372
+            ],
+            "foot_point": [
+                20,
+                372
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                233,
+                304,
+                250,
+                349
+            ],
+            "foot_point": [
+                241,
+                349
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                451,
+                310,
+                466,
+                348
+            ],
+            "foot_point": [
+                458,
+                348
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                475,
+                307,
+                492,
+                349
+            ],
+            "foot_point": [
+                483,
+                349
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                339,
+                328,
+                360,
+                391
+            ],
+            "foot_point": [
+                349,
+                391
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                261,
+                327,
+                284,
+                364
+            ],
+            "foot_point": [
+                272,
+                364
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                295,
+                316,
+                312,
+                357
+            ],
+            "foot_point": [
+                303,
+                357
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                298,
+                296,
+                312,
+                347
+            ],
+            "foot_point": [
+                305,
+                347
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                311,
+                293,
+                327,
+                339
+            ],
+            "foot_point": [
+                319,
+                339
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                315,
+                327,
+                340,
+                359
+            ],
+            "foot_point": [
+                327,
+                359
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                332,
+                311,
+                354,
+                352
+            ],
+            "foot_point": [
+                343,
+                352
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                382,
+                304,
+                397,
+                352
+            ],
+            "foot_point": [
+                389,
+                352
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                524,
+                315,
+                539,
+                352
+            ],
+            "foot_point": [
+                531,
+                352
+            ],
+            "status": "manual"
+        }
+    ]
+}

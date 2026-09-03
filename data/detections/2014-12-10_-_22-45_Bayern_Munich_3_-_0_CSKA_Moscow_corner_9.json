@@ -1,0 +1,201 @@
+{
+    "image": "2014-12-10_-_22-45_Bayern_Munich_3_-_0_CSKA_Moscow_corner_9.jpg",
+    "total_players": 15,
+    "players": [
+        {
+            "box": [
+                994,
+                435,
+                1018,
+                497
+            ],
+            "foot_point": [
+                1006,
+                497
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                845,
+                376,
+                866,
+                427
+            ],
+            "foot_point": [
+                855,
+                427
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                890,
+                361,
+                912,
+                417
+            ],
+            "foot_point": [
+                901,
+                417
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                904,
+                367,
+                926,
+                421
+            ],
+            "foot_point": [
+                915,
+                421
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                966,
+                355,
+                988,
+                414
+            ],
+            "foot_point": [
+                977,
+                414
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                977,
+                372,
+                1006,
+                420
+            ],
+            "foot_point": [
+                991,
+                420
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1016,
+                363,
+                1044,
+                422
+            ],
+            "foot_point": [
+                1030,
+                422
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1049,
+                359,
+                1072,
+                404
+            ],
+            "foot_point": [
+                1060,
+                404
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1065,
+                343,
+                1087,
+                397
+            ],
+            "foot_point": [
+                1076,
+                397
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1090,
+                366,
+                1117,
+                408
+            ],
+            "foot_point": [
+                1103,
+                408
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1116,
+                345,
+                1136,
+                387
+            ],
+            "foot_point": [
+                1126,
+                387
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1127,
+                368,
+                1148,
+                413
+            ],
+            "foot_point": [
+                1137,
+                413
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1164,
+                347,
+                1181,
+                407
+            ],
+            "foot_point": [
+                1172,
+                407
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1200,
+                358,
+                1240,
+                419
+            ],
+            "foot_point": [
+                1220,
+                419
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1261,
+                373,
+                1284,
+                433
+            ],
+            "foot_point": [
+                1272,
+                433
+            ],
+            "status": "manual"
+        }
+    ]
+}

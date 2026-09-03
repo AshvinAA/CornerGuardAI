@@ -1,0 +1,188 @@
+{
+    "image": "2015-11-03_-_22-45_Manchester_United_1_-_0_CSKA_Moscow_corner_3.jpg",
+    "total_players": 14,
+    "players": [
+        {
+            "box": [
+                83,
+                445,
+                118,
+                539
+            ],
+            "foot_point": [
+                100,
+                539
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                592,
+                489,
+                626,
+                584
+            ],
+            "foot_point": [
+                609,
+                584
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                566,
+                355,
+                593,
+                425
+            ],
+            "foot_point": [
+                579,
+                425
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                821,
+                385,
+                853,
+                463
+            ],
+            "foot_point": [
+                837,
+                463
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                711,
+                342,
+                734,
+                413
+            ],
+            "foot_point": [
+                722,
+                413
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                859,
+                362,
+                886,
+                440
+            ],
+            "foot_point": [
+                872,
+                440
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                473,
+                326,
+                496,
+                396
+            ],
+            "foot_point": [
+                484,
+                396
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                776,
+                314,
+                801,
+                384
+            ],
+            "foot_point": [
+                788,
+                384
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                215,
+                345,
+                240,
+                415
+            ],
+            "foot_point": [
+                227,
+                415
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                982,
+                314,
+                1017,
+                384
+            ],
+            "foot_point": [
+                999,
+                384
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                829,
+                309,
+                854,
+                384
+            ],
+            "foot_point": [
+                841,
+                384
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                469,
+                292,
+                498,
+                343
+            ],
+            "foot_point": [
+                483,
+                343
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                456,
+                218,
+                476,
+                268
+            ],
+            "foot_point": [
+                466,
+                268
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                845,
+                279,
+                866,
+                341
+            ],
+            "foot_point": [
+                855,
+                341
+            ],
+            "status": "safe"
+        }
+    ]
+}

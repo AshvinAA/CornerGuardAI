@@ -1,0 +1,201 @@
+{
+    "image": "2016-04-09_-_17-00_Swansea_1_-_0_Chelsea_corner_2.jpg",
+    "total_players": 15,
+    "players": [
+        {
+            "box": [
+                1085,
+                434,
+                1117,
+                489
+            ],
+            "foot_point": [
+                1101,
+                489
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                341,
+                330,
+                366,
+                382
+            ],
+            "foot_point": [
+                353,
+                382
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                241,
+                342,
+                262,
+                395
+            ],
+            "foot_point": [
+                251,
+                395
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                200,
+                336,
+                224,
+                389
+            ],
+            "foot_point": [
+                212,
+                389
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                181,
+                317,
+                201,
+                374
+            ],
+            "foot_point": [
+                191,
+                374
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                123,
+                314,
+                146,
+                367
+            ],
+            "foot_point": [
+                134,
+                367
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                44,
+                314,
+                55,
+                357
+            ],
+            "foot_point": [
+                49,
+                357
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                59,
+                311,
+                77,
+                359
+            ],
+            "foot_point": [
+                68,
+                359
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                46,
+                299,
+                65,
+                351
+            ],
+            "foot_point": [
+                55,
+                351
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                60,
+                295,
+                75,
+                344
+            ],
+            "foot_point": [
+                67,
+                344
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                74,
+                306,
+                94,
+                361
+            ],
+            "foot_point": [
+                84,
+                361
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                103,
+                309,
+                125,
+                365
+            ],
+            "foot_point": [
+                114,
+                365
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                225,
+                293,
+                246,
+                355
+            ],
+            "foot_point": [
+                235,
+                355
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                248,
+                306,
+                270,
+                356
+            ],
+            "foot_point": [
+                259,
+                356
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                259,
+                293,
+                286,
+                352
+            ],
+            "foot_point": [
+                272,
+                352
+            ],
+            "status": "manual"
+        }
+    ]
+}

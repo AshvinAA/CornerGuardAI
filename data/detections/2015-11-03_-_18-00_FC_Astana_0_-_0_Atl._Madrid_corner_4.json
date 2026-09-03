@@ -1,0 +1,201 @@
+{
+    "image": "2015-11-03_-_18-00_FC_Astana_0_-_0_Atl._Madrid_corner_4.jpg",
+    "total_players": 15,
+    "players": [
+        {
+            "box": [
+                1025,
+                383,
+                1047,
+                435
+            ],
+            "foot_point": [
+                1036,
+                435
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                990,
+                399,
+                1020,
+                446
+            ],
+            "foot_point": [
+                1005,
+                446
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                927,
+                382,
+                945,
+                431
+            ],
+            "foot_point": [
+                936,
+                431
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1089,
+                383,
+                1107,
+                430
+            ],
+            "foot_point": [
+                1098,
+                430
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                895,
+                390,
+                918,
+                435
+            ],
+            "foot_point": [
+                906,
+                435
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                787,
+                380,
+                808,
+                422
+            ],
+            "foot_point": [
+                797,
+                422
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                843,
+                381,
+                854,
+                416
+            ],
+            "foot_point": [
+                848,
+                416
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                853,
+                374,
+                871,
+                420
+            ],
+            "foot_point": [
+                862,
+                420
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                861,
+                361,
+                881,
+                398
+            ],
+            "foot_point": [
+                871,
+                398
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                887,
+                352,
+                907,
+                381
+            ],
+            "foot_point": [
+                897,
+                381
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                969,
+                359,
+                990,
+                403
+            ],
+            "foot_point": [
+                979,
+                403
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                999,
+                362,
+                1011,
+                395
+            ],
+            "foot_point": [
+                1005,
+                395
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1009,
+                357,
+                1027,
+                397
+            ],
+            "foot_point": [
+                1018,
+                397
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1106,
+                360,
+                1120,
+                398
+            ],
+            "foot_point": [
+                1113,
+                398
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1118,
+                350,
+                1138,
+                393
+            ],
+            "foot_point": [
+                1128,
+                393
+            ],
+            "status": "manual"
+        }
+    ]
+}

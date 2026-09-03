@@ -1,0 +1,201 @@
+{
+    "image": "2015-05-09_-_16-30_Dortmund_2_-_0_Hertha_Berlin_corner_4.jpg",
+    "total_players": 15,
+    "players": [
+        {
+            "box": [
+                532,
+                536,
+                566,
+                607
+            ],
+            "foot_point": [
+                549,
+                607
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1210,
+                437,
+                1232,
+                498
+            ],
+            "foot_point": [
+                1221,
+                498
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                734,
+                438,
+                751,
+                492
+            ],
+            "foot_point": [
+                742,
+                492
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1102,
+                421,
+                1121,
+                476
+            ],
+            "foot_point": [
+                1111,
+                476
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                564,
+                416,
+                583,
+                467
+            ],
+            "foot_point": [
+                573,
+                467
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1222,
+                391,
+                1246,
+                443
+            ],
+            "foot_point": [
+                1234,
+                443
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                835,
+                375,
+                856,
+                423
+            ],
+            "foot_point": [
+                845,
+                423
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                804,
+                387,
+                824,
+                427
+            ],
+            "foot_point": [
+                814,
+                427
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                796,
+                384,
+                820,
+                426
+            ],
+            "foot_point": [
+                808,
+                426
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                879,
+                370,
+                893,
+                412
+            ],
+            "foot_point": [
+                886,
+                412
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                874,
+                356,
+                887,
+                398
+            ],
+            "foot_point": [
+                880,
+                398
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                891,
+                362,
+                905,
+                404
+            ],
+            "foot_point": [
+                898,
+                404
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                957,
+                379,
+                980,
+                420
+            ],
+            "foot_point": [
+                968,
+                420
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                983,
+                376,
+                997,
+                424
+            ],
+            "foot_point": [
+                990,
+                424
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1003,
+                380,
+                1029,
+                426
+            ],
+            "foot_point": [
+                1016,
+                426
+            ],
+            "status": "manual"
+        }
+    ]
+}

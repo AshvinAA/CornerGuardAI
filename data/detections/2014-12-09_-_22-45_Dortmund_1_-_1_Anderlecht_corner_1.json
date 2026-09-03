@@ -1,0 +1,240 @@
+{
+    "image": "2014-12-09_-_22-45_Dortmund_1_-_1_Anderlecht_corner_1.jpg",
+    "total_players": 18,
+    "players": [
+        {
+            "box": [
+                835,
+                369,
+                852,
+                418
+            ],
+            "foot_point": [
+                843,
+                418
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1151,
+                343,
+                1172,
+                386
+            ],
+            "foot_point": [
+                1161,
+                386
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                820,
+                430,
+                844,
+                489
+            ],
+            "foot_point": [
+                832,
+                489
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                819,
+                429,
+                842,
+                489
+            ],
+            "foot_point": [
+                830,
+                489
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                752,
+                319,
+                775,
+                360
+            ],
+            "foot_point": [
+                763,
+                360
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                785,
+                315,
+                802,
+                349
+            ],
+            "foot_point": [
+                793,
+                349
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                788,
+                302,
+                808,
+                338
+            ],
+            "foot_point": [
+                798,
+                338
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                829,
+                300,
+                846,
+                345
+            ],
+            "foot_point": [
+                837,
+                345
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                845,
+                308,
+                857,
+                343
+            ],
+            "foot_point": [
+                851,
+                343
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                963,
+                326,
+                985,
+                364
+            ],
+            "foot_point": [
+                974,
+                364
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                991,
+                342,
+                1011,
+                377
+            ],
+            "foot_point": [
+                1001,
+                377
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                986,
+                316,
+                999,
+                357
+            ],
+            "foot_point": [
+                992,
+                357
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                993,
+                320,
+                1010,
+                358
+            ],
+            "foot_point": [
+                1001,
+                358
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1013,
+                314,
+                1029,
+                352
+            ],
+            "foot_point": [
+                1021,
+                352
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1015,
+                330,
+                1031,
+                369
+            ],
+            "foot_point": [
+                1023,
+                369
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1046,
+                330,
+                1062,
+                371
+            ],
+            "foot_point": [
+                1054,
+                371
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1061,
+                317,
+                1074,
+                362
+            ],
+            "foot_point": [
+                1067,
+                362
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1272,
+                341,
+                1283,
+                398
+            ],
+            "foot_point": [
+                1277,
+                398
+            ],
+            "status": "manual"
+        }
+    ]
+}

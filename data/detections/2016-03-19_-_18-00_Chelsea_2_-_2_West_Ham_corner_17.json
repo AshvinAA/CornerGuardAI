@@ -1,0 +1,201 @@
+{
+    "image": "2016-03-19_-_18-00_Chelsea_2_-_2_West_Ham_corner_17.jpg",
+    "total_players": 15,
+    "players": [
+        {
+            "box": [
+                708,
+                350,
+                735,
+                418
+            ],
+            "foot_point": [
+                721,
+                418
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                474,
+                375,
+                504,
+                439
+            ],
+            "foot_point": [
+                489,
+                439
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1122,
+                263,
+                1152,
+                315
+            ],
+            "foot_point": [
+                1137,
+                315
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1158,
+                266,
+                1183,
+                314
+            ],
+            "foot_point": [
+                1170,
+                314
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1180,
+                249,
+                1202,
+                294
+            ],
+            "foot_point": [
+                1191,
+                294
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1177,
+                272,
+                1216,
+                316
+            ],
+            "foot_point": [
+                1196,
+                316
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1196,
+                269,
+                1228,
+                319
+            ],
+            "foot_point": [
+                1212,
+                319
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1211,
+                259,
+                1246,
+                310
+            ],
+            "foot_point": [
+                1228,
+                310
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                795,
+                273,
+                815,
+                321
+            ],
+            "foot_point": [
+                805,
+                321
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                936,
+                258,
+                958,
+                308
+            ],
+            "foot_point": [
+                947,
+                308
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                978,
+                263,
+                1001,
+                305
+            ],
+            "foot_point": [
+                989,
+                305
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                994,
+                248,
+                1015,
+                291
+            ],
+            "foot_point": [
+                1004,
+                291
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1008,
+                232,
+                1027,
+                272
+            ],
+            "foot_point": [
+                1017,
+                272
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1005,
+                250,
+                1027,
+                290
+            ],
+            "foot_point": [
+                1016,
+                290
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                975,
+                238,
+                1000,
+                279
+            ],
+            "foot_point": [
+                987,
+                279
+            ],
+            "status": "manual"
+        }
+    ]
+}

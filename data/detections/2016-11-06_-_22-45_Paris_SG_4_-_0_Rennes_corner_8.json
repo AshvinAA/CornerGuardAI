@@ -1,0 +1,227 @@
+{
+    "image": "2016-11-06_-_22-45_Paris_SG_4_-_0_Rennes_corner_8.jpg",
+    "total_players": 17,
+    "players": [
+        {
+            "box": [
+                466,
+                370,
+                483,
+                417
+            ],
+            "foot_point": [
+                474,
+                417
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                222,
+                348,
+                240,
+                383
+            ],
+            "foot_point": [
+                231,
+                383
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                401,
+                341,
+                423,
+                390
+            ],
+            "foot_point": [
+                412,
+                390
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                72,
+                338,
+                101,
+                383
+            ],
+            "foot_point": [
+                86,
+                383
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                180,
+                350,
+                210,
+                388
+            ],
+            "foot_point": [
+                195,
+                388
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                46,
+                341,
+                71,
+                392
+            ],
+            "foot_point": [
+                58,
+                392
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                195,
+                372,
+                231,
+                412
+            ],
+            "foot_point": [
+                213,
+                412
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                179,
+                340,
+                202,
+                378
+            ],
+            "foot_point": [
+                190,
+                378
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                311,
+                319,
+                338,
+                373
+            ],
+            "foot_point": [
+                324,
+                373
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                296,
+                333,
+                310,
+                377
+            ],
+            "foot_point": [
+                303,
+                377
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                291,
+                320,
+                312,
+                367
+            ],
+            "foot_point": [
+                301,
+                367
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                352,
+                312,
+                371,
+                354
+            ],
+            "foot_point": [
+                361,
+                354
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                363,
+                332,
+                376,
+                380
+            ],
+            "foot_point": [
+                369,
+                380
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                380,
+                326,
+                402,
+                374
+            ],
+            "foot_point": [
+                391,
+                374
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                429,
+                348,
+                446,
+                402
+            ],
+            "foot_point": [
+                437,
+                402
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                449,
+                349,
+                462,
+                398
+            ],
+            "foot_point": [
+                455,
+                398
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                450,
+                324,
+                475,
+                373
+            ],
+            "foot_point": [
+                462,
+                373
+            ],
+            "status": "manual"
+        }
+    ]
+}

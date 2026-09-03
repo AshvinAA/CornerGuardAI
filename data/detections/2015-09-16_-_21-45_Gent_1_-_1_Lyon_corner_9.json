@@ -1,0 +1,175 @@
+{
+    "image": "2015-09-16_-_21-45_Gent_1_-_1_Lyon_corner_9.jpg",
+    "total_players": 13,
+    "players": [
+        {
+            "box": [
+                125,
+                364,
+                142,
+                412
+            ],
+            "foot_point": [
+                133,
+                412
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                468,
+                308,
+                484,
+                346
+            ],
+            "foot_point": [
+                476,
+                346
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                455,
+                278,
+                472,
+                315
+            ],
+            "foot_point": [
+                463,
+                315
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                424,
+                272,
+                438,
+                316
+            ],
+            "foot_point": [
+                431,
+                316
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                159,
+                335,
+                180,
+                367
+            ],
+            "foot_point": [
+                169,
+                367
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                168,
+                313,
+                185,
+                342
+            ],
+            "foot_point": [
+                176,
+                342
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                204,
+                319,
+                224,
+                352
+            ],
+            "foot_point": [
+                214,
+                352
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                212,
+                309,
+                232,
+                334
+            ],
+            "foot_point": [
+                222,
+                334
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                226,
+                330,
+                244,
+                356
+            ],
+            "foot_point": [
+                235,
+                356
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                245,
+                316,
+                259,
+                339
+            ],
+            "foot_point": [
+                252,
+                339
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                252,
+                308,
+                273,
+                334
+            ],
+            "foot_point": [
+                262,
+                334
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                482,
+                276,
+                503,
+                317
+            ],
+            "foot_point": [
+                492,
+                317
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                560,
+                289,
+                577,
+                328
+            ],
+            "foot_point": [
+                568,
+                328
+            ],
+            "status": "manual"
+        }
+    ]
+}

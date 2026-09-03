@@ -4,6 +4,7 @@ import os
 import csv
 from pathlib import Path
 
+# --- Configuration ---
 SOCCERNET_DIR = "data/SoccerNet"
 CLIPS_DIR = "data/corner_clips" 
 OUTPUT_DIR = "data/extracted_frames" 
@@ -26,6 +27,17 @@ def extract_clips():
     json_files = list(Path(SOCCERNET_DIR).rglob('Labels-v2.json'))
     csv_exists = os.path.isfile(CSV_FILE)
     
+    # --- MEMORY CHECK: Load existing images to prevent duplicates ---
+    processed_images = set()
+    if csv_exists:
+        with open(CSV_FILE, "r", encoding="utf-8") as f:
+            reader = csv.reader(f)
+            next(reader, None) # Skip the header
+            for row in reader:
+                if row: 
+                    processed_images.add(row[0])
+    # ----------------------------------------------------------------
+
     with open(CSV_FILE, mode='a', newline='') as f:
         writer = csv.writer(f)
         if not csv_exists:
@@ -44,6 +56,12 @@ def extract_clips():
             for i, event in enumerate(events):
                 if event.get("label") == "Corner":
                     corner_count += 1
+                    
+                    # --- MEMORY CHECK: Skip if already extracted ---
+                    image_filename = f"{match_name}_corner_{corner_count}.jpg"
+                    if image_filename in processed_images:
+                        continue 
+                    # -----------------------------------------------
                     
                     half_str, time_str = event.get("gameTime").split(" - ")
                     corner_seconds = time_to_seconds(time_str)
@@ -70,24 +88,18 @@ def extract_clips():
                     if not video_path.exists():
                         continue 
                         
-                    # CHANGED: T-minus 15 seconds to start the clip
                     start_time = max(0, corner_seconds - 15)
-                    
                     clip_filename = f"{match_name}_corner_{corner_count}.mp4"
-                    image_filename = f"{match_name}_corner_{corner_count}.jpg"
-                    
                     clip_output_path = os.path.join(CLIPS_DIR, clip_filename)
                     
                     if not os.path.exists(clip_output_path):
-                        # CHANGED: -t 17 limits the video strictly to 17 seconds. Added -y flag.
                         command = [
                             "ffmpeg", "-y", "-nostdin", "-ss", str(start_time), "-i", str(video_path),
                             "-t", "17", "-c:v", "libx264", "-preset", "ultrafast", clip_output_path
                         ]
-                        print(f"🎬 Extracting Clip: {clip_filename} | Auto-Label: {outcome_label}")
+                        print(f"🎬 Extracting NEW Clip: {clip_filename} | Auto-Label: {outcome_label}")
                         
                         try:
-                            # Added a 20-second timeout failsafe
                             subprocess.run(
                                 command, 
                                 stdout=subprocess.DEVNULL, 
@@ -95,17 +107,15 @@ def extract_clips():
                                 stdin=subprocess.DEVNULL, 
                                 timeout=20
                             )
-                            # If successful, log it to the CSV
                             writer.writerow([image_filename, match_name, half_str, outcome_label, "", "", "", ""])
                             
                         except subprocess.TimeoutExpired:
-                            # If FFmpeg freezes, Python kills it, warns you, and skips to the next clip
                             print(f"⚠️ CORRUPTED VIDEO DETECTED: {clip_filename} caused a freeze. Skipping...")
                             if os.path.exists(clip_output_path):
-                                os.remove(clip_output_path) # Clean up the broken ghost file
-                            continue # Move to the next corner
+                                os.remove(clip_output_path) 
+                            continue 
                     
-    print("\n✅ 17-Second Clip Extraction and Auto-Labeling Complete!")
+    print("\n✅ New 17-Second Clip Extraction and Auto-Labeling Complete!")
 
 if __name__ == "__main__":
     extract_clips()

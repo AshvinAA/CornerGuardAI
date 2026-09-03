@@ -1,0 +1,188 @@
+{
+    "image": "2016-09-23_-_21-45_Toulouse_2_-_0_Paris_SG_corner_7.jpg",
+    "total_players": 14,
+    "players": [
+        {
+            "box": [
+                314,
+                558,
+                336,
+                630
+            ],
+            "foot_point": [
+                325,
+                630
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                49,
+                433,
+                70,
+                489
+            ],
+            "foot_point": [
+                59,
+                489
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                308,
+                471,
+                336,
+                538
+            ],
+            "foot_point": [
+                322,
+                538
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                173,
+                417,
+                194,
+                469
+            ],
+            "foot_point": [
+                183,
+                469
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                166,
+                395,
+                185,
+                447
+            ],
+            "foot_point": [
+                175,
+                447
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                86,
+                417,
+                103,
+                465
+            ],
+            "foot_point": [
+                94,
+                465
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                16,
+                412,
+                37,
+                468
+            ],
+            "foot_point": [
+                26,
+                468
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                47,
+                392,
+                69,
+                444
+            ],
+            "foot_point": [
+                58,
+                444
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                204,
+                407,
+                222,
+                448
+            ],
+            "foot_point": [
+                213,
+                448
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                209,
+                390,
+                228,
+                434
+            ],
+            "foot_point": [
+                218,
+                434
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                235,
+                389,
+                252,
+                437
+            ],
+            "foot_point": [
+                243,
+                437
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                252,
+                383,
+                279,
+                436
+            ],
+            "foot_point": [
+                265,
+                436
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                306,
+                395,
+                328,
+                456
+            ],
+            "foot_point": [
+                317,
+                456
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                401,
+                368,
+                428,
+                425
+            ],
+            "foot_point": [
+                414,
+                425
+            ],
+            "status": "manual"
+        }
+    ]
+}

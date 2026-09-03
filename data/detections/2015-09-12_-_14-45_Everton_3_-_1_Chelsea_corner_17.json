@@ -1,0 +1,201 @@
+{
+    "image": "2015-09-12_-_14-45_Everton_3_-_1_Chelsea_corner_17.jpg",
+    "total_players": 15,
+    "players": [
+        {
+            "box": [
+                102,
+                328,
+                123,
+                382
+            ],
+            "foot_point": [
+                112,
+                382
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                362,
+                296,
+                385,
+                345
+            ],
+            "foot_point": [
+                373,
+                345
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                181,
+                267,
+                206,
+                310
+            ],
+            "foot_point": [
+                193,
+                310
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                164,
+                262,
+                186,
+                307
+            ],
+            "foot_point": [
+                175,
+                307
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                173,
+                242,
+                190,
+                288
+            ],
+            "foot_point": [
+                181,
+                288
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                227,
+                236,
+                246,
+                283
+            ],
+            "foot_point": [
+                236,
+                283
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                236,
+                279,
+                258,
+                310
+            ],
+            "foot_point": [
+                247,
+                310
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                250,
+                265,
+                270,
+                304
+            ],
+            "foot_point": [
+                260,
+                304
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                396,
+                271,
+                412,
+                319
+            ],
+            "foot_point": [
+                404,
+                319
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                482,
+                247,
+                499,
+                291
+            ],
+            "foot_point": [
+                490,
+                291
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                400,
+                251,
+                416,
+                299
+            ],
+            "foot_point": [
+                408,
+                299
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                365,
+                256,
+                378,
+                288
+            ],
+            "foot_point": [
+                371,
+                288
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                355,
+                247,
+                377,
+                283
+            ],
+            "foot_point": [
+                366,
+                283
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                372,
+                230,
+                391,
+                267
+            ],
+            "foot_point": [
+                381,
+                267
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                414,
+                234,
+                434,
+                278
+            ],
+            "foot_point": [
+                424,
+                278
+            ],
+            "status": "manual"
+        }
+    ]
+}

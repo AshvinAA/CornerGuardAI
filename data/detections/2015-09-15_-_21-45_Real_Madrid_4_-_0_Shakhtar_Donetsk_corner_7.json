@@ -1,0 +1,162 @@
+{
+    "image": "2015-09-15_-_21-45_Real_Madrid_4_-_0_Shakhtar_Donetsk_corner_7.jpg",
+    "total_players": 12,
+    "players": [
+        {
+            "box": [
+                843,
+                423,
+                900,
+                535
+            ],
+            "foot_point": [
+                871,
+                535
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                449,
+                404,
+                481,
+                513
+            ],
+            "foot_point": [
+                465,
+                513
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                498,
+                385,
+                545,
+                489
+            ],
+            "foot_point": [
+                521,
+                489
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                639,
+                423,
+                680,
+                534
+            ],
+            "foot_point": [
+                659,
+                534
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                585,
+                379,
+                630,
+                498
+            ],
+            "foot_point": [
+                607,
+                498
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                662,
+                411,
+                713,
+                517
+            ],
+            "foot_point": [
+                687,
+                517
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                620,
+                366,
+                660,
+                455
+            ],
+            "foot_point": [
+                640,
+                455
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                302,
+                347,
+                321,
+                457
+            ],
+            "foot_point": [
+                311,
+                457
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                290,
+                351,
+                316,
+                418
+            ],
+            "foot_point": [
+                303,
+                418
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                562,
+                372,
+                589,
+                448
+            ],
+            "foot_point": [
+                575,
+                448
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                560,
+                357,
+                595,
+                437
+            ],
+            "foot_point": [
+                577,
+                437
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                611,
+                359,
+                634,
+                449
+            ],
+            "foot_point": [
+                622,
+                449
+            ],
+            "status": "manual"
+        }
+    ]
+}

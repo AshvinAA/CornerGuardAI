@@ -1,0 +1,188 @@
+{
+    "image": "2017-02-19_-_23-00_Paris_SG_0_-_0_Toulouse_corner_4.jpg",
+    "total_players": 14,
+    "players": [
+        {
+            "box": [
+                81,
+                449,
+                101,
+                499
+            ],
+            "foot_point": [
+                91,
+                499
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                65,
+                481,
+                83,
+                537
+            ],
+            "foot_point": [
+                74,
+                537
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1189,
+                589,
+                1217,
+                645
+            ],
+            "foot_point": [
+                1203,
+                645
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                473,
+                386,
+                496,
+                432
+            ],
+            "foot_point": [
+                484,
+                432
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                221,
+                417,
+                246,
+                459
+            ],
+            "foot_point": [
+                233,
+                459
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                194,
+                423,
+                219,
+                454
+            ],
+            "foot_point": [
+                206,
+                454
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                172,
+                408,
+                200,
+                445
+            ],
+            "foot_point": [
+                186,
+                445
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                189,
+                391,
+                207,
+                427
+            ],
+            "foot_point": [
+                198,
+                427
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                202,
+                383,
+                226,
+                427
+            ],
+            "foot_point": [
+                214,
+                427
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                492,
+                450,
+                511,
+                478
+            ],
+            "foot_point": [
+                501,
+                478
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                491,
+                428,
+                509,
+                460
+            ],
+            "foot_point": [
+                500,
+                460
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                504,
+                414,
+                520,
+                441
+            ],
+            "foot_point": [
+                512,
+                441
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                513,
+                421,
+                530,
+                464
+            ],
+            "foot_point": [
+                521,
+                464
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                515,
+                402,
+                534,
+                441
+            ],
+            "foot_point": [
+                524,
+                441
+            ],
+            "status": "manual"
+        }
+    ]
+}

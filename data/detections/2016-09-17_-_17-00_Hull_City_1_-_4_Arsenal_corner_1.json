@@ -1,0 +1,214 @@
+{
+    "image": "2016-09-17_-_17-00_Hull_City_1_-_4_Arsenal_corner_1.jpg",
+    "total_players": 16,
+    "players": [
+        {
+            "box": [
+                741,
+                513,
+                790,
+                640
+            ],
+            "foot_point": [
+                765,
+                640
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                661,
+                399,
+                695,
+                501
+            ],
+            "foot_point": [
+                678,
+                501
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                519,
+                425,
+                550,
+                532
+            ],
+            "foot_point": [
+                534,
+                532
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                386,
+                441,
+                426,
+                537
+            ],
+            "foot_point": [
+                406,
+                537
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                453,
+                434,
+                490,
+                539
+            ],
+            "foot_point": [
+                471,
+                539
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                532,
+                374,
+                564,
+                464
+            ],
+            "foot_point": [
+                548,
+                464
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                364,
+                362,
+                396,
+                456
+            ],
+            "foot_point": [
+                380,
+                456
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                803,
+                395,
+                832,
+                493
+            ],
+            "foot_point": [
+                817,
+                493
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                175,
+                382,
+                224,
+                475
+            ],
+            "foot_point": [
+                199,
+                475
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                220,
+                365,
+                256,
+                478
+            ],
+            "foot_point": [
+                238,
+                478
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                261,
+                416,
+                290,
+                521
+            ],
+            "foot_point": [
+                275,
+                521
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                263,
+                386,
+                302,
+                468
+            ],
+            "foot_point": [
+                282,
+                468
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                403,
+                403,
+                427,
+                483
+            ],
+            "foot_point": [
+                415,
+                483
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                432,
+                381,
+                455,
+                480
+            ],
+            "foot_point": [
+                443,
+                480
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                463,
+                371,
+                497,
+                461
+            ],
+            "foot_point": [
+                480,
+                461
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                780,
+                337,
+                831,
+                427
+            ],
+            "foot_point": [
+                805,
+                427
+            ],
+            "status": "manual"
+        }
+    ]
+}

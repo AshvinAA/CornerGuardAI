@@ -1,0 +1,266 @@
+{
+    "image": "2014-12-09_-_22-45_Benfica_0_-_0_Bayer_Leverkusen_corner_8.jpg",
+    "total_players": 20,
+    "players": [
+        {
+            "box": [
+                399,
+                294,
+                424,
+                364
+            ],
+            "foot_point": [
+                411,
+                364
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                295,
+                454,
+                334,
+                538
+            ],
+            "foot_point": [
+                314,
+                538
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                570,
+                363,
+                593,
+                437
+            ],
+            "foot_point": [
+                581,
+                437
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                231,
+                305,
+                261,
+                377
+            ],
+            "foot_point": [
+                246,
+                377
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                816,
+                333,
+                846,
+                399
+            ],
+            "foot_point": [
+                831,
+                399
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                917,
+                297,
+                944,
+                364
+            ],
+            "foot_point": [
+                930,
+                364
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                897,
+                326,
+                924,
+                385
+            ],
+            "foot_point": [
+                910,
+                385
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                815,
+                331,
+                846,
+                399
+            ],
+            "foot_point": [
+                830,
+                399
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                593,
+                335,
+                619,
+                394
+            ],
+            "foot_point": [
+                606,
+                394
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                658,
+                310,
+                679,
+                359
+            ],
+            "foot_point": [
+                668,
+                359
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                678,
+                338,
+                702,
+                403
+            ],
+            "foot_point": [
+                690,
+                403
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                653,
+                324,
+                682,
+                376
+            ],
+            "foot_point": [
+                667,
+                376
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                690,
+                314,
+                714,
+                383
+            ],
+            "foot_point": [
+                702,
+                383
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                716,
+                332,
+                743,
+                396
+            ],
+            "foot_point": [
+                729,
+                396
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                736,
+                332,
+                763,
+                394
+            ],
+            "foot_point": [
+                749,
+                394
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                753,
+                291,
+                770,
+                358
+            ],
+            "foot_point": [
+                761,
+                358
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                775,
+                292,
+                795,
+                352
+            ],
+            "foot_point": [
+                785,
+                352
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                777,
+                279,
+                807,
+                341
+            ],
+            "foot_point": [
+                792,
+                341
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                796,
+                278,
+                820,
+                328
+            ],
+            "foot_point": [
+                808,
+                328
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                800,
+                265,
+                844,
+                320
+            ],
+            "foot_point": [
+                822,
+                320
+            ],
+            "status": "manual"
+        }
+    ]
+}

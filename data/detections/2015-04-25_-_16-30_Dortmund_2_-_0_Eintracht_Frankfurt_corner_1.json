@@ -1,0 +1,136 @@
+{
+    "image": "2015-04-25_-_16-30_Dortmund_2_-_0_Eintracht_Frankfurt_corner_1.jpg",
+    "total_players": 10,
+    "players": [
+        {
+            "box": [
+                93,
+                425,
+                110,
+                480
+            ],
+            "foot_point": [
+                101,
+                480
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                142,
+                380,
+                169,
+                425
+            ],
+            "foot_point": [
+                155,
+                425
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                188,
+                377,
+                214,
+                420
+            ],
+            "foot_point": [
+                201,
+                420
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                445,
+                369,
+                463,
+                412
+            ],
+            "foot_point": [
+                454,
+                412
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                340,
+                361,
+                357,
+                403
+            ],
+            "foot_point": [
+                348,
+                403
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                355,
+                361,
+                371,
+                401
+            ],
+            "foot_point": [
+                363,
+                401
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                254,
+                365,
+                272,
+                414
+            ],
+            "foot_point": [
+                263,
+                414
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                233,
+                387,
+                261,
+                416
+            ],
+            "foot_point": [
+                247,
+                416
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                235,
+                361,
+                255,
+                409
+            ],
+            "foot_point": [
+                245,
+                409
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                380,
+                350,
+                408,
+                391
+            ],
+            "foot_point": [
+                394,
+                391
+            ],
+            "status": "manual"
+        }
+    ]
+}

@@ -1,0 +1,227 @@
+{
+    "image": "2015-11-03_-_22-45_Manchester_United_1_-_0_CSKA_Moscow_corner_10.jpg",
+    "total_players": 17,
+    "players": [
+        {
+            "box": [
+                117,
+                343,
+                142,
+                393
+            ],
+            "foot_point": [
+                129,
+                393
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                21,
+                353,
+                44,
+                408
+            ],
+            "foot_point": [
+                32,
+                408
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                593,
+                345,
+                613,
+                395
+            ],
+            "foot_point": [
+                603,
+                395
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                612,
+                284,
+                629,
+                323
+            ],
+            "foot_point": [
+                620,
+                323
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                182,
+                264,
+                202,
+                306
+            ],
+            "foot_point": [
+                192,
+                306
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                224,
+                271,
+                244,
+                310
+            ],
+            "foot_point": [
+                234,
+                310
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                431,
+                269,
+                449,
+                311
+            ],
+            "foot_point": [
+                440,
+                311
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                324,
+                300,
+                337,
+                325
+            ],
+            "foot_point": [
+                330,
+                325
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                321,
+                306,
+                354,
+                346
+            ],
+            "foot_point": [
+                337,
+                346
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                354,
+                310,
+                369,
+                346
+            ],
+            "foot_point": [
+                361,
+                346
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                339,
+                289,
+                355,
+                328
+            ],
+            "foot_point": [
+                347,
+                328
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                279,
+                281,
+                295,
+                325
+            ],
+            "foot_point": [
+                287,
+                325
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                269,
+                278,
+                290,
+                324
+            ],
+            "foot_point": [
+                279,
+                324
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                398,
+                249,
+                414,
+                283
+            ],
+            "foot_point": [
+                406,
+                283
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                415,
+                256,
+                428,
+                300
+            ],
+            "foot_point": [
+                421,
+                300
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                443,
+                266,
+                461,
+                297
+            ],
+            "foot_point": [
+                452,
+                297
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                433,
+                258,
+                449,
+                299
+            ],
+            "foot_point": [
+                441,
+                299
+            ],
+            "status": "manual"
+        }
+    ]
+}

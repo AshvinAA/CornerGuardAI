@@ -1,0 +1,175 @@
+{
+    "image": "2016-09-13_-_21-45_Barcelona_7_-_0_Celtic_corner_2.jpg",
+    "total_players": 13,
+    "players": [
+        {
+            "box": [
+                160,
+                478,
+                183,
+                545
+            ],
+            "foot_point": [
+                171,
+                545
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                77,
+                303,
+                99,
+                359
+            ],
+            "foot_point": [
+                88,
+                359
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                480,
+                293,
+                496,
+                345
+            ],
+            "foot_point": [
+                488,
+                345
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                420,
+                246,
+                439,
+                300
+            ],
+            "foot_point": [
+                429,
+                300
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                312,
+                260,
+                338,
+                304
+            ],
+            "foot_point": [
+                325,
+                304
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                193,
+                208,
+                210,
+                253
+            ],
+            "foot_point": [
+                201,
+                253
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                162,
+                215,
+                191,
+                270
+            ],
+            "foot_point": [
+                176,
+                270
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                287,
+                250,
+                321,
+                294
+            ],
+            "foot_point": [
+                304,
+                294
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                117,
+                219,
+                133,
+                266
+            ],
+            "foot_point": [
+                125,
+                266
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                140,
+                218,
+                159,
+                266
+            ],
+            "foot_point": [
+                149,
+                266
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                134,
+                214,
+                153,
+                256
+            ],
+            "foot_point": [
+                143,
+                256
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                265,
+                213,
+                284,
+                261
+            ],
+            "foot_point": [
+                274,
+                261
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                407,
+                219,
+                427,
+                264
+            ],
+            "foot_point": [
+                417,
+                264
+            ],
+            "status": "manual"
+        }
+    ]
+}

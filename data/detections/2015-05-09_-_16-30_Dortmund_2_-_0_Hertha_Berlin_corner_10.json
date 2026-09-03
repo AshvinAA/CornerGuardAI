@@ -1,0 +1,240 @@
+{
+    "image": "2015-05-09_-_16-30_Dortmund_2_-_0_Hertha_Berlin_corner_10.jpg",
+    "total_players": 18,
+    "players": [
+        {
+            "box": [
+                74,
+                499,
+                116,
+                603
+            ],
+            "foot_point": [
+                95,
+                603
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                526,
+                445,
+                559,
+                542
+            ],
+            "foot_point": [
+                542,
+                542
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                678,
+                415,
+                709,
+                501
+            ],
+            "foot_point": [
+                693,
+                501
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                313,
+                348,
+                348,
+                426
+            ],
+            "foot_point": [
+                330,
+                426
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                145,
+                372,
+                174,
+                456
+            ],
+            "foot_point": [
+                159,
+                456
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                794,
+                435,
+                826,
+                528
+            ],
+            "foot_point": [
+                810,
+                528
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                941,
+                366,
+                980,
+                444
+            ],
+            "foot_point": [
+                960,
+                444
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1022,
+                384,
+                1047,
+                473
+            ],
+            "foot_point": [
+                1034,
+                473
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                735,
+                386,
+                763,
+                459
+            ],
+            "foot_point": [
+                749,
+                459
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                886,
+                377,
+                918,
+                465
+            ],
+            "foot_point": [
+                902,
+                465
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                749,
+                399,
+                788,
+                477
+            ],
+            "foot_point": [
+                768,
+                477
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                992,
+                369,
+                1026,
+                440
+            ],
+            "foot_point": [
+                1009,
+                440
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                710,
+                342,
+                746,
+                405
+            ],
+            "foot_point": [
+                728,
+                405
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                795,
+                402,
+                825,
+                477
+            ],
+            "foot_point": [
+                810,
+                477
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                785,
+                381,
+                815,
+                444
+            ],
+            "foot_point": [
+                800,
+                444
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                800,
+                354,
+                836,
+                431
+            ],
+            "foot_point": [
+                818,
+                431
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                862,
+                362,
+                893,
+                443
+            ],
+            "foot_point": [
+                877,
+                443
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                762,
+                327,
+                784,
+                399
+            ],
+            "foot_point": [
+                773,
+                399
+            ],
+            "status": "manual"
+        }
+    ]
+}

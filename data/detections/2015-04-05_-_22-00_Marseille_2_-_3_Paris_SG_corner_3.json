@@ -1,0 +1,188 @@
+{
+    "image": "2015-04-05_-_22-00_Marseille_2_-_3_Paris_SG_corner_3.jpg",
+    "total_players": 14,
+    "players": [
+        {
+            "box": [
+                808,
+                501,
+                835,
+                549
+            ],
+            "foot_point": [
+                821,
+                549
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1181,
+                456,
+                1197,
+                503
+            ],
+            "foot_point": [
+                1189,
+                503
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                1102,
+                431,
+                1119,
+                475
+            ],
+            "foot_point": [
+                1110,
+                475
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                769,
+                403,
+                786,
+                446
+            ],
+            "foot_point": [
+                777,
+                446
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                918,
+                416,
+                938,
+                457
+            ],
+            "foot_point": [
+                928,
+                457
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                818,
+                385,
+                846,
+                425
+            ],
+            "foot_point": [
+                832,
+                425
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                723,
+                393,
+                739,
+                433
+            ],
+            "foot_point": [
+                731,
+                433
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                882,
+                425,
+                898,
+                460
+            ],
+            "foot_point": [
+                890,
+                460
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                898,
+                435,
+                917,
+                462
+            ],
+            "foot_point": [
+                907,
+                462
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                936,
+                397,
+                950,
+                426
+            ],
+            "foot_point": [
+                943,
+                426
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                946,
+                408,
+                962,
+                438
+            ],
+            "foot_point": [
+                954,
+                438
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                960,
+                411,
+                976,
+                454
+            ],
+            "foot_point": [
+                968,
+                454
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1011,
+                392,
+                1024,
+                428
+            ],
+            "foot_point": [
+                1017,
+                428
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1049,
+                388,
+                1067,
+                426
+            ],
+            "foot_point": [
+                1058,
+                426
+            ],
+            "status": "manual"
+        }
+    ]
+}

@@ -1,0 +1,201 @@
+{
+    "image": "2016-09-17_-_17-00_Hull_City_1_-_4_Arsenal_corner_4.jpg",
+    "total_players": 15,
+    "players": [
+        {
+            "box": [
+                669,
+                377,
+                711,
+                458
+            ],
+            "foot_point": [
+                690,
+                458
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                322,
+                372,
+                345,
+                473
+            ],
+            "foot_point": [
+                333,
+                473
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                737,
+                311,
+                761,
+                393
+            ],
+            "foot_point": [
+                749,
+                393
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                3,
+                394,
+                43,
+                497
+            ],
+            "foot_point": [
+                23,
+                497
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                485,
+                395,
+                546,
+                494
+            ],
+            "foot_point": [
+                515,
+                494
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                611,
+                379,
+                648,
+                473
+            ],
+            "foot_point": [
+                629,
+                473
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                582,
+                386,
+                617,
+                469
+            ],
+            "foot_point": [
+                599,
+                469
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                -10,
+                262,
+                17,
+                341
+            ],
+            "foot_point": [
+                3,
+                341
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                413,
+                403,
+                476,
+                500
+            ],
+            "foot_point": [
+                444,
+                500
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                571,
+                325,
+                596,
+                395
+            ],
+            "foot_point": [
+                583,
+                395
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                620,
+                312,
+                659,
+                393
+            ],
+            "foot_point": [
+                639,
+                393
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                792,
+                318,
+                824,
+                407
+            ],
+            "foot_point": [
+                808,
+                407
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                814,
+                309,
+                857,
+                404
+            ],
+            "foot_point": [
+                835,
+                404
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1019,
+                336,
+                1054,
+                430
+            ],
+            "foot_point": [
+                1036,
+                430
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1166,
+                348,
+                1204,
+                444
+            ],
+            "foot_point": [
+                1185,
+                444
+            ],
+            "status": "manual"
+        }
+    ]
+}

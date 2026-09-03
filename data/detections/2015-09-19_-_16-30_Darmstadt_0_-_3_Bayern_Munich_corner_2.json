@@ -1,0 +1,201 @@
+{
+    "image": "2015-09-19_-_16-30_Darmstadt_0_-_3_Bayern_Munich_corner_2.jpg",
+    "total_players": 15,
+    "players": [
+        {
+            "box": [
+                655,
+                488,
+                679,
+                563
+            ],
+            "foot_point": [
+                667,
+                563
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                684,
+                460,
+                709,
+                530
+            ],
+            "foot_point": [
+                696,
+                530
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                733,
+                403,
+                751,
+                457
+            ],
+            "foot_point": [
+                742,
+                457
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                906,
+                370,
+                928,
+                426
+            ],
+            "foot_point": [
+                917,
+                426
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                912,
+                357,
+                942,
+                415
+            ],
+            "foot_point": [
+                927,
+                415
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                933,
+                364,
+                962,
+                414
+            ],
+            "foot_point": [
+                947,
+                414
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                944,
+                368,
+                964,
+                415
+            ],
+            "foot_point": [
+                954,
+                415
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1056,
+                361,
+                1079,
+                422
+            ],
+            "foot_point": [
+                1067,
+                422
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1094,
+                377,
+                1117,
+                429
+            ],
+            "foot_point": [
+                1105,
+                429
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1123,
+                377,
+                1172,
+                429
+            ],
+            "foot_point": [
+                1147,
+                429
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1189,
+                379,
+                1225,
+                432
+            ],
+            "foot_point": [
+                1207,
+                432
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1174,
+                365,
+                1193,
+                405
+            ],
+            "foot_point": [
+                1183,
+                405
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1149,
+                354,
+                1171,
+                397
+            ],
+            "foot_point": [
+                1160,
+                397
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1226,
+                363,
+                1252,
+                415
+            ],
+            "foot_point": [
+                1239,
+                415
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1271,
+                359,
+                1286,
+                406
+            ],
+            "foot_point": [
+                1278,
+                406
+            ],
+            "status": "manual"
+        }
+    ]
+}

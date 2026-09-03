@@ -1,0 +1,201 @@
+{
+    "image": "2016-03-02_-_23-00_Liverpool_3_-_0_Manchester_City_corner_2.jpg",
+    "total_players": 15,
+    "players": [
+        {
+            "box": [
+                531,
+                352,
+                570,
+                401
+            ],
+            "foot_point": [
+                550,
+                401
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                636,
+                405,
+                661,
+                459
+            ],
+            "foot_point": [
+                648,
+                459
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                178,
+                279,
+                194,
+                320
+            ],
+            "foot_point": [
+                186,
+                320
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                440,
+                287,
+                459,
+                326
+            ],
+            "foot_point": [
+                449,
+                326
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                302,
+                268,
+                323,
+                319
+            ],
+            "foot_point": [
+                312,
+                319
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                262,
+                246,
+                283,
+                306
+            ],
+            "foot_point": [
+                272,
+                306
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                152,
+                286,
+                171,
+                330
+            ],
+            "foot_point": [
+                161,
+                330
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                485,
+                270,
+                499,
+                310
+            ],
+            "foot_point": [
+                492,
+                310
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                382,
+                289,
+                411,
+                332
+            ],
+            "foot_point": [
+                396,
+                332
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                386,
+                260,
+                408,
+                314
+            ],
+            "foot_point": [
+                397,
+                314
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                397,
+                241,
+                421,
+                286
+            ],
+            "foot_point": [
+                409,
+                286
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                322,
+                245,
+                342,
+                283
+            ],
+            "foot_point": [
+                332,
+                283
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                347,
+                273,
+                366,
+                316
+            ],
+            "foot_point": [
+                356,
+                316
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                344,
+                241,
+                361,
+                280
+            ],
+            "foot_point": [
+                352,
+                280
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                63,
+                296,
+                84,
+                344
+            ],
+            "foot_point": [
+                73,
+                344
+            ],
+            "status": "flagged"
+        }
+    ]
+}

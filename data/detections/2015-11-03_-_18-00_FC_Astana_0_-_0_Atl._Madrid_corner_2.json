@@ -1,0 +1,227 @@
+{
+    "image": "2015-11-03_-_18-00_FC_Astana_0_-_0_Atl._Madrid_corner_2.jpg",
+    "total_players": 17,
+    "players": [
+        {
+            "box": [
+                290,
+                499,
+                323,
+                594
+            ],
+            "foot_point": [
+                306,
+                594
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                597,
+                455,
+                630,
+                537
+            ],
+            "foot_point": [
+                613,
+                537
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                416,
+                375,
+                446,
+                445
+            ],
+            "foot_point": [
+                431,
+                445
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                3,
+                414,
+                39,
+                497
+            ],
+            "foot_point": [
+                21,
+                497
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                735,
+                400,
+                761,
+                470
+            ],
+            "foot_point": [
+                748,
+                470
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                813,
+                408,
+                850,
+                493
+            ],
+            "foot_point": [
+                831,
+                493
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                841,
+                394,
+                876,
+                467
+            ],
+            "foot_point": [
+                858,
+                467
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                695,
+                328,
+                731,
+                394
+            ],
+            "foot_point": [
+                713,
+                394
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                952,
+                377,
+                986,
+                455
+            ],
+            "foot_point": [
+                969,
+                455
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                800,
+                340,
+                835,
+                413
+            ],
+            "foot_point": [
+                817,
+                413
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                974,
+                373,
+                1011,
+                435
+            ],
+            "foot_point": [
+                992,
+                435
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                860,
+                367,
+                881,
+                436
+            ],
+            "foot_point": [
+                870,
+                436
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                733,
+                350,
+                751,
+                409
+            ],
+            "foot_point": [
+                742,
+                409
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                757,
+                342,
+                781,
+                399
+            ],
+            "foot_point": [
+                769,
+                399
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                875,
+                359,
+                901,
+                425
+            ],
+            "foot_point": [
+                888,
+                425
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                894,
+                376,
+                927,
+                426
+            ],
+            "foot_point": [
+                910,
+                426
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                904,
+                364,
+                941,
+                421
+            ],
+            "foot_point": [
+                922,
+                421
+            ],
+            "status": "manual"
+        }
+    ]
+}

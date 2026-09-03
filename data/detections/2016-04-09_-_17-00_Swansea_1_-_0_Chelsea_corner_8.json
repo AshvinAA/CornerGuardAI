@@ -1,0 +1,175 @@
+{
+    "image": "2016-04-09_-_17-00_Swansea_1_-_0_Chelsea_corner_8.jpg",
+    "total_players": 13,
+    "players": [
+        {
+            "box": [
+                740,
+                467,
+                778,
+                559
+            ],
+            "foot_point": [
+                759,
+                559
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                664,
+                316,
+                692,
+                387
+            ],
+            "foot_point": [
+                678,
+                387
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                782,
+                426,
+                835,
+                517
+            ],
+            "foot_point": [
+                808,
+                517
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                586,
+                384,
+                627,
+                491
+            ],
+            "foot_point": [
+                606,
+                491
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                346,
+                363,
+                380,
+                454
+            ],
+            "foot_point": [
+                363,
+                454
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                556,
+                405,
+                598,
+                490
+            ],
+            "foot_point": [
+                577,
+                490
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                515,
+                396,
+                559,
+                476
+            ],
+            "foot_point": [
+                537,
+                476
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                284,
+                380,
+                309,
+                455
+            ],
+            "foot_point": [
+                296,
+                455
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                534,
+                380,
+                576,
+                459
+            ],
+            "foot_point": [
+                555,
+                459
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                465,
+                405,
+                513,
+                480
+            ],
+            "foot_point": [
+                489,
+                480
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                471,
+                394,
+                493,
+                454
+            ],
+            "foot_point": [
+                482,
+                454
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                461,
+                381,
+                491,
+                447
+            ],
+            "foot_point": [
+                476,
+                447
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                479,
+                372,
+                513,
+                438
+            ],
+            "foot_point": [
+                496,
+                438
+            ],
+            "status": "manual"
+        }
+    ]
+}

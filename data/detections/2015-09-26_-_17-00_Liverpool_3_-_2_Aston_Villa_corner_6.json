@@ -1,0 +1,175 @@
+{
+    "image": "2015-09-26_-_17-00_Liverpool_3_-_2_Aston_Villa_corner_6.jpg",
+    "total_players": 13,
+    "players": [
+        {
+            "box": [
+                517,
+                360,
+                548,
+                426
+            ],
+            "foot_point": [
+                532,
+                426
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                349,
+                401,
+                373,
+                462
+            ],
+            "foot_point": [
+                361,
+                462
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1056,
+                214,
+                1074,
+                259
+            ],
+            "foot_point": [
+                1065,
+                259
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1215,
+                212,
+                1241,
+                270
+            ],
+            "foot_point": [
+                1228,
+                270
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                809,
+                255,
+                841,
+                308
+            ],
+            "foot_point": [
+                825,
+                308
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                884,
+                229,
+                903,
+                289
+            ],
+            "foot_point": [
+                893,
+                289
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                890,
+                233,
+                918,
+                288
+            ],
+            "foot_point": [
+                904,
+                288
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                954,
+                220,
+                975,
+                277
+            ],
+            "foot_point": [
+                964,
+                277
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                977,
+                224,
+                992,
+                284
+            ],
+            "foot_point": [
+                984,
+                284
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                987,
+                223,
+                1014,
+                275
+            ],
+            "foot_point": [
+                1000,
+                275
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1018,
+                204,
+                1045,
+                255
+            ],
+            "foot_point": [
+                1031,
+                255
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1053,
+                210,
+                1072,
+                257
+            ],
+            "foot_point": [
+                1062,
+                257
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1209,
+                210,
+                1244,
+                264
+            ],
+            "foot_point": [
+                1226,
+                264
+            ],
+            "status": "manual"
+        }
+    ]
+}

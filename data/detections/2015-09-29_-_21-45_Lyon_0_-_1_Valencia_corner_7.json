@@ -1,0 +1,188 @@
+{
+    "image": "2015-09-29_-_21-45_Lyon_0_-_1_Valencia_corner_7.jpg",
+    "total_players": 14,
+    "players": [
+        {
+            "box": [
+                216,
+                442,
+                234,
+                489
+            ],
+            "foot_point": [
+                225,
+                489
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                59,
+                434,
+                75,
+                487
+            ],
+            "foot_point": [
+                67,
+                487
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                322,
+                402,
+                352,
+                444
+            ],
+            "foot_point": [
+                337,
+                444
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                251,
+                404,
+                275,
+                440
+            ],
+            "foot_point": [
+                263,
+                440
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                265,
+                387,
+                281,
+                417
+            ],
+            "foot_point": [
+                273,
+                417
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                274,
+                406,
+                295,
+                446
+            ],
+            "foot_point": [
+                284,
+                446
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                290,
+                385,
+                309,
+                421
+            ],
+            "foot_point": [
+                299,
+                421
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                434,
+                383,
+                454,
+                434
+            ],
+            "foot_point": [
+                444,
+                434
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                449,
+                387,
+                468,
+                428
+            ],
+            "foot_point": [
+                458,
+                428
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                468,
+                375,
+                482,
+                416
+            ],
+            "foot_point": [
+                475,
+                416
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                476,
+                401,
+                493,
+                431
+            ],
+            "foot_point": [
+                484,
+                431
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                495,
+                400,
+                510,
+                440
+            ],
+            "foot_point": [
+                502,
+                440
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                484,
+                395,
+                498,
+                427
+            ],
+            "foot_point": [
+                491,
+                427
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                530,
+                380,
+                549,
+                424
+            ],
+            "foot_point": [
+                539,
+                424
+            ],
+            "status": "manual"
+        }
+    ]
+}

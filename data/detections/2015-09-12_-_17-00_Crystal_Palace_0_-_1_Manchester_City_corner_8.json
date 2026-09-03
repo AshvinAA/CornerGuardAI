@@ -1,0 +1,97 @@
+{
+    "image": "2015-09-12_-_17-00_Crystal_Palace_0_-_1_Manchester_City_corner_8.jpg",
+    "total_players": 7,
+    "players": [
+        {
+            "box": [
+                521,
+                358,
+                544,
+                430
+            ],
+            "foot_point": [
+                532,
+                430
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                253,
+                413,
+                281,
+                495
+            ],
+            "foot_point": [
+                267,
+                495
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                719,
+                337,
+                740,
+                405
+            ],
+            "foot_point": [
+                729,
+                405
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                898,
+                358,
+                933,
+                428
+            ],
+            "foot_point": [
+                915,
+                428
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                187,
+                290,
+                211,
+                335
+            ],
+            "foot_point": [
+                199,
+                335
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                276,
+                283,
+                300,
+                344
+            ],
+            "foot_point": [
+                288,
+                344
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                100,
+                259,
+                136,
+                320
+            ],
+            "foot_point": [
+                118,
+                320
+            ],
+            "status": "manual"
+        }
+    ]
+}

@@ -1,0 +1,162 @@
+{
+    "image": "2016-10-19_-_21-45_Barcelona_4_-_0_Manchester_City_corner_3.jpg",
+    "total_players": 12,
+    "players": [
+        {
+            "box": [
+                632,
+                584,
+                676,
+                658
+            ],
+            "foot_point": [
+                654,
+                658
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                698,
+                473,
+                719,
+                538
+            ],
+            "foot_point": [
+                708,
+                538
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                569,
+                464,
+                589,
+                524
+            ],
+            "foot_point": [
+                579,
+                524
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                928,
+                324,
+                953,
+                375
+            ],
+            "foot_point": [
+                940,
+                375
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1109,
+                298,
+                1131,
+                352
+            ],
+            "foot_point": [
+                1120,
+                352
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                923,
+                291,
+                944,
+                340
+            ],
+            "foot_point": [
+                933,
+                340
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                826,
+                415,
+                865,
+                469
+            ],
+            "foot_point": [
+                845,
+                469
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1205,
+                304,
+                1231,
+                358
+            ],
+            "foot_point": [
+                1218,
+                358
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1064,
+                377,
+                1092,
+                429
+            ],
+            "foot_point": [
+                1078,
+                429
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1060,
+                336,
+                1083,
+                395
+            ],
+            "foot_point": [
+                1071,
+                395
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1045,
+                255,
+                1068,
+                302
+            ],
+            "foot_point": [
+                1056,
+                302
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                776,
+                298,
+                806,
+                345
+            ],
+            "foot_point": [
+                791,
+                345
+            ],
+            "status": "manual"
+        }
+    ]
+}

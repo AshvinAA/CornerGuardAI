@@ -1,0 +1,149 @@
+{
+    "image": "2015-11-25_-_22-45_B._Monchengladbach_4_-_2_Sevilla_corner_1.jpg",
+    "total_players": 11,
+    "players": [
+        {
+            "box": [
+                681,
+                475,
+                710,
+                546
+            ],
+            "foot_point": [
+                695,
+                546
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                521,
+                379,
+                549,
+                444
+            ],
+            "foot_point": [
+                535,
+                444
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                564,
+                343,
+                593,
+                403
+            ],
+            "foot_point": [
+                578,
+                403
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                36,
+                316,
+                63,
+                376
+            ],
+            "foot_point": [
+                49,
+                376
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                344,
+                267,
+                370,
+                321
+            ],
+            "foot_point": [
+                357,
+                321
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                498,
+                305,
+                527,
+                359
+            ],
+            "foot_point": [
+                512,
+                359
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                242,
+                259,
+                270,
+                312
+            ],
+            "foot_point": [
+                256,
+                312
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                618,
+                349,
+                646,
+                412
+            ],
+            "foot_point": [
+                632,
+                412
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                12,
+                266,
+                31,
+                303
+            ],
+            "foot_point": [
+                21,
+                303
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                27,
+                263,
+                45,
+                303
+            ],
+            "foot_point": [
+                36,
+                303
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                337,
+                239,
+                363,
+                291
+            ],
+            "foot_point": [
+                350,
+                291
+            ],
+            "status": "manual"
+        }
+    ]
+}

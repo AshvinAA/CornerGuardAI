@@ -1,0 +1,201 @@
+{
+    "image": "2014-12-09_-_22-45_Liverpool_1_-_1_Basel_corner_2.jpg",
+    "total_players": 15,
+    "players": [
+        {
+            "box": [
+                948,
+                333,
+                978,
+                399
+            ],
+            "foot_point": [
+                963,
+                399
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                718,
+                287,
+                746,
+                372
+            ],
+            "foot_point": [
+                732,
+                372
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                140,
+                217,
+                156,
+                274
+            ],
+            "foot_point": [
+                148,
+                274
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                348,
+                399,
+                372,
+                480
+            ],
+            "foot_point": [
+                360,
+                480
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                1174,
+                307,
+                1202,
+                371
+            ],
+            "foot_point": [
+                1188,
+                371
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                826,
+                311,
+                859,
+                388
+            ],
+            "foot_point": [
+                842,
+                388
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                851,
+                312,
+                892,
+                388
+            ],
+            "foot_point": [
+                871,
+                388
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                762,
+                352,
+                791,
+                425
+            ],
+            "foot_point": [
+                776,
+                425
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                753,
+                303,
+                791,
+                366
+            ],
+            "foot_point": [
+                772,
+                366
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                771,
+                284,
+                802,
+                343
+            ],
+            "foot_point": [
+                786,
+                343
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                810,
+                300,
+                834,
+                366
+            ],
+            "foot_point": [
+                822,
+                366
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                505,
+                232,
+                530,
+                287
+            ],
+            "foot_point": [
+                517,
+                287
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                15,
+                203,
+                45,
+                252
+            ],
+            "foot_point": [
+                30,
+                252
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                910,
+                333,
+                937,
+                410
+            ],
+            "foot_point": [
+                923,
+                410
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                915,
+                320,
+                942,
+                373
+            ],
+            "foot_point": [
+                928,
+                373
+            ],
+            "status": "manual"
+        }
+    ]
+}

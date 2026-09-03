@@ -1,0 +1,253 @@
+{
+    "image": "2015-11-04_-_22-45_Maccabi_Tel_Aviv_1_-_3_FC_Porto_corner_11.jpg",
+    "total_players": 19,
+    "players": [
+        {
+            "box": [
+                306,
+                358,
+                319,
+                401
+            ],
+            "foot_point": [
+                312,
+                401
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                843,
+                410,
+                861,
+                447
+            ],
+            "foot_point": [
+                852,
+                447
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                630,
+                344,
+                647,
+                382
+            ],
+            "foot_point": [
+                638,
+                382
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                545,
+                322,
+                560,
+                356
+            ],
+            "foot_point": [
+                552,
+                356
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                195,
+                396,
+                209,
+                441
+            ],
+            "foot_point": [
+                202,
+                441
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                175,
+                308,
+                188,
+                346
+            ],
+            "foot_point": [
+                181,
+                346
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                311,
+                307,
+                323,
+                338
+            ],
+            "foot_point": [
+                317,
+                338
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                324,
+                321,
+                339,
+                353
+            ],
+            "foot_point": [
+                331,
+                353
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                371,
+                290,
+                384,
+                331
+            ],
+            "foot_point": [
+                377,
+                331
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                380,
+                286,
+                400,
+                326
+            ],
+            "foot_point": [
+                390,
+                326
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                410,
+                316,
+                435,
+                354
+            ],
+            "foot_point": [
+                422,
+                354
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                437,
+                320,
+                456,
+                345
+            ],
+            "foot_point": [
+                446,
+                345
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                454,
+                304,
+                471,
+                339
+            ],
+            "foot_point": [
+                462,
+                339
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                469,
+                297,
+                490,
+                335
+            ],
+            "foot_point": [
+                479,
+                335
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                563,
+                339,
+                578,
+                384
+            ],
+            "foot_point": [
+                570,
+                384
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                557,
+                307,
+                575,
+                338
+            ],
+            "foot_point": [
+                566,
+                338
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                588,
+                294,
+                599,
+                325
+            ],
+            "foot_point": [
+                593,
+                325
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                597,
+                297,
+                613,
+                327
+            ],
+            "foot_point": [
+                605,
+                327
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                602,
+                286,
+                615,
+                314
+            ],
+            "foot_point": [
+                608,
+                314
+            ],
+            "status": "manual"
+        }
+    ]
+}

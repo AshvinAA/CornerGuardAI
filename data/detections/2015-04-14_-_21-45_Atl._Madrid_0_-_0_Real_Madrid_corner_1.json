@@ -1,0 +1,188 @@
+{
+    "image": "2015-04-14_-_21-45_Atl._Madrid_0_-_0_Real_Madrid_corner_1.jpg",
+    "total_players": 14,
+    "players": [
+        {
+            "box": [
+                424,
+                340,
+                453,
+                405
+            ],
+            "foot_point": [
+                438,
+                405
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                763,
+                330,
+                789,
+                397
+            ],
+            "foot_point": [
+                776,
+                397
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                443,
+                394,
+                480,
+                472
+            ],
+            "foot_point": [
+                461,
+                472
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                282,
+                343,
+                317,
+                412
+            ],
+            "foot_point": [
+                299,
+                412
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                236,
+                428,
+                266,
+                508
+            ],
+            "foot_point": [
+                251,
+                508
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                834,
+                318,
+                864,
+                390
+            ],
+            "foot_point": [
+                849,
+                390
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                723,
+                309,
+                743,
+                365
+            ],
+            "foot_point": [
+                733,
+                365
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                811,
+                318,
+                834,
+                387
+            ],
+            "foot_point": [
+                822,
+                387
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                635,
+                359,
+                663,
+                439
+            ],
+            "foot_point": [
+                649,
+                439
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                657,
+                374,
+                687,
+                431
+            ],
+            "foot_point": [
+                672,
+                431
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                920,
+                332,
+                944,
+                398
+            ],
+            "foot_point": [
+                932,
+                398
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                677,
+                302,
+                697,
+                355
+            ],
+            "foot_point": [
+                687,
+                355
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                692,
+                292,
+                720,
+                358
+            ],
+            "foot_point": [
+                706,
+                358
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                905,
+                329,
+                926,
+                395
+            ],
+            "foot_point": [
+                915,
+                395
+            ],
+            "status": "manual"
+        }
+    ]
+}

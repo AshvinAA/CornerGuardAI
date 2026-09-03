@@ -1,0 +1,201 @@
+{
+    "image": "2016-11-06_-_19-30_Leicester_1_-_2_West_Brom_corner_3.jpg",
+    "total_players": 15,
+    "players": [
+        {
+            "box": [
+                1106,
+                367,
+                1137,
+                452
+            ],
+            "foot_point": [
+                1121,
+                452
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                340,
+                260,
+                371,
+                318
+            ],
+            "foot_point": [
+                355,
+                318
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                549,
+                262,
+                574,
+                325
+            ],
+            "foot_point": [
+                561,
+                325
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                610,
+                445,
+                669,
+                528
+            ],
+            "foot_point": [
+                639,
+                528
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                638,
+                410,
+                673,
+                489
+            ],
+            "foot_point": [
+                655,
+                489
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                510,
+                398,
+                576,
+                480
+            ],
+            "foot_point": [
+                543,
+                480
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                437,
+                434,
+                508,
+                510
+            ],
+            "foot_point": [
+                472,
+                510
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                309,
+                206,
+                349,
+                269
+            ],
+            "foot_point": [
+                329,
+                269
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                585,
+                448,
+                631,
+                526
+            ],
+            "foot_point": [
+                608,
+                526
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                604,
+                400,
+                636,
+                487
+            ],
+            "foot_point": [
+                620,
+                487
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                885,
+                330,
+                909,
+                405
+            ],
+            "foot_point": [
+                897,
+                405
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                883,
+                348,
+                919,
+                432
+            ],
+            "foot_point": [
+                901,
+                432
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                920,
+                334,
+                939,
+                419
+            ],
+            "foot_point": [
+                929,
+                419
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                922,
+                352,
+                950,
+                424
+            ],
+            "foot_point": [
+                936,
+                424
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                938,
+                331,
+                968,
+                415
+            ],
+            "foot_point": [
+                953,
+                415
+            ],
+            "status": "manual"
+        }
+    ]
+}

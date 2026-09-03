@@ -1,0 +1,175 @@
+{
+    "image": "2015-11-25_-_22-45_Malmo_FF_0_-_5_Paris_SG_corner_2.jpg",
+    "total_players": 13,
+    "players": [
+        {
+            "box": [
+                37,
+                310,
+                75,
+                350
+            ],
+            "foot_point": [
+                56,
+                350
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                399,
+                312,
+                417,
+                353
+            ],
+            "foot_point": [
+                408,
+                353
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                323,
+                309,
+                343,
+                355
+            ],
+            "foot_point": [
+                333,
+                355
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                422,
+                310,
+                446,
+                348
+            ],
+            "foot_point": [
+                434,
+                348
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                98,
+                277,
+                113,
+                321
+            ],
+            "foot_point": [
+                105,
+                321
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                194,
+                292,
+                225,
+                334
+            ],
+            "foot_point": [
+                209,
+                334
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                275,
+                281,
+                292,
+                313
+            ],
+            "foot_point": [
+                283,
+                313
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                293,
+                280,
+                317,
+                335
+            ],
+            "foot_point": [
+                305,
+                335
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                315,
+                278,
+                330,
+                327
+            ],
+            "foot_point": [
+                322,
+                327
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                317,
+                269,
+                336,
+                323
+            ],
+            "foot_point": [
+                326,
+                323
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                227,
+                286,
+                254,
+                330
+            ],
+            "foot_point": [
+                240,
+                330
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                76,
+                274,
+                96,
+                315
+            ],
+            "foot_point": [
+                86,
+                315
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                81,
+                312,
+                101,
+                348
+            ],
+            "foot_point": [
+                91,
+                348
+            ],
+            "status": "manual"
+        }
+    ]
+}

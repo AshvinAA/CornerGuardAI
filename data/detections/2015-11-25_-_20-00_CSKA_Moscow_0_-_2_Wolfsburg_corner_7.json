@@ -1,0 +1,201 @@
+{
+    "image": "2015-11-25_-_20-00_CSKA_Moscow_0_-_2_Wolfsburg_corner_7.jpg",
+    "total_players": 15,
+    "players": [
+        {
+            "box": [
+                900,
+                352,
+                940,
+                448
+            ],
+            "foot_point": [
+                920,
+                448
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                825,
+                307,
+                862,
+                397
+            ],
+            "foot_point": [
+                843,
+                397
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                583,
+                298,
+                639,
+                381
+            ],
+            "foot_point": [
+                611,
+                381
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                547,
+                298,
+                592,
+                374
+            ],
+            "foot_point": [
+                569,
+                374
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                448,
+                314,
+                485,
+                410
+            ],
+            "foot_point": [
+                466,
+                410
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                504,
+                248,
+                541,
+                330
+            ],
+            "foot_point": [
+                522,
+                330
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                345,
+                361,
+                380,
+                455
+            ],
+            "foot_point": [
+                362,
+                455
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                328,
+                354,
+                359,
+                449
+            ],
+            "foot_point": [
+                343,
+                449
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                279,
+                281,
+                323,
+                369
+            ],
+            "foot_point": [
+                301,
+                369
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                542,
+                243,
+                579,
+                327
+            ],
+            "foot_point": [
+                560,
+                327
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                467,
+                243,
+                499,
+                331
+            ],
+            "foot_point": [
+                483,
+                331
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                379,
+                272,
+                429,
+                361
+            ],
+            "foot_point": [
+                404,
+                361
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                349,
+                286,
+                401,
+                365
+            ],
+            "foot_point": [
+                375,
+                365
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                348,
+                247,
+                382,
+                319
+            ],
+            "foot_point": [
+                365,
+                319
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                315,
+                273,
+                345,
+                343
+            ],
+            "foot_point": [
+                330,
+                343
+            ],
+            "status": "manual"
+        }
+    ]
+}

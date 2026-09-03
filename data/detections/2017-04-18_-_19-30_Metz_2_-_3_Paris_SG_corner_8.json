@@ -1,0 +1,240 @@
+{
+    "image": "2017-04-18_-_19-30_Metz_2_-_3_Paris_SG_corner_8.jpg",
+    "total_players": 18,
+    "players": [
+        {
+            "box": [
+                671,
+                538,
+                698,
+                607
+            ],
+            "foot_point": [
+                684,
+                607
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                414,
+                475,
+                432,
+                520
+            ],
+            "foot_point": [
+                423,
+                520
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                424,
+                426,
+                446,
+                475
+            ],
+            "foot_point": [
+                435,
+                475
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                178,
+                425,
+                195,
+                466
+            ],
+            "foot_point": [
+                186,
+                466
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                206,
+                416,
+                223,
+                465
+            ],
+            "foot_point": [
+                214,
+                465
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                301,
+                419,
+                320,
+                468
+            ],
+            "foot_point": [
+                310,
+                468
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                0,
+                439,
+                27,
+                482
+            ],
+            "foot_point": [
+                13,
+                482
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                25,
+                436,
+                55,
+                481
+            ],
+            "foot_point": [
+                40,
+                481
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                123,
+                438,
+                143,
+                476
+            ],
+            "foot_point": [
+                133,
+                476
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                140,
+                443,
+                155,
+                479
+            ],
+            "foot_point": [
+                147,
+                479
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                152,
+                422,
+                173,
+                460
+            ],
+            "foot_point": [
+                162,
+                460
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                217,
+                426,
+                234,
+                460
+            ],
+            "foot_point": [
+                225,
+                460
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                233,
+                434,
+                250,
+                469
+            ],
+            "foot_point": [
+                241,
+                469
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                293,
+                408,
+                314,
+                456
+            ],
+            "foot_point": [
+                303,
+                456
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                330,
+                424,
+                344,
+                469
+            ],
+            "foot_point": [
+                337,
+                469
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                333,
+                423,
+                350,
+                460
+            ],
+            "foot_point": [
+                341,
+                460
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                59,
+                429,
+                73,
+                476
+            ],
+            "foot_point": [
+                66,
+                476
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                69,
+                431,
+                93,
+                483
+            ],
+            "foot_point": [
+                81,
+                483
+            ],
+            "status": "manual"
+        }
+    ]
+}

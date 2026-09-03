@@ -1,0 +1,188 @@
+{
+    "image": "2015-02-17_-_22-45_Shakhtar_Donetsk_0_-_0_Bayern_Munich_corner_2.jpg",
+    "total_players": 14,
+    "players": [
+        {
+            "box": [
+                976,
+                287,
+                998,
+                348
+            ],
+            "foot_point": [
+                987,
+                348
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1071,
+                362,
+                1109,
+                427
+            ],
+            "foot_point": [
+                1090,
+                427
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1090,
+                294,
+                1112,
+                355
+            ],
+            "foot_point": [
+                1101,
+                355
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                856,
+                327,
+                878,
+                393
+            ],
+            "foot_point": [
+                867,
+                393
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                550,
+                287,
+                576,
+                346
+            ],
+            "foot_point": [
+                563,
+                346
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                821,
+                408,
+                844,
+                480
+            ],
+            "foot_point": [
+                832,
+                480
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                481,
+                278,
+                502,
+                333
+            ],
+            "foot_point": [
+                491,
+                333
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1043,
+                439,
+                1065,
+                514
+            ],
+            "foot_point": [
+                1054,
+                514
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                439,
+                352,
+                477,
+                412
+            ],
+            "foot_point": [
+                458,
+                412
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                352,
+                334,
+                404,
+                396
+            ],
+            "foot_point": [
+                378,
+                396
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                277,
+                300,
+                301,
+                352
+            ],
+            "foot_point": [
+                289,
+                352
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                342,
+                281,
+                367,
+                337
+            ],
+            "foot_point": [
+                354,
+                337
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                320,
+                316,
+                342,
+                381
+            ],
+            "foot_point": [
+                331,
+                381
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                341,
+                314,
+                371,
+                374
+            ],
+            "foot_point": [
+                356,
+                374
+            ],
+            "status": "manual"
+        }
+    ]
+}

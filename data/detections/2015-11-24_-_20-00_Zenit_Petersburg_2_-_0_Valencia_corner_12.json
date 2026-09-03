@@ -1,0 +1,214 @@
+{
+    "image": "2015-11-24_-_20-00_Zenit_Petersburg_2_-_0_Valencia_corner_12.jpg",
+    "total_players": 16,
+    "players": [
+        {
+            "box": [
+                1152,
+                511,
+                1168,
+                566
+            ],
+            "foot_point": [
+                1160,
+                566
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1037,
+                453,
+                1059,
+                496
+            ],
+            "foot_point": [
+                1048,
+                496
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                818,
+                422,
+                832,
+                458
+            ],
+            "foot_point": [
+                825,
+                458
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                963,
+                435,
+                984,
+                475
+            ],
+            "foot_point": [
+                973,
+                475
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                746,
+                409,
+                763,
+                437
+            ],
+            "foot_point": [
+                754,
+                437
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                770,
+                427,
+                791,
+                448
+            ],
+            "foot_point": [
+                780,
+                448
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                779,
+                398,
+                793,
+                422
+            ],
+            "foot_point": [
+                786,
+                422
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                800,
+                405,
+                811,
+                431
+            ],
+            "foot_point": [
+                805,
+                431
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                802,
+                415,
+                821,
+                450
+            ],
+            "foot_point": [
+                811,
+                450
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                809,
+                456,
+                822,
+                489
+            ],
+            "foot_point": [
+                815,
+                489
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                880,
+                429,
+                896,
+                456
+            ],
+            "foot_point": [
+                888,
+                456
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                872,
+                414,
+                889,
+                446
+            ],
+            "foot_point": [
+                880,
+                446
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                873,
+                403,
+                889,
+                425
+            ],
+            "foot_point": [
+                881,
+                425
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                900,
+                400,
+                913,
+                443
+            ],
+            "foot_point": [
+                906,
+                443
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                935,
+                410,
+                946,
+                455
+            ],
+            "foot_point": [
+                940,
+                455
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                948,
+                421,
+                961,
+                462
+            ],
+            "foot_point": [
+                954,
+                462
+            ],
+            "status": "manual"
+        }
+    ]
+}

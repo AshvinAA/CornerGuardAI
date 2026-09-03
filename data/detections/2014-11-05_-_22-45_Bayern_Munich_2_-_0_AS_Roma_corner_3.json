@@ -1,0 +1,201 @@
+{
+    "image": "2014-11-05_-_22-45_Bayern_Munich_2_-_0_AS_Roma_corner_3.jpg",
+    "total_players": 15,
+    "players": [
+        {
+            "box": [
+                1094,
+                510,
+                1118,
+                571
+            ],
+            "foot_point": [
+                1106,
+                571
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1162,
+                518,
+                1183,
+                576
+            ],
+            "foot_point": [
+                1172,
+                576
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1149,
+                441,
+                1167,
+                484
+            ],
+            "foot_point": [
+                1158,
+                484
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                878,
+                422,
+                897,
+                468
+            ],
+            "foot_point": [
+                887,
+                468
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1011,
+                420,
+                1031,
+                460
+            ],
+            "foot_point": [
+                1021,
+                460
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1094,
+                436,
+                1118,
+                481
+            ],
+            "foot_point": [
+                1106,
+                481
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                714,
+                429,
+                744,
+                474
+            ],
+            "foot_point": [
+                729,
+                474
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                785,
+                427,
+                805,
+                474
+            ],
+            "foot_point": [
+                795,
+                474
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                797,
+                416,
+                821,
+                464
+            ],
+            "foot_point": [
+                809,
+                464
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                824,
+                424,
+                842,
+                467
+            ],
+            "foot_point": [
+                833,
+                467
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                846,
+                435,
+                864,
+                478
+            ],
+            "foot_point": [
+                855,
+                478
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                820,
+                429,
+                839,
+                476
+            ],
+            "foot_point": [
+                829,
+                476
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                920,
+                420,
+                943,
+                461
+            ],
+            "foot_point": [
+                931,
+                461
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                909,
+                422,
+                933,
+                458
+            ],
+            "foot_point": [
+                921,
+                458
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                945,
+                415,
+                958,
+                454
+            ],
+            "foot_point": [
+                951,
+                454
+            ],
+            "status": "manual"
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "image": "2015-12-26_-_18-00_Manchester_City_4_-_1_Sunderland_corner_4.jpg",
+    "total_players": 8,
+    "players": [
+        {
+            "box": [
+                158,
+                395,
+                183,
+                463
+            ],
+            "foot_point": [
+                170,
+                463
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                382,
+                321,
+                402,
+                372
+            ],
+            "foot_point": [
+                392,
+                372
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                119,
+                309,
+                163,
+                359
+            ],
+            "foot_point": [
+                141,
+                359
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                35,
+                324,
+                66,
+                371
+            ],
+            "foot_point": [
+                50,
+                371
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                236,
+                277,
+                259,
+                333
+            ],
+            "foot_point": [
+                247,
+                333
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                252,
+                281,
+                273,
+                335
+            ],
+            "foot_point": [
+                262,
+                335
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                281,
+                303,
+                307,
+                356
+            ],
+            "foot_point": [
+                294,
+                356
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                277,
+                274,
+                296,
+                325
+            ],
+            "foot_point": [
+                286,
+                325
+            ],
+            "status": "manual"
+        }
+    ]
+}

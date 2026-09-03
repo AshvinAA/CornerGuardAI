@@ -1,0 +1,292 @@
+{
+    "image": "2016-11-27_-_22-45_Lyon_1_-_2_Paris_SG_corner_3.jpg",
+    "total_players": 22,
+    "players": [
+        {
+            "box": [
+                895,
+                354,
+                918,
+                403
+            ],
+            "foot_point": [
+                906,
+                403
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                274,
+                379,
+                292,
+                424
+            ],
+            "foot_point": [
+                283,
+                424
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                974,
+                373,
+                994,
+                420
+            ],
+            "foot_point": [
+                984,
+                420
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                582,
+                366,
+                606,
+                410
+            ],
+            "foot_point": [
+                594,
+                410
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                476,
+                308,
+                496,
+                352
+            ],
+            "foot_point": [
+                486,
+                352
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                93,
+                359,
+                116,
+                400
+            ],
+            "foot_point": [
+                104,
+                400
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                537,
+                327,
+                555,
+                369
+            ],
+            "foot_point": [
+                546,
+                369
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                751,
+                318,
+                767,
+                350
+            ],
+            "foot_point": [
+                759,
+                350
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                1083,
+                405,
+                1102,
+                453
+            ],
+            "foot_point": [
+                1092,
+                453
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                444,
+                231,
+                459,
+                269
+            ],
+            "foot_point": [
+                451,
+                269
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                606,
+                273,
+                623,
+                317
+            ],
+            "foot_point": [
+                614,
+                317
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                238,
+                363,
+                267,
+                398
+            ],
+            "foot_point": [
+                252,
+                398
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                229,
+                337,
+                251,
+                371
+            ],
+            "foot_point": [
+                240,
+                371
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                238,
+                327,
+                262,
+                365
+            ],
+            "foot_point": [
+                250,
+                365
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                264,
+                326,
+                286,
+                370
+            ],
+            "foot_point": [
+                275,
+                370
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                265,
+                365,
+                286,
+                400
+            ],
+            "foot_point": [
+                275,
+                400
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                298,
+                328,
+                313,
+                367
+            ],
+            "foot_point": [
+                305,
+                367
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                294,
+                323,
+                308,
+                356
+            ],
+            "foot_point": [
+                301,
+                356
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                316,
+                331,
+                336,
+                365
+            ],
+            "foot_point": [
+                326,
+                365
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                331,
+                326,
+                358,
+                371
+            ],
+            "foot_point": [
+                344,
+                371
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                446,
+                355,
+                463,
+                393
+            ],
+            "foot_point": [
+                454,
+                393
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                462,
+                342,
+                477,
+                383
+            ],
+            "foot_point": [
+                469,
+                383
+            ],
+            "status": "manual"
+        }
+    ]
+}

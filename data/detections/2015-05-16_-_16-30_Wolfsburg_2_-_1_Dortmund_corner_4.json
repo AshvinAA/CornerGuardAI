@@ -1,0 +1,175 @@
+{
+    "image": "2015-05-16_-_16-30_Wolfsburg_2_-_1_Dortmund_corner_4.jpg",
+    "total_players": 13,
+    "players": [
+        {
+            "box": [
+                376,
+                509,
+                411,
+                574
+            ],
+            "foot_point": [
+                393,
+                574
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                565,
+                456,
+                588,
+                511
+            ],
+            "foot_point": [
+                576,
+                511
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1136,
+                402,
+                1157,
+                458
+            ],
+            "foot_point": [
+                1146,
+                458
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1239,
+                383,
+                1261,
+                433
+            ],
+            "foot_point": [
+                1250,
+                433
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                840,
+                374,
+                861,
+                422
+            ],
+            "foot_point": [
+                850,
+                422
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                830,
+                377,
+                842,
+                421
+            ],
+            "foot_point": [
+                836,
+                421
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                882,
+                360,
+                913,
+                409
+            ],
+            "foot_point": [
+                897,
+                409
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                981,
+                370,
+                1002,
+                414
+            ],
+            "foot_point": [
+                991,
+                414
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1021,
+                375,
+                1036,
+                406
+            ],
+            "foot_point": [
+                1028,
+                406
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1031,
+                376,
+                1048,
+                407
+            ],
+            "foot_point": [
+                1039,
+                407
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1028,
+                381,
+                1060,
+                419
+            ],
+            "foot_point": [
+                1044,
+                419
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1069,
+                376,
+                1087,
+                419
+            ],
+            "foot_point": [
+                1078,
+                419
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                792,
+                368,
+                810,
+                412
+            ],
+            "foot_point": [
+                801,
+                412
+            ],
+            "status": "manual"
+        }
+    ]
+}

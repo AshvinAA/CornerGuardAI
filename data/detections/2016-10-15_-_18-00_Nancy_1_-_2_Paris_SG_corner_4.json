@@ -1,0 +1,214 @@
+{
+    "image": "2016-10-15_-_18-00_Nancy_1_-_2_Paris_SG_corner_4.jpg",
+    "total_players": 16,
+    "players": [
+        {
+            "box": [
+                874,
+                432,
+                903,
+                530
+            ],
+            "foot_point": [
+                888,
+                530
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                764,
+                458,
+                804,
+                548
+            ],
+            "foot_point": [
+                784,
+                548
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                545,
+                401,
+                579,
+                496
+            ],
+            "foot_point": [
+                562,
+                496
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                749,
+                405,
+                771,
+                492
+            ],
+            "foot_point": [
+                760,
+                492
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                561,
+                325,
+                586,
+                399
+            ],
+            "foot_point": [
+                573,
+                399
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                641,
+                401,
+                670,
+                495
+            ],
+            "foot_point": [
+                655,
+                495
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                522,
+                399,
+                548,
+                491
+            ],
+            "foot_point": [
+                535,
+                491
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                734,
+                360,
+                764,
+                433
+            ],
+            "foot_point": [
+                749,
+                433
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                296,
+                341,
+                322,
+                432
+            ],
+            "foot_point": [
+                309,
+                432
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                603,
+                405,
+                641,
+                496
+            ],
+            "foot_point": [
+                622,
+                496
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                673,
+                436,
+                714,
+                536
+            ],
+            "foot_point": [
+                693,
+                536
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                591,
+                399,
+                620,
+                479
+            ],
+            "foot_point": [
+                605,
+                479
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                488,
+                377,
+                517,
+                461
+            ],
+            "foot_point": [
+                502,
+                461
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                488,
+                345,
+                514,
+                427
+            ],
+            "foot_point": [
+                501,
+                427
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                677,
+                403,
+                703,
+                477
+            ],
+            "foot_point": [
+                690,
+                477
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                678,
+                426,
+                711,
+                501
+            ],
+            "foot_point": [
+                694,
+                501
+            ],
+            "status": "manual"
+        }
+    ]
+}

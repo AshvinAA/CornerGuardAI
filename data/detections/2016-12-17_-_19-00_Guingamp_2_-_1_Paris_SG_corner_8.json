@@ -1,0 +1,97 @@
+{
+    "image": "2016-12-17_-_19-00_Guingamp_2_-_1_Paris_SG_corner_8.jpg",
+    "total_players": 7,
+    "players": [
+        {
+            "box": [
+                929,
+                486,
+                958,
+                564
+            ],
+            "foot_point": [
+                943,
+                564
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                897,
+                537,
+                924,
+                612
+            ],
+            "foot_point": [
+                910,
+                612
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1032,
+                502,
+                1064,
+                566
+            ],
+            "foot_point": [
+                1048,
+                566
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                374,
+                320,
+                395,
+                367
+            ],
+            "foot_point": [
+                384,
+                367
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                664,
+                670,
+                696,
+                719
+            ],
+            "foot_point": [
+                680,
+                719
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                413,
+                301,
+                436,
+                345
+            ],
+            "foot_point": [
+                424,
+                345
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                450,
+                327,
+                465,
+                375
+            ],
+            "foot_point": [
+                457,
+                375
+            ],
+            "status": "safe"
+        }
+    ]
+}

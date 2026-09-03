@@ -1,0 +1,201 @@
+{
+    "image": "2015-11-25_-_22-45_Malmo_FF_0_-_5_Paris_SG_corner_1.jpg",
+    "total_players": 15,
+    "players": [
+        {
+            "box": [
+                36,
+                587,
+                91,
+                701
+            ],
+            "foot_point": [
+                63,
+                701
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                0,
+                597,
+                26,
+                704
+            ],
+            "foot_point": [
+                13,
+                704
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                510,
+                412,
+                541,
+                498
+            ],
+            "foot_point": [
+                525,
+                498
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                569,
+                433,
+                616,
+                502
+            ],
+            "foot_point": [
+                592,
+                502
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                732,
+                339,
+                793,
+                408
+            ],
+            "foot_point": [
+                762,
+                408
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                637,
+                419,
+                683,
+                496
+            ],
+            "foot_point": [
+                660,
+                496
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1019,
+                402,
+                1058,
+                489
+            ],
+            "foot_point": [
+                1038,
+                489
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                681,
+                337,
+                711,
+                421
+            ],
+            "foot_point": [
+                696,
+                421
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                900,
+                366,
+                946,
+                438
+            ],
+            "foot_point": [
+                923,
+                438
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                867,
+                380,
+                891,
+                446
+            ],
+            "foot_point": [
+                879,
+                446
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                878,
+                360,
+                913,
+                433
+            ],
+            "foot_point": [
+                895,
+                433
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1001,
+                424,
+                1029,
+                498
+            ],
+            "foot_point": [
+                1015,
+                498
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                994,
+                410,
+                1019,
+                498
+            ],
+            "foot_point": [
+                1006,
+                498
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                980,
+                399,
+                1016,
+                497
+            ],
+            "foot_point": [
+                998,
+                497
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1002,
+                359,
+                1029,
+                443
+            ],
+            "foot_point": [
+                1015,
+                443
+            ],
+            "status": "manual"
+        }
+    ]
+}

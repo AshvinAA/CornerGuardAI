@@ -1,0 +1,227 @@
+{
+    "image": "2015-11-03_-_22-45_Manchester_United_1_-_0_CSKA_Moscow_corner_1.jpg",
+    "total_players": 17,
+    "players": [
+        {
+            "box": [
+                630,
+                359,
+                656,
+                431
+            ],
+            "foot_point": [
+                643,
+                431
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                358,
+                433,
+                399,
+                520
+            ],
+            "foot_point": [
+                378,
+                520
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                48,
+                445,
+                90,
+                526
+            ],
+            "foot_point": [
+                69,
+                526
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                508,
+                397,
+                529,
+                472
+            ],
+            "foot_point": [
+                518,
+                472
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                175,
+                457,
+                204,
+                548
+            ],
+            "foot_point": [
+                189,
+                548
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                208,
+                421,
+                237,
+                499
+            ],
+            "foot_point": [
+                222,
+                499
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                401,
+                408,
+                439,
+                484
+            ],
+            "foot_point": [
+                420,
+                484
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                843,
+                328,
+                867,
+                394
+            ],
+            "foot_point": [
+                855,
+                394
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                265,
+                296,
+                289,
+                359
+            ],
+            "foot_point": [
+                277,
+                359
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                712,
+                369,
+                739,
+                442
+            ],
+            "foot_point": [
+                725,
+                442
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                743,
+                371,
+                769,
+                442
+            ],
+            "foot_point": [
+                756,
+                442
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                782,
+                322,
+                807,
+                371
+            ],
+            "foot_point": [
+                794,
+                371
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                941,
+                326,
+                963,
+                392
+            ],
+            "foot_point": [
+                952,
+                392
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                337,
+                223,
+                360,
+                275
+            ],
+            "foot_point": [
+                348,
+                275
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                713,
+                326,
+                735,
+                382
+            ],
+            "foot_point": [
+                724,
+                382
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                224,
+                197,
+                252,
+                249
+            ],
+            "foot_point": [
+                238,
+                249
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                751,
+                321,
+                780,
+                398
+            ],
+            "foot_point": [
+                765,
+                398
+            ],
+            "status": "manual"
+        }
+    ]
+}

@@ -1,0 +1,188 @@
+{
+    "image": "2015-03-18_-_22-45_Barcelona_1_-_0_Manchester_City_corner_3.jpg",
+    "total_players": 14,
+    "players": [
+        {
+            "box": [
+                1167,
+                364,
+                1185,
+                415
+            ],
+            "foot_point": [
+                1176,
+                415
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1092,
+                354,
+                1107,
+                398
+            ],
+            "foot_point": [
+                1099,
+                398
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                825,
+                335,
+                847,
+                379
+            ],
+            "foot_point": [
+                836,
+                379
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                763,
+                324,
+                786,
+                368
+            ],
+            "foot_point": [
+                774,
+                368
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                848,
+                298,
+                865,
+                343
+            ],
+            "foot_point": [
+                856,
+                343
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                937,
+                342,
+                954,
+                388
+            ],
+            "foot_point": [
+                945,
+                388
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                936,
+                301,
+                957,
+                350
+            ],
+            "foot_point": [
+                946,
+                350
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                960,
+                305,
+                980,
+                344
+            ],
+            "foot_point": [
+                970,
+                344
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                964,
+                336,
+                994,
+                386
+            ],
+            "foot_point": [
+                979,
+                386
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1007,
+                324,
+                1024,
+                361
+            ],
+            "foot_point": [
+                1015,
+                361
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1017,
+                318,
+                1032,
+                368
+            ],
+            "foot_point": [
+                1024,
+                368
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                984,
+                286,
+                998,
+                321
+            ],
+            "foot_point": [
+                991,
+                321
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                995,
+                283,
+                1017,
+                328
+            ],
+            "foot_point": [
+                1006,
+                328
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                784,
+                297,
+                807,
+                337
+            ],
+            "foot_point": [
+                795,
+                337
+            ],
+            "status": "manual"
+        }
+    ]
+}

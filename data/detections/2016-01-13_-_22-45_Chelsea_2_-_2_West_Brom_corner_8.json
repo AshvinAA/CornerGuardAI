@@ -1,0 +1,188 @@
+{
+    "image": "2016-01-13_-_22-45_Chelsea_2_-_2_West_Brom_corner_8.jpg",
+    "total_players": 14,
+    "players": [
+        {
+            "box": [
+                1097,
+                404,
+                1131,
+                507
+            ],
+            "foot_point": [
+                1114,
+                507
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1125,
+                290,
+                1149,
+                367
+            ],
+            "foot_point": [
+                1137,
+                367
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                958,
+                392,
+                1000,
+                495
+            ],
+            "foot_point": [
+                979,
+                495
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                447,
+                364,
+                486,
+                454
+            ],
+            "foot_point": [
+                466,
+                454
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                572,
+                304,
+                596,
+                361
+            ],
+            "foot_point": [
+                584,
+                361
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                538,
+                368,
+                570,
+                444
+            ],
+            "foot_point": [
+                554,
+                444
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                377,
+                309,
+                428,
+                378
+            ],
+            "foot_point": [
+                402,
+                378
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                260,
+                320,
+                290,
+                413
+            ],
+            "foot_point": [
+                275,
+                413
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                282,
+                329,
+                319,
+                420
+            ],
+            "foot_point": [
+                300,
+                420
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                300,
+                324,
+                334,
+                423
+            ],
+            "foot_point": [
+                317,
+                423
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                468,
+                308,
+                514,
+                390
+            ],
+            "foot_point": [
+                491,
+                390
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                472,
+                317,
+                524,
+                394
+            ],
+            "foot_point": [
+                498,
+                394
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                438,
+                368,
+                467,
+                441
+            ],
+            "foot_point": [
+                452,
+                441
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                575,
+                364,
+                618,
+                446
+            ],
+            "foot_point": [
+                596,
+                446
+            ],
+            "status": "manual"
+        }
+    ]
+}

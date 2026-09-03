@@ -1,0 +1,201 @@
+{
+    "image": "2015-09-26_-_17-00_Liverpool_3_-_2_Aston_Villa_corner_3.jpg",
+    "total_players": 15,
+    "players": [
+        {
+            "box": [
+                1084,
+                346,
+                1102,
+                409
+            ],
+            "foot_point": [
+                1093,
+                409
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1153,
+                405,
+                1180,
+                467
+            ],
+            "foot_point": [
+                1166,
+                467
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                814,
+                292,
+                831,
+                338
+            ],
+            "foot_point": [
+                822,
+                338
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                840,
+                294,
+                865,
+                335
+            ],
+            "foot_point": [
+                852,
+                335
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                905,
+                272,
+                925,
+                324
+            ],
+            "foot_point": [
+                915,
+                324
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                925,
+                261,
+                949,
+                308
+            ],
+            "foot_point": [
+                937,
+                308
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                976,
+                250,
+                1005,
+                299
+            ],
+            "foot_point": [
+                990,
+                299
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                998,
+                254,
+                1015,
+                303
+            ],
+            "foot_point": [
+                1006,
+                303
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1003,
+                253,
+                1020,
+                299
+            ],
+            "foot_point": [
+                1011,
+                299
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1032,
+                258,
+                1045,
+                303
+            ],
+            "foot_point": [
+                1038,
+                303
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1045,
+                254,
+                1063,
+                298
+            ],
+            "foot_point": [
+                1054,
+                298
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1047,
+                251,
+                1067,
+                300
+            ],
+            "foot_point": [
+                1057,
+                300
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1075,
+                254,
+                1099,
+                297
+            ],
+            "foot_point": [
+                1087,
+                297
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1174,
+                263,
+                1214,
+                299
+            ],
+            "foot_point": [
+                1194,
+                299
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1200,
+                248,
+                1230,
+                293
+            ],
+            "foot_point": [
+                1215,
+                293
+            ],
+            "status": "manual"
+        }
+    ]
+}

@@ -1,0 +1,201 @@
+{
+    "image": "2015-09-16_-_21-45_AS_Roma_1_-_1_Barcelona_corner_2.jpg",
+    "total_players": 15,
+    "players": [
+        {
+            "box": [
+                245,
+                365,
+                273,
+                424
+            ],
+            "foot_point": [
+                259,
+                424
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                196,
+                258,
+                212,
+                295
+            ],
+            "foot_point": [
+                204,
+                295
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                211,
+                253,
+                225,
+                300
+            ],
+            "foot_point": [
+                218,
+                300
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                214,
+                270,
+                236,
+                299
+            ],
+            "foot_point": [
+                225,
+                299
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                239,
+                261,
+                256,
+                304
+            ],
+            "foot_point": [
+                247,
+                304
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                264,
+                260,
+                282,
+                305
+            ],
+            "foot_point": [
+                273,
+                305
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                352,
+                256,
+                371,
+                306
+            ],
+            "foot_point": [
+                361,
+                306
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                364,
+                323,
+                388,
+                376
+            ],
+            "foot_point": [
+                376,
+                376
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                498,
+                272,
+                515,
+                310
+            ],
+            "foot_point": [
+                506,
+                310
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                507,
+                276,
+                527,
+                315
+            ],
+            "foot_point": [
+                517,
+                315
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                516,
+                259,
+                533,
+                307
+            ],
+            "foot_point": [
+                524,
+                307
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                538,
+                266,
+                558,
+                299
+            ],
+            "foot_point": [
+                548,
+                299
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                561,
+                264,
+                583,
+                305
+            ],
+            "foot_point": [
+                572,
+                305
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                592,
+                272,
+                617,
+                316
+            ],
+            "foot_point": [
+                604,
+                316
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                559,
+                243,
+                579,
+                284
+            ],
+            "foot_point": [
+                569,
+                284
+            ],
+            "status": "manual"
+        }
+    ]
+}

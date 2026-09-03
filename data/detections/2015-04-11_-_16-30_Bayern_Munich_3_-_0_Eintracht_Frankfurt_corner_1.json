@@ -1,0 +1,175 @@
+{
+    "image": "2015-04-11_-_16-30_Bayern_Munich_3_-_0_Eintracht_Frankfurt_corner_1.jpg",
+    "total_players": 13,
+    "players": [
+        {
+            "box": [
+                923,
+                422,
+                953,
+                500
+            ],
+            "foot_point": [
+                938,
+                500
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                687,
+                405,
+                715,
+                486
+            ],
+            "foot_point": [
+                701,
+                486
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                992,
+                370,
+                1023,
+                449
+            ],
+            "foot_point": [
+                1007,
+                449
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                433,
+                420,
+                467,
+                490
+            ],
+            "foot_point": [
+                450,
+                490
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                470,
+                428,
+                509,
+                501
+            ],
+            "foot_point": [
+                489,
+                501
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                508,
+                422,
+                549,
+                495
+            ],
+            "foot_point": [
+                528,
+                495
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                540,
+                362,
+                572,
+                436
+            ],
+            "foot_point": [
+                556,
+                436
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                231,
+                391,
+                259,
+                472
+            ],
+            "foot_point": [
+                245,
+                472
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                792,
+                320,
+                818,
+                377
+            ],
+            "foot_point": [
+                805,
+                377
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                361,
+                419,
+                383,
+                505
+            ],
+            "foot_point": [
+                372,
+                505
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                328,
+                414,
+                359,
+                495
+            ],
+            "foot_point": [
+                343,
+                495
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                358,
+                405,
+                389,
+                489
+            ],
+            "foot_point": [
+                373,
+                489
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1017,
+                302,
+                1038,
+                363
+            ],
+            "foot_point": [
+                1027,
+                363
+            ],
+            "status": "manual"
+        }
+    ]
+}

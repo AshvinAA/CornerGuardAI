@@ -1,0 +1,188 @@
+{
+    "image": "2016-08-12_-_21-00_Bastia_0_-_1_Paris_SG_corner_5.jpg",
+    "total_players": 14,
+    "players": [
+        {
+            "box": [
+                478,
+                497,
+                519,
+                609
+            ],
+            "foot_point": [
+                498,
+                609
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                164,
+                543,
+                203,
+                664
+            ],
+            "foot_point": [
+                183,
+                664
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                248,
+                416,
+                274,
+                517
+            ],
+            "foot_point": [
+                261,
+                517
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                962,
+                397,
+                1009,
+                498
+            ],
+            "foot_point": [
+                985,
+                498
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                741,
+                414,
+                775,
+                519
+            ],
+            "foot_point": [
+                758,
+                519
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                702,
+                417,
+                734,
+                511
+            ],
+            "foot_point": [
+                718,
+                511
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                594,
+                382,
+                627,
+                451
+            ],
+            "foot_point": [
+                610,
+                451
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                593,
+                457,
+                631,
+                545
+            ],
+            "foot_point": [
+                612,
+                545
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                752,
+                381,
+                780,
+                470
+            ],
+            "foot_point": [
+                766,
+                470
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                639,
+                392,
+                666,
+                458
+            ],
+            "foot_point": [
+                652,
+                458
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                637,
+                377,
+                669,
+                453
+            ],
+            "foot_point": [
+                653,
+                453
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                664,
+                411,
+                709,
+                484
+            ],
+            "foot_point": [
+                686,
+                484
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                680,
+                429,
+                712,
+                509
+            ],
+            "foot_point": [
+                696,
+                509
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                633,
+                443,
+                676,
+                563
+            ],
+            "foot_point": [
+                654,
+                563
+            ],
+            "status": "flagged"
+        }
+    ]
+}

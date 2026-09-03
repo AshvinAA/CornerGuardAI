@@ -1,0 +1,136 @@
+{
+    "image": "2016-09-16_-_22-00_Chelsea_1_-_2_Liverpool_corner_8.jpg",
+    "total_players": 10,
+    "players": [
+        {
+            "box": [
+                582,
+                391,
+                605,
+                461
+            ],
+            "foot_point": [
+                593,
+                461
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                988,
+                413,
+                1027,
+                482
+            ],
+            "foot_point": [
+                1007,
+                482
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                287,
+                504,
+                337,
+                584
+            ],
+            "foot_point": [
+                312,
+                584
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                77,
+                411,
+                108,
+                487
+            ],
+            "foot_point": [
+                92,
+                487
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                962,
+                354,
+                986,
+                419
+            ],
+            "foot_point": [
+                974,
+                419
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1164,
+                326,
+                1197,
+                387
+            ],
+            "foot_point": [
+                1180,
+                387
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                78,
+                411,
+                125,
+                488
+            ],
+            "foot_point": [
+                101,
+                488
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1011,
+                347,
+                1036,
+                408
+            ],
+            "foot_point": [
+                1023,
+                408
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1119,
+                329,
+                1141,
+                396
+            ],
+            "foot_point": [
+                1130,
+                396
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1179,
+                297,
+                1207,
+                367
+            ],
+            "foot_point": [
+                1193,
+                367
+            ],
+            "status": "manual"
+        }
+    ]
+}

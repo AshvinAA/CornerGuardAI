@@ -1,0 +1,214 @@
+{
+    "image": "2015-02-21_-_17-30_Paderborn_0_-_6_Bayern_Munich_corner_5.jpg",
+    "total_players": 16,
+    "players": [
+        {
+            "box": [
+                922,
+                435,
+                961,
+                520
+            ],
+            "foot_point": [
+                941,
+                520
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                718,
+                433,
+                767,
+                526
+            ],
+            "foot_point": [
+                742,
+                526
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                865,
+                486,
+                907,
+                576
+            ],
+            "foot_point": [
+                886,
+                576
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                845,
+                387,
+                884,
+                457
+            ],
+            "foot_point": [
+                864,
+                457
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                548,
+                415,
+                579,
+                505
+            ],
+            "foot_point": [
+                563,
+                505
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                737,
+                346,
+                771,
+                424
+            ],
+            "foot_point": [
+                754,
+                424
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                388,
+                386,
+                426,
+                457
+            ],
+            "foot_point": [
+                407,
+                457
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                602,
+                345,
+                632,
+                422
+            ],
+            "foot_point": [
+                617,
+                422
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                458,
+                345,
+                483,
+                416
+            ],
+            "foot_point": [
+                470,
+                416
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                533,
+                368,
+                556,
+                438
+            ],
+            "foot_point": [
+                544,
+                438
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                335,
+                367,
+                361,
+                447
+            ],
+            "foot_point": [
+                348,
+                447
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                818,
+                273,
+                843,
+                335
+            ],
+            "foot_point": [
+                830,
+                335
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1000,
+                257,
+                1022,
+                313
+            ],
+            "foot_point": [
+                1011,
+                313
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                368,
+                332,
+                392,
+                408
+            ],
+            "foot_point": [
+                380,
+                408
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                531,
+                318,
+                561,
+                400
+            ],
+            "foot_point": [
+                546,
+                400
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1084,
+                232,
+                1105,
+                289
+            ],
+            "foot_point": [
+                1094,
+                289
+            ],
+            "status": "manual"
+        }
+    ]
+}

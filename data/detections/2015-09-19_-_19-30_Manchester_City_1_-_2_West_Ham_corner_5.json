@@ -1,0 +1,162 @@
+{
+    "image": "2015-09-19_-_19-30_Manchester_City_1_-_2_West_Ham_corner_5.jpg",
+    "total_players": 12,
+    "players": [
+        {
+            "box": [
+                902,
+                223,
+                933,
+                308
+            ],
+            "foot_point": [
+                917,
+                308
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                709,
+                445,
+                769,
+                560
+            ],
+            "foot_point": [
+                739,
+                560
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                946,
+                353,
+                992,
+                470
+            ],
+            "foot_point": [
+                969,
+                470
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                828,
+                185,
+                853,
+                254
+            ],
+            "foot_point": [
+                840,
+                254
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                906,
+                533,
+                948,
+                661
+            ],
+            "foot_point": [
+                927,
+                661
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                289,
+                324,
+                331,
+                423
+            ],
+            "foot_point": [
+                310,
+                423
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                530,
+                343,
+                565,
+                434
+            ],
+            "foot_point": [
+                547,
+                434
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                486,
+                347,
+                516,
+                442
+            ],
+            "foot_point": [
+                501,
+                442
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                711,
+                283,
+                753,
+                383
+            ],
+            "foot_point": [
+                732,
+                383
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                470,
+                320,
+                495,
+                420
+            ],
+            "foot_point": [
+                482,
+                420
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                529,
+                286,
+                591,
+                390
+            ],
+            "foot_point": [
+                560,
+                390
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1103,
+                105,
+                1147,
+                192
+            ],
+            "foot_point": [
+                1125,
+                192
+            ],
+            "status": "manual"
+        }
+    ]
+}

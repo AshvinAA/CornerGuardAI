@@ -1,0 +1,175 @@
+{
+    "image": "2015-05-12_-_21-45_Bayern_Munich_3_-_2_Barcelona_corner_3.jpg",
+    "total_players": 13,
+    "players": [
+        {
+            "box": [
+                969,
+                460,
+                989,
+                505
+            ],
+            "foot_point": [
+                979,
+                505
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1226,
+                481,
+                1247,
+                535
+            ],
+            "foot_point": [
+                1236,
+                535
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                753,
+                437,
+                770,
+                475
+            ],
+            "foot_point": [
+                761,
+                475
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                893,
+                426,
+                916,
+                464
+            ],
+            "foot_point": [
+                904,
+                464
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                797,
+                433,
+                813,
+                473
+            ],
+            "foot_point": [
+                805,
+                473
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1003,
+                442,
+                1019,
+                478
+            ],
+            "foot_point": [
+                1011,
+                478
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1014,
+                439,
+                1037,
+                473
+            ],
+            "foot_point": [
+                1025,
+                473
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                996,
+                423,
+                1016,
+                454
+            ],
+            "foot_point": [
+                1006,
+                454
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                987,
+                421,
+                1008,
+                448
+            ],
+            "foot_point": [
+                997,
+                448
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                930,
+                437,
+                945,
+                464
+            ],
+            "foot_point": [
+                937,
+                464
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                941,
+                432,
+                956,
+                470
+            ],
+            "foot_point": [
+                948,
+                470
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                933,
+                424,
+                947,
+                460
+            ],
+            "foot_point": [
+                940,
+                460
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                819,
+                417,
+                843,
+                460
+            ],
+            "foot_point": [
+                831,
+                460
+            ],
+            "status": "manual"
+        }
+    ]
+}

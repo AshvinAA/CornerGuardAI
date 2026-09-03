@@ -1,0 +1,188 @@
+{
+    "image": "2017-02-15_-_22-45_Real_Madrid_3_-_1_Napoli_corner_5.jpg",
+    "total_players": 14,
+    "players": [
+        {
+            "box": [
+                168,
+                465,
+                195,
+                519
+            ],
+            "foot_point": [
+                181,
+                519
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                129,
+                419,
+                152,
+                467
+            ],
+            "foot_point": [
+                140,
+                467
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                290,
+                401,
+                306,
+                448
+            ],
+            "foot_point": [
+                298,
+                448
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                348,
+                400,
+                369,
+                451
+            ],
+            "foot_point": [
+                358,
+                451
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                -9,
+                403,
+                10,
+                459
+            ],
+            "foot_point": [
+                0,
+                459
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                101,
+                396,
+                125,
+                449
+            ],
+            "foot_point": [
+                113,
+                449
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                136,
+                393,
+                149,
+                428
+            ],
+            "foot_point": [
+                142,
+                428
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                178,
+                400,
+                196,
+                450
+            ],
+            "foot_point": [
+                187,
+                450
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                150,
+                394,
+                165,
+                435
+            ],
+            "foot_point": [
+                157,
+                435
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                165,
+                412,
+                178,
+                447
+            ],
+            "foot_point": [
+                171,
+                447
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                161,
+                391,
+                175,
+                432
+            ],
+            "foot_point": [
+                168,
+                432
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                273,
+                406,
+                286,
+                451
+            ],
+            "foot_point": [
+                279,
+                451
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                410,
+                416,
+                434,
+                452
+            ],
+            "foot_point": [
+                422,
+                452
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                448,
+                414,
+                463,
+                452
+            ],
+            "foot_point": [
+                455,
+                452
+            ],
+            "status": "manual"
+        }
+    ]
+}

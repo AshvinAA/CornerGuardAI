@@ -1,0 +1,136 @@
+{
+    "image": "2015-02-21_-_18-00_Swansea_2_-_1_Manchester_United_corner_11.jpg",
+    "total_players": 10,
+    "players": [
+        {
+            "box": [
+                842,
+                433,
+                867,
+                499
+            ],
+            "foot_point": [
+                854,
+                499
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                688,
+                488,
+                723,
+                565
+            ],
+            "foot_point": [
+                705,
+                565
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                580,
+                383,
+                606,
+                451
+            ],
+            "foot_point": [
+                593,
+                451
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                991,
+                328,
+                1012,
+                380
+            ],
+            "foot_point": [
+                1001,
+                380
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1065,
+                322,
+                1090,
+                352
+            ],
+            "foot_point": [
+                1077,
+                352
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1088,
+                329,
+                1116,
+                369
+            ],
+            "foot_point": [
+                1102,
+                369
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1098,
+                311,
+                1115,
+                351
+            ],
+            "foot_point": [
+                1106,
+                351
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1123,
+                322,
+                1144,
+                373
+            ],
+            "foot_point": [
+                1133,
+                373
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1116,
+                306,
+                1147,
+                355
+            ],
+            "foot_point": [
+                1131,
+                355
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1092,
+                299,
+                1113,
+                345
+            ],
+            "foot_point": [
+                1102,
+                345
+            ],
+            "status": "manual"
+        }
+    ]
+}

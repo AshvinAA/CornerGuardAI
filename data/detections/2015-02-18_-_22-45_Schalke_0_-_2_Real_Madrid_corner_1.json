@@ -1,0 +1,227 @@
+{
+    "image": "2015-02-18_-_22-45_Schalke_0_-_2_Real_Madrid_corner_1.jpg",
+    "total_players": 17,
+    "players": [
+        {
+            "box": [
+                610,
+                432,
+                648,
+                524
+            ],
+            "foot_point": [
+                629,
+                524
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                923,
+                503,
+                961,
+                595
+            ],
+            "foot_point": [
+                942,
+                595
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                878,
+                401,
+                919,
+                477
+            ],
+            "foot_point": [
+                898,
+                477
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                543,
+                435,
+                579,
+                508
+            ],
+            "foot_point": [
+                561,
+                508
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                414,
+                381,
+                451,
+                458
+            ],
+            "foot_point": [
+                432,
+                458
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                1066,
+                526,
+                1099,
+                613
+            ],
+            "foot_point": [
+                1082,
+                613
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                324,
+                382,
+                350,
+                454
+            ],
+            "foot_point": [
+                337,
+                454
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                653,
+                415,
+                687,
+                492
+            ],
+            "foot_point": [
+                670,
+                492
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                596,
+                346,
+                635,
+                411
+            ],
+            "foot_point": [
+                615,
+                411
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                514,
+                364,
+                552,
+                437
+            ],
+            "foot_point": [
+                533,
+                437
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                738,
+                431,
+                769,
+                499
+            ],
+            "foot_point": [
+                753,
+                499
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                715,
+                451,
+                751,
+                518
+            ],
+            "foot_point": [
+                733,
+                518
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                702,
+                402,
+                739,
+                466
+            ],
+            "foot_point": [
+                720,
+                466
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                779,
+                453,
+                812,
+                527
+            ],
+            "foot_point": [
+                795,
+                527
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                771,
+                416,
+                817,
+                496
+            ],
+            "foot_point": [
+                794,
+                496
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                387,
+                391,
+                412,
+                455
+            ],
+            "foot_point": [
+                399,
+                455
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                379,
+                358,
+                404,
+                421
+            ],
+            "foot_point": [
+                391,
+                421
+            ],
+            "status": "manual"
+        }
+    ]
+}

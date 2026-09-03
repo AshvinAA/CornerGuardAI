@@ -1,0 +1,240 @@
+{
+    "image": "2015-02-25_-_22-45_Bayer_Leverkusen_1_-_0_Atl._Madrid_corner_3.jpg",
+    "total_players": 18,
+    "players": [
+        {
+            "box": [
+                873,
+                473,
+                889,
+                520
+            ],
+            "foot_point": [
+                881,
+                520
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1085,
+                476,
+                1100,
+                523
+            ],
+            "foot_point": [
+                1092,
+                523
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1010,
+                455,
+                1024,
+                503
+            ],
+            "foot_point": [
+                1017,
+                503
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                815,
+                466,
+                830,
+                510
+            ],
+            "foot_point": [
+                822,
+                510
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                1064,
+                437,
+                1085,
+                479
+            ],
+            "foot_point": [
+                1074,
+                479
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                700,
+                439,
+                714,
+                472
+            ],
+            "foot_point": [
+                707,
+                472
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                715,
+                433,
+                737,
+                469
+            ],
+            "foot_point": [
+                726,
+                469
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                760,
+                447,
+                773,
+                481
+            ],
+            "foot_point": [
+                766,
+                481
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                749,
+                420,
+                761,
+                450
+            ],
+            "foot_point": [
+                755,
+                450
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                752,
+                434,
+                765,
+                472
+            ],
+            "foot_point": [
+                758,
+                472
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                771,
+                423,
+                785,
+                459
+            ],
+            "foot_point": [
+                778,
+                459
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                785,
+                421,
+                799,
+                462
+            ],
+            "foot_point": [
+                792,
+                462
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                831,
+                430,
+                845,
+                471
+            ],
+            "foot_point": [
+                838,
+                471
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                859,
+                425,
+                875,
+                455
+            ],
+            "foot_point": [
+                867,
+                455
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                884,
+                425,
+                901,
+                464
+            ],
+            "foot_point": [
+                892,
+                464
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                899,
+                431,
+                915,
+                464
+            ],
+            "foot_point": [
+                907,
+                464
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                918,
+                430,
+                937,
+                475
+            ],
+            "foot_point": [
+                927,
+                475
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1176,
+                442,
+                1188,
+                495
+            ],
+            "foot_point": [
+                1182,
+                495
+            ],
+            "status": "manual"
+        }
+    ]
+}

@@ -1,0 +1,188 @@
+{
+    "image": "2016-01-03_-_16-30_Crystal_Palace_0_-_3_Chelsea_corner_3.jpg",
+    "total_players": 14,
+    "players": [
+        {
+            "box": [
+                1092,
+                431,
+                1129,
+                531
+            ],
+            "foot_point": [
+                1110,
+                531
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                653,
+                398,
+                688,
+                488
+            ],
+            "foot_point": [
+                670,
+                488
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                75,
+                319,
+                108,
+                409
+            ],
+            "foot_point": [
+                91,
+                409
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                517,
+                336,
+                551,
+                424
+            ],
+            "foot_point": [
+                534,
+                424
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                477,
+                307,
+                501,
+                379
+            ],
+            "foot_point": [
+                489,
+                379
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                286,
+                320,
+                323,
+                394
+            ],
+            "foot_point": [
+                304,
+                394
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                610,
+                327,
+                647,
+                407
+            ],
+            "foot_point": [
+                628,
+                407
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                551,
+                389,
+                582,
+                471
+            ],
+            "foot_point": [
+                566,
+                471
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                671,
+                342,
+                712,
+                421
+            ],
+            "foot_point": [
+                691,
+                421
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1037,
+                315,
+                1069,
+                398
+            ],
+            "foot_point": [
+                1053,
+                398
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                571,
+                383,
+                606,
+                473
+            ],
+            "foot_point": [
+                588,
+                473
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                555,
+                328,
+                581,
+                401
+            ],
+            "foot_point": [
+                568,
+                401
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                582,
+                329,
+                612,
+                392
+            ],
+            "foot_point": [
+                597,
+                392
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                262,
+                305,
+                293,
+                395
+            ],
+            "foot_point": [
+                277,
+                395
+            ],
+            "status": "manual"
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "image": "2015-09-26_-_17-00_Liverpool_3_-_2_Aston_Villa_corner_9.jpg",
+    "total_players": 10,
+    "players": [
+        {
+            "box": [
+                16,
+                368,
+                37,
+                431
+            ],
+            "foot_point": [
+                26,
+                431
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                338,
+                280,
+                355,
+                327
+            ],
+            "foot_point": [
+                346,
+                327
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                31,
+                263,
+                69,
+                315
+            ],
+            "foot_point": [
+                50,
+                315
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                236,
+                286,
+                260,
+                333
+            ],
+            "foot_point": [
+                248,
+                333
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                258,
+                284,
+                288,
+                330
+            ],
+            "foot_point": [
+                273,
+                330
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                166,
+                322,
+                189,
+                386
+            ],
+            "foot_point": [
+                177,
+                386
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                315,
+                252,
+                337,
+                293
+            ],
+            "foot_point": [
+                326,
+                293
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                247,
+                249,
+                264,
+                290
+            ],
+            "foot_point": [
+                255,
+                290
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                235,
+                250,
+                260,
+                295
+            ],
+            "foot_point": [
+                247,
+                295
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                50,
+                258,
+                73,
+                303
+            ],
+            "foot_point": [
+                61,
+                303
+            ],
+            "status": "manual"
+        }
+    ]
+}

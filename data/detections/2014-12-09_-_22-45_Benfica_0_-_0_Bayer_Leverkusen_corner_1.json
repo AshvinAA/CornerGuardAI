@@ -1,0 +1,201 @@
+{
+    "image": "2014-12-09_-_22-45_Benfica_0_-_0_Bayer_Leverkusen_corner_1.jpg",
+    "total_players": 15,
+    "players": [
+        {
+            "box": [
+                124,
+                374,
+                149,
+                431
+            ],
+            "foot_point": [
+                136,
+                431
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                200,
+                292,
+                226,
+                340
+            ],
+            "foot_point": [
+                213,
+                340
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                23,
+                313,
+                47,
+                367
+            ],
+            "foot_point": [
+                35,
+                367
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1251,
+                566,
+                1279,
+                625
+            ],
+            "foot_point": [
+                1265,
+                625
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                1040,
+                447,
+                1061,
+                490
+            ],
+            "foot_point": [
+                1050,
+                490
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                377,
+                317,
+                400,
+                355
+            ],
+            "foot_point": [
+                388,
+                355
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                109,
+                316,
+                141,
+                382
+            ],
+            "foot_point": [
+                125,
+                382
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                106,
+                264,
+                131,
+                316
+            ],
+            "foot_point": [
+                118,
+                316
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                138,
+                277,
+                164,
+                323
+            ],
+            "foot_point": [
+                151,
+                323
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                123,
+                300,
+                157,
+                348
+            ],
+            "foot_point": [
+                140,
+                348
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                278,
+                292,
+                303,
+                344
+            ],
+            "foot_point": [
+                290,
+                344
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                307,
+                304,
+                330,
+                356
+            ],
+            "foot_point": [
+                318,
+                356
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                333,
+                288,
+                356,
+                333
+            ],
+            "foot_point": [
+                344,
+                333
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                285,
+                273,
+                313,
+                318
+            ],
+            "foot_point": [
+                299,
+                318
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                337,
+                312,
+                363,
+                363
+            ],
+            "foot_point": [
+                350,
+                363
+            ],
+            "status": "manual"
+        }
+    ]
+}

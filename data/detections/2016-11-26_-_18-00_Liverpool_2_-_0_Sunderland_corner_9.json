@@ -1,0 +1,201 @@
+{
+    "image": "2016-11-26_-_18-00_Liverpool_2_-_0_Sunderland_corner_9.jpg",
+    "total_players": 15,
+    "players": [
+        {
+            "box": [
+                343,
+                233,
+                371,
+                287
+            ],
+            "foot_point": [
+                357,
+                287
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1018,
+                460,
+                1041,
+                508
+            ],
+            "foot_point": [
+                1029,
+                508
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                387,
+                238,
+                408,
+                290
+            ],
+            "foot_point": [
+                397,
+                290
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                4,
+                310,
+                28,
+                358
+            ],
+            "foot_point": [
+                16,
+                358
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                173,
+                226,
+                197,
+                275
+            ],
+            "foot_point": [
+                185,
+                275
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                99,
+                215,
+                124,
+                269
+            ],
+            "foot_point": [
+                111,
+                269
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                121,
+                217,
+                146,
+                259
+            ],
+            "foot_point": [
+                133,
+                259
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                146,
+                197,
+                164,
+                239
+            ],
+            "foot_point": [
+                155,
+                239
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                163,
+                200,
+                178,
+                229
+            ],
+            "foot_point": [
+                170,
+                229
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                198,
+                217,
+                216,
+                271
+            ],
+            "foot_point": [
+                207,
+                271
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                266,
+                253,
+                300,
+                303
+            ],
+            "foot_point": [
+                283,
+                303
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                314,
+                246,
+                339,
+                295
+            ],
+            "foot_point": [
+                326,
+                295
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                327,
+                227,
+                350,
+                281
+            ],
+            "foot_point": [
+                338,
+                281
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                343,
+                204,
+                368,
+                254
+            ],
+            "foot_point": [
+                355,
+                254
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                400,
+                209,
+                420,
+                259
+            ],
+            "foot_point": [
+                410,
+                259
+            ],
+            "status": "manual"
+        }
+    ]
+}

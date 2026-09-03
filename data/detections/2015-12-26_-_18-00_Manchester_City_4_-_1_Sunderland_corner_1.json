@@ -1,0 +1,84 @@
+{
+    "image": "2015-12-26_-_18-00_Manchester_City_4_-_1_Sunderland_corner_1.jpg",
+    "total_players": 6,
+    "players": [
+        {
+            "box": [
+                156,
+                416,
+                179,
+                493
+            ],
+            "foot_point": [
+                167,
+                493
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                7,
+                463,
+                36,
+                544
+            ],
+            "foot_point": [
+                21,
+                544
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                49,
+                317,
+                71,
+                383
+            ],
+            "foot_point": [
+                60,
+                383
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                228,
+                312,
+                252,
+                370
+            ],
+            "foot_point": [
+                240,
+                370
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                214,
+                279,
+                239,
+                335
+            ],
+            "foot_point": [
+                226,
+                335
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                210,
+                271,
+                231,
+                323
+            ],
+            "foot_point": [
+                220,
+                323
+            ],
+            "status": "manual"
+        }
+    ]
+}

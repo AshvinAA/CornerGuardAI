@@ -1,0 +1,253 @@
+{
+    "image": "2014-12-09_-_22-45_Benfica_0_-_0_Bayer_Leverkusen_corner_7.jpg",
+    "total_players": 19,
+    "players": [
+        {
+            "box": [
+                768,
+                296,
+                792,
+                356
+            ],
+            "foot_point": [
+                780,
+                356
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                825,
+                328,
+                854,
+                394
+            ],
+            "foot_point": [
+                839,
+                394
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                629,
+                300,
+                654,
+                365
+            ],
+            "foot_point": [
+                641,
+                365
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                450,
+                383,
+                477,
+                449
+            ],
+            "foot_point": [
+                463,
+                449
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                308,
+                396,
+                329,
+                466
+            ],
+            "foot_point": [
+                318,
+                466
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1159,
+                263,
+                1182,
+                318
+            ],
+            "foot_point": [
+                1170,
+                318
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                448,
+                381,
+                477,
+                450
+            ],
+            "foot_point": [
+                462,
+                450
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                458,
+                246,
+                483,
+                306
+            ],
+            "foot_point": [
+                470,
+                306
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                472,
+                237,
+                505,
+                305
+            ],
+            "foot_point": [
+                488,
+                305
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                325,
+                370,
+                353,
+                446
+            ],
+            "foot_point": [
+                339,
+                446
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                361,
+                376,
+                380,
+                449
+            ],
+            "foot_point": [
+                370,
+                449
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                384,
+                397,
+                418,
+                485
+            ],
+            "foot_point": [
+                401,
+                485
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                370,
+                406,
+                391,
+                491
+            ],
+            "foot_point": [
+                380,
+                491
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                695,
+                268,
+                729,
+                320
+            ],
+            "foot_point": [
+                712,
+                320
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                673,
+                294,
+                704,
+                363
+            ],
+            "foot_point": [
+                688,
+                363
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                707,
+                307,
+                744,
+                382
+            ],
+            "foot_point": [
+                725,
+                382
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                726,
+                342,
+                762,
+                399
+            ],
+            "foot_point": [
+                744,
+                399
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                739,
+                358,
+                768,
+                435
+            ],
+            "foot_point": [
+                753,
+                435
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                830,
+                285,
+                860,
+                348
+            ],
+            "foot_point": [
+                845,
+                348
+            ],
+            "status": "manual"
+        }
+    ]
+}

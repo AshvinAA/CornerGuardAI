@@ -1,0 +1,214 @@
+{
+    "image": "2014-12-09_-_22-45_Liverpool_1_-_1_Basel_corner_5.jpg",
+    "total_players": 16,
+    "players": [
+        {
+            "box": [
+                580,
+                302,
+                611,
+                365
+            ],
+            "foot_point": [
+                595,
+                365
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                257,
+                306,
+                280,
+                380
+            ],
+            "foot_point": [
+                268,
+                380
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1032,
+                192,
+                1054,
+                252
+            ],
+            "foot_point": [
+                1043,
+                252
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                756,
+                423,
+                789,
+                514
+            ],
+            "foot_point": [
+                772,
+                514
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1071,
+                509,
+                1112,
+                618
+            ],
+            "foot_point": [
+                1091,
+                618
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                686,
+                221,
+                705,
+                276
+            ],
+            "foot_point": [
+                695,
+                276
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                301,
+                297,
+                328,
+                379
+            ],
+            "foot_point": [
+                314,
+                379
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                763,
+                357,
+                799,
+                438
+            ],
+            "foot_point": [
+                781,
+                438
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                304,
+                270,
+                341,
+                325
+            ],
+            "foot_point": [
+                322,
+                325
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                373,
+                278,
+                403,
+                343
+            ],
+            "foot_point": [
+                388,
+                343
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                395,
+                279,
+                431,
+                362
+            ],
+            "foot_point": [
+                413,
+                362
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                415,
+                273,
+                445,
+                348
+            ],
+            "foot_point": [
+                430,
+                348
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                478,
+                262,
+                505,
+                344
+            ],
+            "foot_point": [
+                491,
+                344
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                493,
+                272,
+                518,
+                340
+            ],
+            "foot_point": [
+                505,
+                340
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                531,
+                252,
+                570,
+                326
+            ],
+            "foot_point": [
+                550,
+                326
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                551,
+                269,
+                589,
+                335
+            ],
+            "foot_point": [
+                570,
+                335
+            ],
+            "status": "manual"
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "image": "2015-09-12_-_17-00_Crystal_Palace_0_-_1_Manchester_City_corner_2.jpg",
+    "total_players": 10,
+    "players": [
+        {
+            "box": [
+                57,
+                329,
+                83,
+                390
+            ],
+            "foot_point": [
+                70,
+                390
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                83,
+                277,
+                114,
+                332
+            ],
+            "foot_point": [
+                98,
+                332
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                262,
+                270,
+                286,
+                332
+            ],
+            "foot_point": [
+                274,
+                332
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                32,
+                282,
+                53,
+                328
+            ],
+            "foot_point": [
+                42,
+                328
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                171,
+                286,
+                195,
+                334
+            ],
+            "foot_point": [
+                183,
+                334
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                134,
+                287,
+                171,
+                332
+            ],
+            "foot_point": [
+                152,
+                332
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                133,
+                276,
+                156,
+                318
+            ],
+            "foot_point": [
+                144,
+                318
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                178,
+                266,
+                206,
+                320
+            ],
+            "foot_point": [
+                192,
+                320
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                361,
+                292,
+                378,
+                344
+            ],
+            "foot_point": [
+                369,
+                344
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                344,
+                284,
+                365,
+                337
+            ],
+            "foot_point": [
+                354,
+                337
+            ],
+            "status": "manual"
+        }
+    ]
+}

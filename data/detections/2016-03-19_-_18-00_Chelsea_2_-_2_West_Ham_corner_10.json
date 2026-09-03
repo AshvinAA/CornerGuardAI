@@ -1,0 +1,188 @@
+{
+    "image": "2016-03-19_-_18-00_Chelsea_2_-_2_West_Ham_corner_10.jpg",
+    "total_players": 14,
+    "players": [
+        {
+            "box": [
+                28,
+                394,
+                53,
+                462
+            ],
+            "foot_point": [
+                40,
+                462
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                274,
+                384,
+                297,
+                439
+            ],
+            "foot_point": [
+                285,
+                439
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                95,
+                303,
+                125,
+                348
+            ],
+            "foot_point": [
+                110,
+                348
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                125,
+                302,
+                148,
+                347
+            ],
+            "foot_point": [
+                136,
+                347
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                130,
+                296,
+                145,
+                333
+            ],
+            "foot_point": [
+                137,
+                333
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                163,
+                300,
+                181,
+                347
+            ],
+            "foot_point": [
+                172,
+                347
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                181,
+                291,
+                205,
+                343
+            ],
+            "foot_point": [
+                193,
+                343
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                214,
+                308,
+                237,
+                357
+            ],
+            "foot_point": [
+                225,
+                357
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                267,
+                303,
+                285,
+                344
+            ],
+            "foot_point": [
+                276,
+                344
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                277,
+                323,
+                302,
+                365
+            ],
+            "foot_point": [
+                289,
+                365
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                301,
+                312,
+                318,
+                353
+            ],
+            "foot_point": [
+                309,
+                353
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                382,
+                315,
+                404,
+                357
+            ],
+            "foot_point": [
+                393,
+                357
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                420,
+                303,
+                439,
+                341
+            ],
+            "foot_point": [
+                429,
+                341
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                305,
+                288,
+                326,
+                331
+            ],
+            "foot_point": [
+                315,
+                331
+            ],
+            "status": "manual"
+        }
+    ]
+}

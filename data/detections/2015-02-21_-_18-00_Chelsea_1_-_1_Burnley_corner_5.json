@@ -1,0 +1,175 @@
+{
+    "image": "2015-02-21_-_18-00_Chelsea_1_-_1_Burnley_corner_5.jpg",
+    "total_players": 13,
+    "players": [
+        {
+            "box": [
+                995,
+                341,
+                1016,
+                393
+            ],
+            "foot_point": [
+                1005,
+                393
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                881,
+                284,
+                899,
+                329
+            ],
+            "foot_point": [
+                890,
+                329
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                817,
+                290,
+                837,
+                334
+            ],
+            "foot_point": [
+                827,
+                334
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                842,
+                297,
+                860,
+                342
+            ],
+            "foot_point": [
+                851,
+                342
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                905,
+                273,
+                920,
+                320
+            ],
+            "foot_point": [
+                912,
+                320
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                924,
+                287,
+                941,
+                332
+            ],
+            "foot_point": [
+                932,
+                332
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1018,
+                315,
+                1034,
+                347
+            ],
+            "foot_point": [
+                1026,
+                347
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1034,
+                314,
+                1061,
+                358
+            ],
+            "foot_point": [
+                1047,
+                358
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1005,
+                283,
+                1025,
+                322
+            ],
+            "foot_point": [
+                1015,
+                322
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1034,
+                283,
+                1059,
+                321
+            ],
+            "foot_point": [
+                1046,
+                321
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1078,
+                296,
+                1092,
+                339
+            ],
+            "foot_point": [
+                1085,
+                339
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1095,
+                306,
+                1119,
+                344
+            ],
+            "foot_point": [
+                1107,
+                344
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1080,
+                266,
+                1100,
+                306
+            ],
+            "foot_point": [
+                1090,
+                306
+            ],
+            "status": "manual"
+        }
+    ]
+}

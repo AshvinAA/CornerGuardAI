@@ -1,0 +1,188 @@
+{
+    "image": "2015-02-21_-_17-30_Paderborn_0_-_6_Bayern_Munich_corner_8.jpg",
+    "total_players": 14,
+    "players": [
+        {
+            "box": [
+                616,
+                373,
+                640,
+                414
+            ],
+            "foot_point": [
+                628,
+                414
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                139,
+                409,
+                162,
+                459
+            ],
+            "foot_point": [
+                150,
+                459
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                760,
+                431,
+                778,
+                482
+            ],
+            "foot_point": [
+                769,
+                482
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                66,
+                345,
+                80,
+                391
+            ],
+            "foot_point": [
+                73,
+                391
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                500,
+                341,
+                519,
+                383
+            ],
+            "foot_point": [
+                509,
+                383
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                184,
+                329,
+                202,
+                373
+            ],
+            "foot_point": [
+                193,
+                373
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                238,
+                320,
+                255,
+                357
+            ],
+            "foot_point": [
+                246,
+                357
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                421,
+                327,
+                436,
+                363
+            ],
+            "foot_point": [
+                428,
+                363
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                319,
+                343,
+                339,
+                377
+            ],
+            "foot_point": [
+                329,
+                377
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                889,
+                686,
+                913,
+                720
+            ],
+            "foot_point": [
+                901,
+                720
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                466,
+                310,
+                478,
+                344
+            ],
+            "foot_point": [
+                472,
+                344
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                307,
+                324,
+                326,
+                359
+            ],
+            "foot_point": [
+                316,
+                359
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                299,
+                313,
+                317,
+                348
+            ],
+            "foot_point": [
+                308,
+                348
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                343,
+                314,
+                360,
+                352
+            ],
+            "foot_point": [
+                351,
+                352
+            ],
+            "status": "manual"
+        }
+    ]
+}

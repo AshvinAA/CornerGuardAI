@@ -1,0 +1,175 @@
+{
+    "image": "2015-09-16_-_21-45_AS_Roma_1_-_1_Barcelona_corner_5.jpg",
+    "total_players": 13,
+    "players": [
+        {
+            "box": [
+                686,
+                356,
+                716,
+                417
+            ],
+            "foot_point": [
+                701,
+                417
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                448,
+                400,
+                473,
+                465
+            ],
+            "foot_point": [
+                460,
+                465
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                671,
+                286,
+                697,
+                336
+            ],
+            "foot_point": [
+                684,
+                336
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                724,
+                250,
+                740,
+                296
+            ],
+            "foot_point": [
+                732,
+                296
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1056,
+                232,
+                1080,
+                285
+            ],
+            "foot_point": [
+                1068,
+                285
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                986,
+                240,
+                1010,
+                286
+            ],
+            "foot_point": [
+                998,
+                286
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                923,
+                238,
+                943,
+                286
+            ],
+            "foot_point": [
+                933,
+                286
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                900,
+                253,
+                914,
+                293
+            ],
+            "foot_point": [
+                907,
+                293
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                905,
+                241,
+                920,
+                280
+            ],
+            "foot_point": [
+                912,
+                280
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                868,
+                232,
+                884,
+                285
+            ],
+            "foot_point": [
+                876,
+                285
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                813,
+                240,
+                830,
+                287
+            ],
+            "foot_point": [
+                821,
+                287
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                800,
+                251,
+                816,
+                295
+            ],
+            "foot_point": [
+                808,
+                295
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                737,
+                230,
+                756,
+                277
+            ],
+            "foot_point": [
+                746,
+                277
+            ],
+            "status": "manual"
+        }
+    ]
+}

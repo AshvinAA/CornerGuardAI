@@ -1,0 +1,162 @@
+{
+    "image": "2017-02-14_-_22-45_Paris_SG_4_-_0_Barcelona_corner_4.jpg",
+    "total_players": 12,
+    "players": [
+        {
+            "box": [
+                1034,
+                314,
+                1060,
+                368
+            ],
+            "foot_point": [
+                1047,
+                368
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                986,
+                317,
+                1008,
+                373
+            ],
+            "foot_point": [
+                997,
+                373
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                944,
+                360,
+                970,
+                410
+            ],
+            "foot_point": [
+                957,
+                410
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                840,
+                315,
+                871,
+                373
+            ],
+            "foot_point": [
+                855,
+                373
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                753,
+                337,
+                782,
+                387
+            ],
+            "foot_point": [
+                767,
+                387
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                776,
+                332,
+                799,
+                385
+            ],
+            "foot_point": [
+                787,
+                385
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                841,
+                305,
+                859,
+                353
+            ],
+            "foot_point": [
+                850,
+                353
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                854,
+                293,
+                877,
+                337
+            ],
+            "foot_point": [
+                865,
+                337
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                872,
+                308,
+                893,
+                349
+            ],
+            "foot_point": [
+                882,
+                349
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                891,
+                302,
+                919,
+                333
+            ],
+            "foot_point": [
+                905,
+                333
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                897,
+                327,
+                925,
+                369
+            ],
+            "foot_point": [
+                911,
+                369
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                918,
+                312,
+                942,
+                362
+            ],
+            "foot_point": [
+                930,
+                362
+            ],
+            "status": "manual"
+        }
+    ]
+}

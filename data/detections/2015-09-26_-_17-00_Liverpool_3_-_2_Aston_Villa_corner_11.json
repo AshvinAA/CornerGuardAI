@@ -1,0 +1,201 @@
+{
+    "image": "2015-09-26_-_17-00_Liverpool_3_-_2_Aston_Villa_corner_11.jpg",
+    "total_players": 15,
+    "players": [
+        {
+            "box": [
+                695,
+                440,
+                731,
+                540
+            ],
+            "foot_point": [
+                713,
+                540
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                493,
+                333,
+                523,
+                413
+            ],
+            "foot_point": [
+                508,
+                413
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                176,
+                355,
+                206,
+                442
+            ],
+            "foot_point": [
+                191,
+                442
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                979,
+                324,
+                1018,
+                399
+            ],
+            "foot_point": [
+                998,
+                399
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                795,
+                283,
+                828,
+                369
+            ],
+            "foot_point": [
+                811,
+                369
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                450,
+                496,
+                498,
+                607
+            ],
+            "foot_point": [
+                474,
+                607
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1011,
+                331,
+                1040,
+                402
+            ],
+            "foot_point": [
+                1025,
+                402
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                449,
+                496,
+                499,
+                606
+            ],
+            "foot_point": [
+                474,
+                606
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                682,
+                267,
+                717,
+                344
+            ],
+            "foot_point": [
+                699,
+                344
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                752,
+                269,
+                801,
+                339
+            ],
+            "foot_point": [
+                776,
+                339
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                857,
+                428,
+                932,
+                490
+            ],
+            "foot_point": [
+                894,
+                490
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                922,
+                407,
+                967,
+                487
+            ],
+            "foot_point": [
+                944,
+                487
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                888,
+                350,
+                928,
+                437
+            ],
+            "foot_point": [
+                908,
+                437
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                916,
+                351,
+                950,
+                430
+            ],
+            "foot_point": [
+                933,
+                430
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                944,
+                287,
+                977,
+                374
+            ],
+            "foot_point": [
+                960,
+                374
+            ],
+            "status": "manual"
+        }
+    ]
+}

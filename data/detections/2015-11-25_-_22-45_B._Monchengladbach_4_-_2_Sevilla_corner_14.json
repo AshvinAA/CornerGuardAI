@@ -1,0 +1,227 @@
+{
+    "image": "2015-11-25_-_22-45_B._Monchengladbach_4_-_2_Sevilla_corner_14.jpg",
+    "total_players": 17,
+    "players": [
+        {
+            "box": [
+                572,
+                410,
+                614,
+                482
+            ],
+            "foot_point": [
+                593,
+                482
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                76,
+                349,
+                113,
+                417
+            ],
+            "foot_point": [
+                94,
+                417
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                515,
+                516,
+                549,
+                577
+            ],
+            "foot_point": [
+                532,
+                577
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                430,
+                307,
+                455,
+                364
+            ],
+            "foot_point": [
+                442,
+                364
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                183,
+                291,
+                208,
+                349
+            ],
+            "foot_point": [
+                195,
+                349
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                7,
+                273,
+                36,
+                328
+            ],
+            "foot_point": [
+                21,
+                328
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                399,
+                307,
+                428,
+                354
+            ],
+            "foot_point": [
+                413,
+                354
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                527,
+                299,
+                548,
+                358
+            ],
+            "foot_point": [
+                537,
+                358
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                178,
+                249,
+                207,
+                304
+            ],
+            "foot_point": [
+                192,
+                304
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                265,
+                304,
+                298,
+                361
+            ],
+            "foot_point": [
+                281,
+                361
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                298,
+                270,
+                326,
+                320
+            ],
+            "foot_point": [
+                312,
+                320
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                244,
+                276,
+                267,
+                342
+            ],
+            "foot_point": [
+                255,
+                342
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                257,
+                291,
+                280,
+                344
+            ],
+            "foot_point": [
+                268,
+                344
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                375,
+                288,
+                395,
+                335
+            ],
+            "foot_point": [
+                385,
+                335
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                388,
+                268,
+                416,
+                315
+            ],
+            "foot_point": [
+                402,
+                315
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                410,
+                257,
+                436,
+                315
+            ],
+            "foot_point": [
+                423,
+                315
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                371,
+                232,
+                398,
+                287
+            ],
+            "foot_point": [
+                384,
+                287
+            ],
+            "status": "manual"
+        }
+    ]
+}

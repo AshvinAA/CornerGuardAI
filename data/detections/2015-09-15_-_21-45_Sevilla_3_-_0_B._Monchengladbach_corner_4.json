@@ -1,0 +1,201 @@
+{
+    "image": "2015-09-15_-_21-45_Sevilla_3_-_0_B._Monchengladbach_corner_4.jpg",
+    "total_players": 15,
+    "players": [
+        {
+            "box": [
+                186,
+                515,
+                226,
+                595
+            ],
+            "foot_point": [
+                206,
+                595
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                441,
+                380,
+                461,
+                427
+            ],
+            "foot_point": [
+                451,
+                427
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                279,
+                341,
+                297,
+                383
+            ],
+            "foot_point": [
+                288,
+                383
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                64,
+                368,
+                88,
+                418
+            ],
+            "foot_point": [
+                76,
+                418
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                81,
+                351,
+                100,
+                394
+            ],
+            "foot_point": [
+                90,
+                394
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                88,
+                359,
+                121,
+                396
+            ],
+            "foot_point": [
+                104,
+                396
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                65,
+                357,
+                86,
+                399
+            ],
+            "foot_point": [
+                75,
+                399
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                130,
+                355,
+                150,
+                398
+            ],
+            "foot_point": [
+                140,
+                398
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                138,
+                341,
+                161,
+                385
+            ],
+            "foot_point": [
+                149,
+                385
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                212,
+                348,
+                225,
+                395
+            ],
+            "foot_point": [
+                218,
+                395
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                219,
+                347,
+                235,
+                395
+            ],
+            "foot_point": [
+                227,
+                395
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                348,
+                342,
+                365,
+                376
+            ],
+            "foot_point": [
+                356,
+                376
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                358,
+                330,
+                377,
+                370
+            ],
+            "foot_point": [
+                367,
+                370
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                419,
+                345,
+                441,
+                385
+            ],
+            "foot_point": [
+                430,
+                385
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                443,
+                344,
+                465,
+                381
+            ],
+            "foot_point": [
+                454,
+                381
+            ],
+            "status": "manual"
+        }
+    ]
+}

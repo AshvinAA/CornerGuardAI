@@ -1,0 +1,188 @@
+{
+    "image": "2014-11-05_-_22-45_Bayern_Munich_2_-_0_AS_Roma_corner_2.jpg",
+    "total_players": 14,
+    "players": [
+        {
+            "box": [
+                1034,
+                406,
+                1068,
+                501
+            ],
+            "foot_point": [
+                1051,
+                501
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                655,
+                390,
+                685,
+                465
+            ],
+            "foot_point": [
+                670,
+                465
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                693,
+                414,
+                738,
+                498
+            ],
+            "foot_point": [
+                715,
+                498
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                708,
+                418,
+                740,
+                500
+            ],
+            "foot_point": [
+                724,
+                500
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                539,
+                437,
+                582,
+                514
+            ],
+            "foot_point": [
+                560,
+                514
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                357,
+                370,
+                395,
+                446
+            ],
+            "foot_point": [
+                376,
+                446
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                682,
+                384,
+                734,
+                452
+            ],
+            "foot_point": [
+                708,
+                452
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                592,
+                422,
+                638,
+                511
+            ],
+            "foot_point": [
+                615,
+                511
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                557,
+                371,
+                591,
+                435
+            ],
+            "foot_point": [
+                574,
+                435
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                566,
+                342,
+                610,
+                413
+            ],
+            "foot_point": [
+                588,
+                413
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                548,
+                415,
+                587,
+                503
+            ],
+            "foot_point": [
+                567,
+                503
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                341,
+                441,
+                375,
+                518
+            ],
+            "foot_point": [
+                358,
+                518
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                345,
+                458,
+                403,
+                542
+            ],
+            "foot_point": [
+                374,
+                542
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                586,
+                384,
+                624,
+                459
+            ],
+            "foot_point": [
+                605,
+                459
+            ],
+            "status": "manual"
+        }
+    ]
+}

@@ -1,0 +1,227 @@
+{
+    "image": "2017-03-07_-_22-45_Napoli_1_-_3_Real_Madrid_corner_3.jpg",
+    "total_players": 17,
+    "players": [
+        {
+            "box": [
+                410,
+                495,
+                446,
+                591
+            ],
+            "foot_point": [
+                428,
+                591
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                325,
+                317,
+                353,
+                391
+            ],
+            "foot_point": [
+                339,
+                391
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                217,
+                185,
+                247,
+                254
+            ],
+            "foot_point": [
+                232,
+                254
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                558,
+                214,
+                584,
+                280
+            ],
+            "foot_point": [
+                571,
+                280
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                639,
+                206,
+                665,
+                270
+            ],
+            "foot_point": [
+                652,
+                270
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                809,
+                385,
+                837,
+                450
+            ],
+            "foot_point": [
+                823,
+                450
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                695,
+                233,
+                721,
+                301
+            ],
+            "foot_point": [
+                708,
+                301
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                723,
+                244,
+                747,
+                300
+            ],
+            "foot_point": [
+                735,
+                300
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1118,
+                565,
+                1164,
+                647
+            ],
+            "foot_point": [
+                1141,
+                647
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                562,
+                146,
+                594,
+                195
+            ],
+            "foot_point": [
+                578,
+                195
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                598,
+                151,
+                616,
+                202
+            ],
+            "foot_point": [
+                607,
+                202
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                613,
+                160,
+                639,
+                211
+            ],
+            "foot_point": [
+                626,
+                211
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                639,
+                155,
+                654,
+                206
+            ],
+            "foot_point": [
+                646,
+                206
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                652,
+                160,
+                667,
+                205
+            ],
+            "foot_point": [
+                659,
+                205
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                672,
+                162,
+                685,
+                201
+            ],
+            "foot_point": [
+                678,
+                201
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                668,
+                199,
+                693,
+                252
+            ],
+            "foot_point": [
+                680,
+                252
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                703,
+                187,
+                730,
+                247
+            ],
+            "foot_point": [
+                716,
+                247
+            ],
+            "status": "manual"
+        }
+    ]
+}

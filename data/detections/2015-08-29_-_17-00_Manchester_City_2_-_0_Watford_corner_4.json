@@ -1,0 +1,227 @@
+{
+    "image": "2015-08-29_-_17-00_Manchester_City_2_-_0_Watford_corner_4.jpg",
+    "total_players": 17,
+    "players": [
+        {
+            "box": [
+                117,
+                430,
+                157,
+                527
+            ],
+            "foot_point": [
+                137,
+                527
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                229,
+                316,
+                260,
+                397
+            ],
+            "foot_point": [
+                244,
+                397
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                54,
+                336,
+                85,
+                420
+            ],
+            "foot_point": [
+                69,
+                420
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                561,
+                337,
+                590,
+                419
+            ],
+            "foot_point": [
+                575,
+                419
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                747,
+                352,
+                780,
+                430
+            ],
+            "foot_point": [
+                763,
+                430
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1,
+                392,
+                31,
+                478
+            ],
+            "foot_point": [
+                16,
+                478
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                515,
+                353,
+                547,
+                431
+            ],
+            "foot_point": [
+                531,
+                431
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                714,
+                307,
+                742,
+                382
+            ],
+            "foot_point": [
+                728,
+                382
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                849,
+                328,
+                886,
+                413
+            ],
+            "foot_point": [
+                867,
+                413
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                575,
+                429,
+                608,
+                520
+            ],
+            "foot_point": [
+                591,
+                520
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                596,
+                417,
+                627,
+                519
+            ],
+            "foot_point": [
+                611,
+                519
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                477,
+                362,
+                533,
+                435
+            ],
+            "foot_point": [
+                505,
+                435
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                478,
+                328,
+                518,
+                403
+            ],
+            "foot_point": [
+                498,
+                403
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                754,
+                318,
+                793,
+                382
+            ],
+            "foot_point": [
+                773,
+                382
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                766,
+                294,
+                799,
+                383
+            ],
+            "foot_point": [
+                782,
+                383
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                661,
+                417,
+                707,
+                516
+            ],
+            "foot_point": [
+                684,
+                516
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                639,
+                410,
+                685,
+                503
+            ],
+            "foot_point": [
+                662,
+                503
+            ],
+            "status": "manual"
+        }
+    ]
+}

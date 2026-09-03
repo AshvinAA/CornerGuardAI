@@ -1,0 +1,162 @@
+{
+    "image": "2017-04-18_-_19-30_Metz_2_-_3_Paris_SG_corner_6.jpg",
+    "total_players": 12,
+    "players": [
+        {
+            "box": [
+                83,
+                407,
+                100,
+                453
+            ],
+            "foot_point": [
+                91,
+                453
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                316,
+                383,
+                336,
+                440
+            ],
+            "foot_point": [
+                326,
+                440
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                147,
+                436,
+                168,
+                489
+            ],
+            "foot_point": [
+                157,
+                489
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                123,
+                406,
+                140,
+                451
+            ],
+            "foot_point": [
+                131,
+                451
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                141,
+                417,
+                159,
+                463
+            ],
+            "foot_point": [
+                150,
+                463
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                143,
+                405,
+                160,
+                448
+            ],
+            "foot_point": [
+                151,
+                448
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                163,
+                401,
+                183,
+                448
+            ],
+            "foot_point": [
+                173,
+                448
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                299,
+                403,
+                317,
+                440
+            ],
+            "foot_point": [
+                308,
+                440
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                294,
+                383,
+                312,
+                422
+            ],
+            "foot_point": [
+                303,
+                422
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                365,
+                397,
+                379,
+                441
+            ],
+            "foot_point": [
+                372,
+                441
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                373,
+                406,
+                386,
+                446
+            ],
+            "foot_point": [
+                379,
+                446
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                376,
+                391,
+                396,
+                444
+            ],
+            "foot_point": [
+                386,
+                444
+            ],
+            "status": "manual"
+        }
+    ]
+}

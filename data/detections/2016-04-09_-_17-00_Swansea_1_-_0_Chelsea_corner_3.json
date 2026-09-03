@@ -1,0 +1,149 @@
+{
+    "image": "2016-04-09_-_17-00_Swansea_1_-_0_Chelsea_corner_3.jpg",
+    "total_players": 11,
+    "players": [
+        {
+            "box": [
+                351,
+                340,
+                370,
+                399
+            ],
+            "foot_point": [
+                360,
+                399
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                173,
+                333,
+                198,
+                387
+            ],
+            "foot_point": [
+                185,
+                387
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                121,
+                321,
+                141,
+                379
+            ],
+            "foot_point": [
+                131,
+                379
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                86,
+                361,
+                117,
+                418
+            ],
+            "foot_point": [
+                101,
+                418
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                -2,
+                337,
+                19,
+                392
+            ],
+            "foot_point": [
+                8,
+                392
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                31,
+                342,
+                64,
+                394
+            ],
+            "foot_point": [
+                47,
+                394
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                14,
+                324,
+                40,
+                374
+            ],
+            "foot_point": [
+                27,
+                374
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                98,
+                306,
+                120,
+                362
+            ],
+            "foot_point": [
+                109,
+                362
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                209,
+                305,
+                231,
+                371
+            ],
+            "foot_point": [
+                220,
+                371
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                228,
+                313,
+                259,
+                369
+            ],
+            "foot_point": [
+                243,
+                369
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                259,
+                304,
+                296,
+                365
+            ],
+            "foot_point": [
+                277,
+                365
+            ],
+            "status": "manual"
+        }
+    ]
+}

@@ -1,0 +1,188 @@
+{
+    "image": "2015-02-17_-_22-45_Paris_SG_1_-_1_Chelsea_corner_6.jpg",
+    "total_players": 14,
+    "players": [
+        {
+            "box": [
+                472,
+                503,
+                495,
+                561
+            ],
+            "foot_point": [
+                483,
+                561
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1012,
+                393,
+                1028,
+                438
+            ],
+            "foot_point": [
+                1020,
+                438
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                325,
+                567,
+                348,
+                625
+            ],
+            "foot_point": [
+                336,
+                625
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                724,
+                402,
+                753,
+                441
+            ],
+            "foot_point": [
+                738,
+                441
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                788,
+                380,
+                816,
+                436
+            ],
+            "foot_point": [
+                802,
+                436
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                805,
+                358,
+                827,
+                404
+            ],
+            "foot_point": [
+                816,
+                404
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                830,
+                386,
+                859,
+                430
+            ],
+            "foot_point": [
+                844,
+                430
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                842,
+                393,
+                869,
+                439
+            ],
+            "foot_point": [
+                855,
+                439
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                905,
+                381,
+                929,
+                436
+            ],
+            "foot_point": [
+                917,
+                436
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                932,
+                391,
+                953,
+                437
+            ],
+            "foot_point": [
+                942,
+                437
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                942,
+                386,
+                976,
+                431
+            ],
+            "foot_point": [
+                959,
+                431
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                969,
+                353,
+                992,
+                391
+            ],
+            "foot_point": [
+                980,
+                391
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                984,
+                352,
+                1013,
+                387
+            ],
+            "foot_point": [
+                998,
+                387
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1178,
+                409,
+                1195,
+                466
+            ],
+            "foot_point": [
+                1186,
+                466
+            ],
+            "status": "manual"
+        }
+    ]
+}

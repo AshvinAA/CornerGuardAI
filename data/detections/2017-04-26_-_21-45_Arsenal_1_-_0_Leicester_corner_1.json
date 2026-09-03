@@ -1,0 +1,240 @@
+{
+    "image": "2017-04-26_-_21-45_Arsenal_1_-_0_Leicester_corner_1.jpg",
+    "total_players": 18,
+    "players": [
+        {
+            "box": [
+                834,
+                340,
+                879,
+                424
+            ],
+            "foot_point": [
+                856,
+                424
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1035,
+                439,
+                1087,
+                553
+            ],
+            "foot_point": [
+                1061,
+                553
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                33,
+                465,
+                92,
+                585
+            ],
+            "foot_point": [
+                62,
+                585
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                367,
+                336,
+                415,
+                426
+            ],
+            "foot_point": [
+                391,
+                426
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                735,
+                441,
+                783,
+                547
+            ],
+            "foot_point": [
+                759,
+                547
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                350,
+                439,
+                393,
+                555
+            ],
+            "foot_point": [
+                371,
+                555
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                570,
+                393,
+                600,
+                491
+            ],
+            "foot_point": [
+                585,
+                491
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                122,
+                219,
+                151,
+                292
+            ],
+            "foot_point": [
+                136,
+                292
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1023,
+                359,
+                1061,
+                447
+            ],
+            "foot_point": [
+                1042,
+                447
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                148,
+                240,
+                188,
+                303
+            ],
+            "foot_point": [
+                168,
+                303
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                643,
+                378,
+                691,
+                470
+            ],
+            "foot_point": [
+                667,
+                470
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                712,
+                363,
+                773,
+                459
+            ],
+            "foot_point": [
+                742,
+                459
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                578,
+                429,
+                642,
+                515
+            ],
+            "foot_point": [
+                610,
+                515
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                607,
+                382,
+                648,
+                467
+            ],
+            "foot_point": [
+                627,
+                467
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                611,
+                455,
+                669,
+                544
+            ],
+            "foot_point": [
+                640,
+                544
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                664,
+                464,
+                693,
+                583
+            ],
+            "foot_point": [
+                678,
+                583
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                685,
+                452,
+                725,
+                563
+            ],
+            "foot_point": [
+                705,
+                563
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1048,
+                442,
+                1094,
+                534
+            ],
+            "foot_point": [
+                1071,
+                534
+            ],
+            "status": "manual"
+        }
+    ]
+}

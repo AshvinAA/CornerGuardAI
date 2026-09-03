@@ -1,0 +1,201 @@
+{
+    "image": "2015-08-29_-_17-00_Manchester_City_2_-_0_Watford_corner_5.jpg",
+    "total_players": 15,
+    "players": [
+        {
+            "box": [
+                816,
+                337,
+                859,
+                415
+            ],
+            "foot_point": [
+                837,
+                415
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                478,
+                366,
+                519,
+                460
+            ],
+            "foot_point": [
+                498,
+                460
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                678,
+                355,
+                716,
+                440
+            ],
+            "foot_point": [
+                697,
+                440
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                41,
+                505,
+                78,
+                603
+            ],
+            "foot_point": [
+                59,
+                603
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                113,
+                296,
+                142,
+                378
+            ],
+            "foot_point": [
+                127,
+                378
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                513,
+                381,
+                547,
+                459
+            ],
+            "foot_point": [
+                530,
+                459
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1,
+                502,
+                32,
+                603
+            ],
+            "foot_point": [
+                16,
+                603
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                619,
+                300,
+                646,
+                376
+            ],
+            "foot_point": [
+                632,
+                376
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                546,
+                403,
+                584,
+                495
+            ],
+            "foot_point": [
+                565,
+                495
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                570,
+                397,
+                620,
+                492
+            ],
+            "foot_point": [
+                595,
+                492
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                555,
+                356,
+                589,
+                437
+            ],
+            "foot_point": [
+                572,
+                437
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                588,
+                290,
+                626,
+                365
+            ],
+            "foot_point": [
+                607,
+                365
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                685,
+                301,
+                729,
+                382
+            ],
+            "foot_point": [
+                707,
+                382
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                710,
+                421,
+                744,
+                507
+            ],
+            "foot_point": [
+                727,
+                507
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                724,
+                418,
+                765,
+                507
+            ],
+            "foot_point": [
+                744,
+                507
+            ],
+            "status": "manual"
+        }
+    ]
+}

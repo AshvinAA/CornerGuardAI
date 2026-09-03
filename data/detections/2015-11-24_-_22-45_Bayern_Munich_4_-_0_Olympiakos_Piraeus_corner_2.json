@@ -1,0 +1,240 @@
+{
+    "image": "2015-11-24_-_22-45_Bayern_Munich_4_-_0_Olympiakos_Piraeus_corner_2.jpg",
+    "total_players": 18,
+    "players": [
+        {
+            "box": [
+                913,
+                529,
+                961,
+                636
+            ],
+            "foot_point": [
+                937,
+                636
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                742,
+                406,
+                773,
+                492
+            ],
+            "foot_point": [
+                757,
+                492
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                368,
+                377,
+                398,
+                456
+            ],
+            "foot_point": [
+                383,
+                456
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                837,
+                285,
+                867,
+                345
+            ],
+            "foot_point": [
+                852,
+                345
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                589,
+                258,
+                613,
+                317
+            ],
+            "foot_point": [
+                601,
+                317
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                917,
+                243,
+                939,
+                299
+            ],
+            "foot_point": [
+                928,
+                299
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                772,
+                264,
+                798,
+                320
+            ],
+            "foot_point": [
+                785,
+                320
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                886,
+                236,
+                905,
+                287
+            ],
+            "foot_point": [
+                895,
+                287
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1149,
+                254,
+                1166,
+                314
+            ],
+            "foot_point": [
+                1157,
+                314
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1136,
+                273,
+                1157,
+                322
+            ],
+            "foot_point": [
+                1146,
+                322
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1043,
+                224,
+                1056,
+                270
+            ],
+            "foot_point": [
+                1049,
+                270
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1053,
+                212,
+                1069,
+                271
+            ],
+            "foot_point": [
+                1061,
+                271
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                783,
+                223,
+                798,
+                264
+            ],
+            "foot_point": [
+                790,
+                264
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                741,
+                258,
+                759,
+                307
+            ],
+            "foot_point": [
+                750,
+                307
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                736,
+                241,
+                757,
+                292
+            ],
+            "foot_point": [
+                746,
+                292
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                721,
+                223,
+                736,
+                269
+            ],
+            "foot_point": [
+                728,
+                269
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                656,
+                250,
+                678,
+                298
+            ],
+            "foot_point": [
+                667,
+                298
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                607,
+                236,
+                634,
+                300
+            ],
+            "foot_point": [
+                620,
+                300
+            ],
+            "status": "manual"
+        }
+    ]
+}

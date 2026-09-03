@@ -1,0 +1,201 @@
+{
+    "image": "2016-09-16_-_22-00_Chelsea_1_-_2_Liverpool_corner_3.jpg",
+    "total_players": 15,
+    "players": [
+        {
+            "box": [
+                990,
+                438,
+                1027,
+                543
+            ],
+            "foot_point": [
+                1008,
+                543
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                760,
+                383,
+                787,
+                483
+            ],
+            "foot_point": [
+                773,
+                483
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                912,
+                312,
+                945,
+                398
+            ],
+            "foot_point": [
+                928,
+                398
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                501,
+                366,
+                535,
+                464
+            ],
+            "foot_point": [
+                518,
+                464
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                359,
+                394,
+                393,
+                488
+            ],
+            "foot_point": [
+                376,
+                488
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                326,
+                379,
+                362,
+                466
+            ],
+            "foot_point": [
+                344,
+                466
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                423,
+                389,
+                459,
+                489
+            ],
+            "foot_point": [
+                441,
+                489
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                466,
+                394,
+                499,
+                483
+            ],
+            "foot_point": [
+                482,
+                483
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                240,
+                335,
+                267,
+                424
+            ],
+            "foot_point": [
+                253,
+                424
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                402,
+                351,
+                434,
+                442
+            ],
+            "foot_point": [
+                418,
+                442
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                412,
+                315,
+                438,
+                384
+            ],
+            "foot_point": [
+                425,
+                384
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                459,
+                319,
+                498,
+                395
+            ],
+            "foot_point": [
+                478,
+                395
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                549,
+                324,
+                592,
+                400
+            ],
+            "foot_point": [
+                570,
+                400
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                566,
+                371,
+                594,
+                467
+            ],
+            "foot_point": [
+                580,
+                467
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                543,
+                373,
+                572,
+                457
+            ],
+            "foot_point": [
+                557,
+                457
+            ],
+            "status": "manual"
+        }
+    ]
+}

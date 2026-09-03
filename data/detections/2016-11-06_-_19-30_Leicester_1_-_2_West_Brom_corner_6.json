@@ -1,0 +1,162 @@
+{
+    "image": "2016-11-06_-_19-30_Leicester_1_-_2_West_Brom_corner_6.jpg",
+    "total_players": 12,
+    "players": [
+        {
+            "box": [
+                251,
+                372,
+                284,
+                456
+            ],
+            "foot_point": [
+                267,
+                456
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                442,
+                406,
+                478,
+                493
+            ],
+            "foot_point": [
+                460,
+                493
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                880,
+                334,
+                909,
+                406
+            ],
+            "foot_point": [
+                894,
+                406
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                989,
+                354,
+                1016,
+                423
+            ],
+            "foot_point": [
+                1002,
+                423
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1010,
+                345,
+                1041,
+                426
+            ],
+            "foot_point": [
+                1025,
+                426
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                678,
+                396,
+                715,
+                491
+            ],
+            "foot_point": [
+                696,
+                491
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                599,
+                399,
+                636,
+                482
+            ],
+            "foot_point": [
+                617,
+                482
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                571,
+                397,
+                614,
+                480
+            ],
+            "foot_point": [
+                592,
+                480
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                602,
+                367,
+                633,
+                455
+            ],
+            "foot_point": [
+                617,
+                455
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                646,
+                361,
+                671,
+                430
+            ],
+            "foot_point": [
+                658,
+                430
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                671,
+                368,
+                705,
+                441
+            ],
+            "foot_point": [
+                688,
+                441
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                644,
+                392,
+                683,
+                479
+            ],
+            "foot_point": [
+                663,
+                479
+            ],
+            "status": "manual"
+        }
+    ]
+}

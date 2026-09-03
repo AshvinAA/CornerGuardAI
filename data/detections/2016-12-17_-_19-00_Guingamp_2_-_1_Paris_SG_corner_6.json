@@ -1,0 +1,188 @@
+{
+    "image": "2016-12-17_-_19-00_Guingamp_2_-_1_Paris_SG_corner_6.jpg",
+    "total_players": 14,
+    "players": [
+        {
+            "box": [
+                217,
+                400,
+                237,
+                469
+            ],
+            "foot_point": [
+                227,
+                469
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                271,
+                358,
+                288,
+                414
+            ],
+            "foot_point": [
+                279,
+                414
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                258,
+                306,
+                279,
+                355
+            ],
+            "foot_point": [
+                268,
+                355
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                173,
+                298,
+                189,
+                343
+            ],
+            "foot_point": [
+                181,
+                343
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                317,
+                321,
+                350,
+                362
+            ],
+            "foot_point": [
+                333,
+                362
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                305,
+                306,
+                325,
+                352
+            ],
+            "foot_point": [
+                315,
+                352
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                202,
+                300,
+                220,
+                342
+            ],
+            "foot_point": [
+                211,
+                342
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                404,
+                291,
+                427,
+                325
+            ],
+            "foot_point": [
+                415,
+                325
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                412,
+                308,
+                433,
+                353
+            ],
+            "foot_point": [
+                422,
+                353
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                438,
+                306,
+                451,
+                341
+            ],
+            "foot_point": [
+                444,
+                341
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                494,
+                288,
+                509,
+                319
+            ],
+            "foot_point": [
+                501,
+                319
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                486,
+                318,
+                501,
+                354
+            ],
+            "foot_point": [
+                493,
+                354
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                495,
+                318,
+                518,
+                367
+            ],
+            "foot_point": [
+                506,
+                367
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                418,
+                282,
+                437,
+                323
+            ],
+            "foot_point": [
+                427,
+                323
+            ],
+            "status": "manual"
+        }
+    ]
+}

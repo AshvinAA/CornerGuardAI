@@ -1,0 +1,201 @@
+{
+    "image": "2016-09-13_-_21-45_Barcelona_7_-_0_Celtic_corner_8.jpg",
+    "total_players": 15,
+    "players": [
+        {
+            "box": [
+                0,
+                372,
+                31,
+                438
+            ],
+            "foot_point": [
+                15,
+                438
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                40,
+                267,
+                64,
+                320
+            ],
+            "foot_point": [
+                52,
+                320
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                162,
+                218,
+                194,
+                271
+            ],
+            "foot_point": [
+                178,
+                271
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                246,
+                212,
+                274,
+                259
+            ],
+            "foot_point": [
+                260,
+                259
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                106,
+                258,
+                138,
+                313
+            ],
+            "foot_point": [
+                122,
+                313
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                447,
+                249,
+                479,
+                296
+            ],
+            "foot_point": [
+                463,
+                296
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                153,
+                204,
+                169,
+                238
+            ],
+            "foot_point": [
+                161,
+                238
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                142,
+                233,
+                182,
+                262
+            ],
+            "foot_point": [
+                162,
+                262
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                216,
+                246,
+                231,
+                300
+            ],
+            "foot_point": [
+                223,
+                300
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                233,
+                244,
+                251,
+                296
+            ],
+            "foot_point": [
+                242,
+                296
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                352,
+                256,
+                374,
+                303
+            ],
+            "foot_point": [
+                363,
+                303
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                371,
+                250,
+                401,
+                300
+            ],
+            "foot_point": [
+                386,
+                300
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                370,
+                297,
+                393,
+                346
+            ],
+            "foot_point": [
+                381,
+                346
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                474,
+                221,
+                496,
+                260
+            ],
+            "foot_point": [
+                485,
+                260
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                498,
+                204,
+                519,
+                263
+            ],
+            "foot_point": [
+                508,
+                263
+            ],
+            "status": "manual"
+        }
+    ]
+}

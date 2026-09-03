@@ -1,0 +1,188 @@
+{
+    "image": "2016-09-24_-_19-30_Arsenal_3_-_0_Chelsea_corner_5.jpg",
+    "total_players": 14,
+    "players": [
+        {
+            "box": [
+                157,
+                361,
+                201,
+                459
+            ],
+            "foot_point": [
+                179,
+                459
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                802,
+                411,
+                841,
+                517
+            ],
+            "foot_point": [
+                821,
+                517
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                587,
+                378,
+                634,
+                474
+            ],
+            "foot_point": [
+                610,
+                474
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                70,
+                225,
+                98,
+                314
+            ],
+            "foot_point": [
+                84,
+                314
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                502,
+                284,
+                537,
+                370
+            ],
+            "foot_point": [
+                519,
+                370
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                851,
+                370,
+                886,
+                479
+            ],
+            "foot_point": [
+                868,
+                479
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                627,
+                337,
+                660,
+                426
+            ],
+            "foot_point": [
+                643,
+                426
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                91,
+                391,
+                129,
+                491
+            ],
+            "foot_point": [
+                110,
+                491
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                965,
+                283,
+                1001,
+                390
+            ],
+            "foot_point": [
+                983,
+                390
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                715,
+                359,
+                764,
+                442
+            ],
+            "foot_point": [
+                739,
+                442
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                671,
+                240,
+                710,
+                316
+            ],
+            "foot_point": [
+                690,
+                316
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                680,
+                356,
+                708,
+                437
+            ],
+            "foot_point": [
+                694,
+                437
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                669,
+                344,
+                687,
+                421
+            ],
+            "foot_point": [
+                678,
+                421
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                676,
+                332,
+                704,
+                400
+            ],
+            "foot_point": [
+                690,
+                400
+            ],
+            "status": "manual"
+        }
+    ]
+}

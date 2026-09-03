@@ -1,0 +1,214 @@
+{
+    "image": "2015-03-18_-_22-45_Barcelona_1_-_0_Manchester_City_corner_2.jpg",
+    "total_players": 16,
+    "players": [
+        {
+            "box": [
+                606,
+                462,
+                633,
+                566
+            ],
+            "foot_point": [
+                619,
+                566
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                693,
+                463,
+                724,
+                562
+            ],
+            "foot_point": [
+                708,
+                562
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                217,
+                437,
+                243,
+                527
+            ],
+            "foot_point": [
+                230,
+                527
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                570,
+                605,
+                613,
+                707
+            ],
+            "foot_point": [
+                591,
+                707
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                574,
+                481,
+                609,
+                585
+            ],
+            "foot_point": [
+                591,
+                585
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                743,
+                447,
+                767,
+                548
+            ],
+            "foot_point": [
+                755,
+                548
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                902,
+                462,
+                944,
+                559
+            ],
+            "foot_point": [
+                923,
+                559
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                55,
+                446,
+                80,
+                536
+            ],
+            "foot_point": [
+                67,
+                536
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                550,
+                344,
+                579,
+                424
+            ],
+            "foot_point": [
+                564,
+                424
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                102,
+                176,
+                138,
+                248
+            ],
+            "foot_point": [
+                120,
+                248
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                676,
+                328,
+                717,
+                416
+            ],
+            "foot_point": [
+                696,
+                416
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                859,
+                364,
+                890,
+                456
+            ],
+            "foot_point": [
+                874,
+                456
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                311,
+                187,
+                341,
+                257
+            ],
+            "foot_point": [
+                326,
+                257
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                769,
+                367,
+                797,
+                455
+            ],
+            "foot_point": [
+                783,
+                455
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                795,
+                369,
+                828,
+                458
+            ],
+            "foot_point": [
+                811,
+                458
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                894,
+                453,
+                916,
+                548
+            ],
+            "foot_point": [
+                905,
+                548
+            ],
+            "status": "flagged"
+        }
+    ]
+}

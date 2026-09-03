@@ -1,0 +1,214 @@
+{
+    "image": "2015-03-18_-_22-45_Dortmund_0_-_3_Juventus_corner_5.jpg",
+    "total_players": 16,
+    "players": [
+        {
+            "box": [
+                832,
+                469,
+                854,
+                521
+            ],
+            "foot_point": [
+                843,
+                521
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                333,
+                466,
+                352,
+                511
+            ],
+            "foot_point": [
+                342,
+                511
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1183,
+                403,
+                1201,
+                451
+            ],
+            "foot_point": [
+                1192,
+                451
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1146,
+                448,
+                1165,
+                500
+            ],
+            "foot_point": [
+                1155,
+                500
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                851,
+                434,
+                867,
+                479
+            ],
+            "foot_point": [
+                859,
+                479
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                709,
+                415,
+                726,
+                444
+            ],
+            "foot_point": [
+                717,
+                444
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                699,
+                409,
+                715,
+                441
+            ],
+            "foot_point": [
+                707,
+                441
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                766,
+                396,
+                784,
+                428
+            ],
+            "foot_point": [
+                775,
+                428
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                779,
+                384,
+                795,
+                422
+            ],
+            "foot_point": [
+                787,
+                422
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                829,
+                399,
+                848,
+                431
+            ],
+            "foot_point": [
+                838,
+                431
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                822,
+                391,
+                843,
+                437
+            ],
+            "foot_point": [
+                832,
+                437
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                858,
+                396,
+                876,
+                435
+            ],
+            "foot_point": [
+                867,
+                435
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                904,
+                397,
+                921,
+                433
+            ],
+            "foot_point": [
+                912,
+                433
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                909,
+                387,
+                926,
+                425
+            ],
+            "foot_point": [
+                917,
+                425
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1089,
+                395,
+                1114,
+                442
+            ],
+            "foot_point": [
+                1101,
+                442
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                899,
+                390,
+                919,
+                425
+            ],
+            "foot_point": [
+                909,
+                425
+            ],
+            "status": "manual"
+        }
+    ]
+}

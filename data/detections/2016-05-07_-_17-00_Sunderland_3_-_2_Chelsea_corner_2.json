@@ -1,0 +1,227 @@
+{
+    "image": "2016-05-07_-_17-00_Sunderland_3_-_2_Chelsea_corner_2.jpg",
+    "total_players": 17,
+    "players": [
+        {
+            "box": [
+                932,
+                351,
+                965,
+                432
+            ],
+            "foot_point": [
+                948,
+                432
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                843,
+                347,
+                872,
+                426
+            ],
+            "foot_point": [
+                857,
+                426
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                717,
+                342,
+                743,
+                425
+            ],
+            "foot_point": [
+                730,
+                425
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1151,
+                278,
+                1177,
+                339
+            ],
+            "foot_point": [
+                1164,
+                339
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1042,
+                288,
+                1066,
+                356
+            ],
+            "foot_point": [
+                1054,
+                356
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                256,
+                377,
+                295,
+                461
+            ],
+            "foot_point": [
+                275,
+                461
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                671,
+                353,
+                713,
+                431
+            ],
+            "foot_point": [
+                692,
+                431
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                334,
+                403,
+                386,
+                476
+            ],
+            "foot_point": [
+                360,
+                476
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                292,
+                330,
+                312,
+                415
+            ],
+            "foot_point": [
+                302,
+                415
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                300,
+                336,
+                318,
+                400
+            ],
+            "foot_point": [
+                309,
+                400
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                307,
+                313,
+                323,
+                389
+            ],
+            "foot_point": [
+                315,
+                389
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                164,
+                327,
+                185,
+                405
+            ],
+            "foot_point": [
+                174,
+                405
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                504,
+                335,
+                525,
+                403
+            ],
+            "foot_point": [
+                514,
+                403
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                535,
+                355,
+                569,
+                428
+            ],
+            "foot_point": [
+                552,
+                428
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                533,
+                347,
+                558,
+                415
+            ],
+            "foot_point": [
+                545,
+                415
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                543,
+                330,
+                574,
+                404
+            ],
+            "foot_point": [
+                558,
+                404
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                507,
+                301,
+                529,
+                366
+            ],
+            "foot_point": [
+                518,
+                366
+            ],
+            "status": "manual"
+        }
+    ]
+}

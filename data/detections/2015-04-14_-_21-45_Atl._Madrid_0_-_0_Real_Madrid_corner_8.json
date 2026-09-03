@@ -1,0 +1,201 @@
+{
+    "image": "2015-04-14_-_21-45_Atl._Madrid_0_-_0_Real_Madrid_corner_8.jpg",
+    "total_players": 15,
+    "players": [
+        {
+            "box": [
+                936,
+                437,
+                983,
+                509
+            ],
+            "foot_point": [
+                959,
+                509
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                524,
+                382,
+                546,
+                447
+            ],
+            "foot_point": [
+                535,
+                447
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                276,
+                323,
+                296,
+                379
+            ],
+            "foot_point": [
+                286,
+                379
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                309,
+                329,
+                333,
+                380
+            ],
+            "foot_point": [
+                321,
+                380
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                207,
+                325,
+                226,
+                378
+            ],
+            "foot_point": [
+                216,
+                378
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                33,
+                325,
+                53,
+                379
+            ],
+            "foot_point": [
+                43,
+                379
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                65,
+                345,
+                96,
+                399
+            ],
+            "foot_point": [
+                80,
+                399
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                87,
+                334,
+                111,
+                386
+            ],
+            "foot_point": [
+                99,
+                386
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                111,
+                333,
+                136,
+                390
+            ],
+            "foot_point": [
+                123,
+                390
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                137,
+                308,
+                155,
+                369
+            ],
+            "foot_point": [
+                146,
+                369
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                160,
+                338,
+                183,
+                378
+            ],
+            "foot_point": [
+                171,
+                378
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                252,
+                323,
+                273,
+                375
+            ],
+            "foot_point": [
+                262,
+                375
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                340,
+                332,
+                366,
+                375
+            ],
+            "foot_point": [
+                353,
+                375
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                416,
+                329,
+                441,
+                387
+            ],
+            "foot_point": [
+                428,
+                387
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                306,
+                307,
+                337,
+                357
+            ],
+            "foot_point": [
+                321,
+                357
+            ],
+            "status": "manual"
+        }
+    ]
+}

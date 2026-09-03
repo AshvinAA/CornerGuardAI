@@ -1,0 +1,175 @@
+{
+    "image": "2015-04-25_-_16-30_Dortmund_2_-_0_Eintracht_Frankfurt_corner_4.jpg",
+    "total_players": 13,
+    "players": [
+        {
+            "box": [
+                641,
+                423,
+                676,
+                503
+            ],
+            "foot_point": [
+                658,
+                503
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                832,
+                417,
+                864,
+                503
+            ],
+            "foot_point": [
+                848,
+                503
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                465,
+                415,
+                501,
+                491
+            ],
+            "foot_point": [
+                483,
+                491
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                399,
+                426,
+                435,
+                506
+            ],
+            "foot_point": [
+                417,
+                506
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                364,
+                419,
+                396,
+                500
+            ],
+            "foot_point": [
+                380,
+                500
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                551,
+                406,
+                582,
+                482
+            ],
+            "foot_point": [
+                566,
+                482
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                514,
+                415,
+                549,
+                492
+            ],
+            "foot_point": [
+                531,
+                492
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                413,
+                383,
+                440,
+                459
+            ],
+            "foot_point": [
+                426,
+                459
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                1153,
+                448,
+                1181,
+                532
+            ],
+            "foot_point": [
+                1167,
+                532
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                481,
+                348,
+                520,
+                412
+            ],
+            "foot_point": [
+                500,
+                412
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                199,
+                377,
+                229,
+                448
+            ],
+            "foot_point": [
+                214,
+                448
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                950,
+                300,
+                970,
+                349
+            ],
+            "foot_point": [
+                960,
+                349
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                993,
+                274,
+                1017,
+                333
+            ],
+            "foot_point": [
+                1005,
+                333
+            ],
+            "status": "manual"
+        }
+    ]
+}

@@ -1,0 +1,188 @@
+{
+    "image": "2014-12-10_-_22-45_Barcelona_3_-_1_Paris_SG_corner_1.jpg",
+    "total_players": 14,
+    "players": [
+        {
+            "box": [
+                872,
+                410,
+                907,
+                510
+            ],
+            "foot_point": [
+                889,
+                510
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                803,
+                505,
+                843,
+                602
+            ],
+            "foot_point": [
+                823,
+                602
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                719,
+                565,
+                755,
+                651
+            ],
+            "foot_point": [
+                737,
+                651
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                132,
+                248,
+                157,
+                324
+            ],
+            "foot_point": [
+                144,
+                324
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                374,
+                236,
+                411,
+                297
+            ],
+            "foot_point": [
+                392,
+                297
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                640,
+                502,
+                676,
+                590
+            ],
+            "foot_point": [
+                658,
+                590
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                682,
+                512,
+                718,
+                605
+            ],
+            "foot_point": [
+                700,
+                605
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                65,
+                199,
+                89,
+                267
+            ],
+            "foot_point": [
+                77,
+                267
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                651,
+                456,
+                689,
+                522
+            ],
+            "foot_point": [
+                670,
+                522
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                522,
+                502,
+                569,
+                601
+            ],
+            "foot_point": [
+                545,
+                601
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                714,
+                377,
+                751,
+                465
+            ],
+            "foot_point": [
+                732,
+                465
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                709,
+                473,
+                746,
+                563
+            ],
+            "foot_point": [
+                727,
+                563
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                666,
+                391,
+                695,
+                469
+            ],
+            "foot_point": [
+                680,
+                469
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                679,
+                384,
+                712,
+                468
+            ],
+            "foot_point": [
+                695,
+                468
+            ],
+            "status": "manual"
+        }
+    ]
+}

@@ -1,0 +1,201 @@
+{
+    "image": "2015-09-12_-_17-00_Crystal_Palace_0_-_1_Manchester_City_corner_3.jpg",
+    "total_players": 15,
+    "players": [
+        {
+            "box": [
+                420,
+                481,
+                459,
+                582
+            ],
+            "foot_point": [
+                439,
+                582
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1108,
+                394,
+                1148,
+                490
+            ],
+            "foot_point": [
+                1128,
+                490
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                487,
+                360,
+                517,
+                429
+            ],
+            "foot_point": [
+                502,
+                429
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                230,
+                435,
+                264,
+                532
+            ],
+            "foot_point": [
+                247,
+                532
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1036,
+                459,
+                1084,
+                568
+            ],
+            "foot_point": [
+                1060,
+                568
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                328,
+                456,
+                367,
+                537
+            ],
+            "foot_point": [
+                347,
+                537
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                408,
+                391,
+                445,
+                479
+            ],
+            "foot_point": [
+                426,
+                479
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                579,
+                346,
+                606,
+                418
+            ],
+            "foot_point": [
+                592,
+                418
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                286,
+                380,
+                323,
+                459
+            ],
+            "foot_point": [
+                304,
+                459
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                732,
+                511,
+                782,
+                622
+            ],
+            "foot_point": [
+                757,
+                622
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                373,
+                356,
+                422,
+                436
+            ],
+            "foot_point": [
+                397,
+                436
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                357,
+                434,
+                388,
+                531
+            ],
+            "foot_point": [
+                372,
+                531
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                254,
+                428,
+                285,
+                522
+            ],
+            "foot_point": [
+                269,
+                522
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                281,
+                373,
+                310,
+                455
+            ],
+            "foot_point": [
+                295,
+                455
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                196,
+                372,
+                239,
+                465
+            ],
+            "foot_point": [
+                217,
+                465
+            ],
+            "status": "manual"
+        }
+    ]
+}

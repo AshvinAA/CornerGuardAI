@@ -1,0 +1,84 @@
+{
+    "image": "2015-09-26_-_17-00_Liverpool_3_-_2_Aston_Villa_corner_7.jpg",
+    "total_players": 6,
+    "players": [
+        {
+            "box": [
+                40,
+                354,
+                60,
+                416
+            ],
+            "foot_point": [
+                50,
+                416
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                122,
+                294,
+                142,
+                342
+            ],
+            "foot_point": [
+                132,
+                342
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                103,
+                260,
+                139,
+                318
+            ],
+            "foot_point": [
+                121,
+                318
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                214,
+                291,
+                236,
+                348
+            ],
+            "foot_point": [
+                225,
+                348
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                146,
+                271,
+                166,
+                312
+            ],
+            "foot_point": [
+                156,
+                312
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                142,
+                269,
+                162,
+                314
+            ],
+            "foot_point": [
+                152,
+                314
+            ],
+            "status": "manual"
+        }
+    ]
+}

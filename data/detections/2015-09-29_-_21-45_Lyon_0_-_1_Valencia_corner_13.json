@@ -1,0 +1,227 @@
+{
+    "image": "2015-09-29_-_21-45_Lyon_0_-_1_Valencia_corner_13.jpg",
+    "total_players": 17,
+    "players": [
+        {
+            "box": [
+                504,
+                478,
+                559,
+                577
+            ],
+            "foot_point": [
+                531,
+                577
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                727,
+                458,
+                769,
+                565
+            ],
+            "foot_point": [
+                748,
+                565
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                341,
+                398,
+                390,
+                486
+            ],
+            "foot_point": [
+                365,
+                486
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                792,
+                489,
+                845,
+                584
+            ],
+            "foot_point": [
+                818,
+                584
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                689,
+                426,
+                730,
+                520
+            ],
+            "foot_point": [
+                709,
+                520
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                554,
+                383,
+                581,
+                486
+            ],
+            "foot_point": [
+                567,
+                486
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                628,
+                407,
+                673,
+                503
+            ],
+            "foot_point": [
+                650,
+                503
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                589,
+                375,
+                629,
+                462
+            ],
+            "foot_point": [
+                609,
+                462
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                736,
+                387,
+                771,
+                469
+            ],
+            "foot_point": [
+                753,
+                469
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                673,
+                404,
+                708,
+                492
+            ],
+            "foot_point": [
+                690,
+                492
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                780,
+                401,
+                818,
+                472
+            ],
+            "foot_point": [
+                799,
+                472
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                814,
+                478,
+                864,
+                561
+            ],
+            "foot_point": [
+                839,
+                561
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                773,
+                434,
+                802,
+                509
+            ],
+            "foot_point": [
+                787,
+                509
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                580,
+                358,
+                614,
+                438
+            ],
+            "foot_point": [
+                597,
+                438
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                663,
+                367,
+                688,
+                439
+            ],
+            "foot_point": [
+                675,
+                439
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                677,
+                364,
+                708,
+                439
+            ],
+            "foot_point": [
+                692,
+                439
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                530,
+                463,
+                560,
+                561
+            ],
+            "foot_point": [
+                545,
+                561
+            ],
+            "status": "manual"
+        }
+    ]
+}

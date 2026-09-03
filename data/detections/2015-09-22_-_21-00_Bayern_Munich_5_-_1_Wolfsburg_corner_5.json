@@ -1,0 +1,201 @@
+{
+    "image": "2015-09-22_-_21-00_Bayern_Munich_5_-_1_Wolfsburg_corner_5.jpg",
+    "total_players": 15,
+    "players": [
+        {
+            "box": [
+                1021,
+                426,
+                1042,
+                476
+            ],
+            "foot_point": [
+                1031,
+                476
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                156,
+                455,
+                176,
+                512
+            ],
+            "foot_point": [
+                166,
+                512
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                388,
+                453,
+                424,
+                510
+            ],
+            "foot_point": [
+                406,
+                510
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                387,
+                420,
+                405,
+                465
+            ],
+            "foot_point": [
+                396,
+                465
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                969,
+                373,
+                994,
+                432
+            ],
+            "foot_point": [
+                981,
+                432
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                998,
+                381,
+                1014,
+                433
+            ],
+            "foot_point": [
+                1006,
+                433
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1040,
+                382,
+                1054,
+                433
+            ],
+            "foot_point": [
+                1047,
+                433
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1054,
+                359,
+                1068,
+                407
+            ],
+            "foot_point": [
+                1061,
+                407
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1067,
+                362,
+                1088,
+                412
+            ],
+            "foot_point": [
+                1077,
+                412
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1103,
+                375,
+                1122,
+                420
+            ],
+            "foot_point": [
+                1112,
+                420
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1119,
+                357,
+                1138,
+                408
+            ],
+            "foot_point": [
+                1128,
+                408
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1169,
+                358,
+                1188,
+                409
+            ],
+            "foot_point": [
+                1178,
+                409
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1189,
+                376,
+                1207,
+                437
+            ],
+            "foot_point": [
+                1198,
+                437
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                801,
+                359,
+                817,
+                414
+            ],
+            "foot_point": [
+                809,
+                414
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                819,
+                353,
+                839,
+                398
+            ],
+            "foot_point": [
+                829,
+                398
+            ],
+            "status": "manual"
+        }
+    ]
+}

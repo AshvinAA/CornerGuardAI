@@ -1,0 +1,175 @@
+{
+    "image": "2016-12-21_-_22-50_Paris_SG_5_-_0_Lorient_corner_11.jpg",
+    "total_players": 13,
+    "players": [
+        {
+            "box": [
+                94,
+                464,
+                118,
+                535
+            ],
+            "foot_point": [
+                106,
+                535
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                172,
+                419,
+                194,
+                485
+            ],
+            "foot_point": [
+                183,
+                485
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                386,
+                341,
+                410,
+                390
+            ],
+            "foot_point": [
+                398,
+                390
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                301,
+                309,
+                322,
+                353
+            ],
+            "foot_point": [
+                311,
+                353
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                478,
+                346,
+                500,
+                383
+            ],
+            "foot_point": [
+                489,
+                383
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                336,
+                339,
+                369,
+                384
+            ],
+            "foot_point": [
+                352,
+                384
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                437,
+                345,
+                460,
+                384
+            ],
+            "foot_point": [
+                448,
+                384
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                138,
+                336,
+                162,
+                384
+            ],
+            "foot_point": [
+                150,
+                384
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                274,
+                323,
+                292,
+                375
+            ],
+            "foot_point": [
+                283,
+                375
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                338,
+                319,
+                355,
+                365
+            ],
+            "foot_point": [
+                346,
+                365
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                264,
+                346,
+                291,
+                392
+            ],
+            "foot_point": [
+                277,
+                392
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                355,
+                316,
+                382,
+                360
+            ],
+            "foot_point": [
+                368,
+                360
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                435,
+                309,
+                460,
+                353
+            ],
+            "foot_point": [
+                447,
+                353
+            ],
+            "status": "manual"
+        }
+    ]
+}

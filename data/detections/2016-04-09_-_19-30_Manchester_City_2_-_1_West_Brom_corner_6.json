@@ -1,0 +1,227 @@
+{
+    "image": "2016-04-09_-_19-30_Manchester_City_2_-_1_West_Brom_corner_6.jpg",
+    "total_players": 17,
+    "players": [
+        {
+            "box": [
+                522,
+                419,
+                558,
+                517
+            ],
+            "foot_point": [
+                540,
+                517
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                256,
+                340,
+                291,
+                428
+            ],
+            "foot_point": [
+                273,
+                428
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                582,
+                376,
+                658,
+                457
+            ],
+            "foot_point": [
+                620,
+                457
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                981,
+                300,
+                1010,
+                393
+            ],
+            "foot_point": [
+                995,
+                393
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                28,
+                359,
+                76,
+                443
+            ],
+            "foot_point": [
+                52,
+                443
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                755,
+                309,
+                787,
+                391
+            ],
+            "foot_point": [
+                771,
+                391
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                831,
+                346,
+                872,
+                445
+            ],
+            "foot_point": [
+                851,
+                445
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                708,
+                396,
+                745,
+                482
+            ],
+            "foot_point": [
+                726,
+                482
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                760,
+                391,
+                782,
+                467
+            ],
+            "foot_point": [
+                771,
+                467
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                739,
+                361,
+                774,
+                428
+            ],
+            "foot_point": [
+                756,
+                428
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                726,
+                350,
+                767,
+                420
+            ],
+            "foot_point": [
+                746,
+                420
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                807,
+                368,
+                848,
+                446
+            ],
+            "foot_point": [
+                827,
+                446
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                807,
+                346,
+                841,
+                409
+            ],
+            "foot_point": [
+                824,
+                409
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                839,
+                296,
+                880,
+                363
+            ],
+            "foot_point": [
+                859,
+                363
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                867,
+                432,
+                898,
+                519
+            ],
+            "foot_point": [
+                882,
+                519
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                890,
+                420,
+                928,
+                529
+            ],
+            "foot_point": [
+                909,
+                529
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                235,
+                446,
+                287,
+                550
+            ],
+            "foot_point": [
+                261,
+                550
+            ],
+            "status": "manual"
+        }
+    ]
+}

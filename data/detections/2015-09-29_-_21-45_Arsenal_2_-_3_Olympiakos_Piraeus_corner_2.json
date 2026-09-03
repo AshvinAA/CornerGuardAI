@@ -1,0 +1,227 @@
+{
+    "image": "2015-09-29_-_21-45_Arsenal_2_-_3_Olympiakos_Piraeus_corner_2.jpg",
+    "total_players": 17,
+    "players": [
+        {
+            "box": [
+                565,
+                343,
+                605,
+                445
+            ],
+            "foot_point": [
+                585,
+                445
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1062,
+                416,
+                1104,
+                513
+            ],
+            "foot_point": [
+                1083,
+                513
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                629,
+                383,
+                680,
+                488
+            ],
+            "foot_point": [
+                654,
+                488
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1028,
+                212,
+                1057,
+                285
+            ],
+            "foot_point": [
+                1042,
+                285
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                665,
+                341,
+                711,
+                432
+            ],
+            "foot_point": [
+                688,
+                432
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                357,
+                353,
+                385,
+                450
+            ],
+            "foot_point": [
+                371,
+                450
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                733,
+                335,
+                767,
+                425
+            ],
+            "foot_point": [
+                750,
+                425
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                476,
+                330,
+                504,
+                413
+            ],
+            "foot_point": [
+                490,
+                413
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                400,
+                338,
+                442,
+                433
+            ],
+            "foot_point": [
+                421,
+                433
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                865,
+                179,
+                895,
+                245
+            ],
+            "foot_point": [
+                880,
+                245
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                501,
+                298,
+                539,
+                378
+            ],
+            "foot_point": [
+                520,
+                378
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                381,
+                313,
+                414,
+                394
+            ],
+            "foot_point": [
+                397,
+                394
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                431,
+                287,
+                481,
+                363
+            ],
+            "foot_point": [
+                456,
+                363
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                637,
+                351,
+                668,
+                398
+            ],
+            "foot_point": [
+                652,
+                398
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                568,
+                301,
+                599,
+                359
+            ],
+            "foot_point": [
+                583,
+                359
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                257,
+                309,
+                291,
+                396
+            ],
+            "foot_point": [
+                274,
+                396
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                724,
+                319,
+                769,
+                409
+            ],
+            "foot_point": [
+                746,
+                409
+            ],
+            "status": "manual"
+        }
+    ]
+}

@@ -1,0 +1,175 @@
+{
+    "image": "2016-03-19_-_18-00_Chelsea_2_-_2_West_Ham_corner_12.jpg",
+    "total_players": 13,
+    "players": [
+        {
+            "box": [
+                792,
+                365,
+                826,
+                461
+            ],
+            "foot_point": [
+                809,
+                461
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                34,
+                318,
+                67,
+                403
+            ],
+            "foot_point": [
+                50,
+                403
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                466,
+                298,
+                500,
+                368
+            ],
+            "foot_point": [
+                483,
+                368
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                513,
+                296,
+                544,
+                366
+            ],
+            "foot_point": [
+                528,
+                366
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                514,
+                466,
+                568,
+                581
+            ],
+            "foot_point": [
+                541,
+                581
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                0,
+                435,
+                23,
+                534
+            ],
+            "foot_point": [
+                11,
+                534
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                987,
+                342,
+                1025,
+                430
+            ],
+            "foot_point": [
+                1006,
+                430
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                908,
+                361,
+                940,
+                451
+            ],
+            "foot_point": [
+                924,
+                451
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                932,
+                323,
+                969,
+                401
+            ],
+            "foot_point": [
+                950,
+                401
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                622,
+                297,
+                661,
+                385
+            ],
+            "foot_point": [
+                641,
+                385
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                608,
+                295,
+                650,
+                374
+            ],
+            "foot_point": [
+                629,
+                374
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                387,
+                235,
+                424,
+                287
+            ],
+            "foot_point": [
+                405,
+                287
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                948,
+                298,
+                980,
+                377
+            ],
+            "foot_point": [
+                964,
+                377
+            ],
+            "status": "manual"
+        }
+    ]
+}

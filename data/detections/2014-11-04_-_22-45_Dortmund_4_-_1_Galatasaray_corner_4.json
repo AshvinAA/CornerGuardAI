@@ -1,0 +1,201 @@
+{
+    "image": "2014-11-04_-_22-45_Dortmund_4_-_1_Galatasaray_corner_4.jpg",
+    "total_players": 15,
+    "players": [
+        {
+            "box": [
+                90,
+                465,
+                114,
+                518
+            ],
+            "foot_point": [
+                102,
+                518
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                230,
+                441,
+                256,
+                491
+            ],
+            "foot_point": [
+                243,
+                491
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                219,
+                381,
+                236,
+                427
+            ],
+            "foot_point": [
+                227,
+                427
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                244,
+                382,
+                261,
+                424
+            ],
+            "foot_point": [
+                252,
+                424
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                267,
+                377,
+                279,
+                423
+            ],
+            "foot_point": [
+                273,
+                423
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                302,
+                364,
+                320,
+                409
+            ],
+            "foot_point": [
+                311,
+                409
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                324,
+                396,
+                342,
+                432
+            ],
+            "foot_point": [
+                333,
+                432
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                341,
+                383,
+                358,
+                425
+            ],
+            "foot_point": [
+                349,
+                425
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                347,
+                375,
+                367,
+                413
+            ],
+            "foot_point": [
+                357,
+                413
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                325,
+                376,
+                344,
+                417
+            ],
+            "foot_point": [
+                334,
+                417
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                387,
+                392,
+                402,
+                430
+            ],
+            "foot_point": [
+                394,
+                430
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                403,
+                384,
+                419,
+                428
+            ],
+            "foot_point": [
+                411,
+                428
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                492,
+                381,
+                510,
+                419
+            ],
+            "foot_point": [
+                501,
+                419
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                441,
+                352,
+                461,
+                383
+            ],
+            "foot_point": [
+                451,
+                383
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                429,
+                358,
+                455,
+                403
+            ],
+            "foot_point": [
+                442,
+                403
+            ],
+            "status": "manual"
+        }
+    ]
+}

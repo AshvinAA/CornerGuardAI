@@ -1,0 +1,253 @@
+{
+    "image": "2016-03-19_-_18-00_Chelsea_2_-_2_West_Ham_corner_2.jpg",
+    "total_players": 19,
+    "players": [
+        {
+            "box": [
+                79,
+                326,
+                103,
+                405
+            ],
+            "foot_point": [
+                91,
+                405
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                298,
+                447,
+                332,
+                541
+            ],
+            "foot_point": [
+                315,
+                541
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                437,
+                423,
+                469,
+                522
+            ],
+            "foot_point": [
+                453,
+                522
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                305,
+                303,
+                335,
+                381
+            ],
+            "foot_point": [
+                320,
+                381
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                738,
+                267,
+                767,
+                334
+            ],
+            "foot_point": [
+                752,
+                334
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                838,
+                305,
+                875,
+                379
+            ],
+            "foot_point": [
+                856,
+                379
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1116,
+                301,
+                1139,
+                382
+            ],
+            "foot_point": [
+                1127,
+                382
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                591,
+                244,
+                612,
+                292
+            ],
+            "foot_point": [
+                601,
+                292
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                704,
+                342,
+                731,
+                422
+            ],
+            "foot_point": [
+                717,
+                422
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                691,
+                357,
+                718,
+                437
+            ],
+            "foot_point": [
+                704,
+                437
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                653,
+                355,
+                685,
+                441
+            ],
+            "foot_point": [
+                669,
+                441
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                659,
+                346,
+                694,
+                425
+            ],
+            "foot_point": [
+                676,
+                425
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                628,
+                360,
+                654,
+                449
+            ],
+            "foot_point": [
+                641,
+                449
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                615,
+                341,
+                653,
+                412
+            ],
+            "foot_point": [
+                634,
+                412
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                614,
+                245,
+                636,
+                305
+            ],
+            "foot_point": [
+                625,
+                305
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                813,
+                291,
+                835,
+                363
+            ],
+            "foot_point": [
+                824,
+                363
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                860,
+                300,
+                901,
+                376
+            ],
+            "foot_point": [
+                880,
+                376
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                858,
+                283,
+                899,
+                353
+            ],
+            "foot_point": [
+                878,
+                353
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1013,
+                285,
+                1042,
+                372
+            ],
+            "foot_point": [
+                1027,
+                372
+            ],
+            "status": "manual"
+        }
+    ]
+}

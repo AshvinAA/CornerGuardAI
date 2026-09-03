@@ -1,0 +1,175 @@
+{
+    "image": "2017-02-27_-_23-00_Leicester_3_-_1_Liverpool_corner_6.jpg",
+    "total_players": 13,
+    "players": [
+        {
+            "box": [
+                554,
+                451,
+                582,
+                529
+            ],
+            "foot_point": [
+                568,
+                529
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                321,
+                474,
+                366,
+                546
+            ],
+            "foot_point": [
+                343,
+                546
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                962,
+                364,
+                992,
+                427
+            ],
+            "foot_point": [
+                977,
+                427
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                971,
+                307,
+                996,
+                371
+            ],
+            "foot_point": [
+                983,
+                371
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                993,
+                291,
+                1011,
+                329
+            ],
+            "foot_point": [
+                1002,
+                329
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1034,
+                308,
+                1054,
+                354
+            ],
+            "foot_point": [
+                1044,
+                354
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1047,
+                305,
+                1070,
+                363
+            ],
+            "foot_point": [
+                1058,
+                363
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1072,
+                291,
+                1100,
+                347
+            ],
+            "foot_point": [
+                1086,
+                347
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1038,
+                284,
+                1070,
+                340
+            ],
+            "foot_point": [
+                1054,
+                340
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1018,
+                270,
+                1051,
+                324
+            ],
+            "foot_point": [
+                1034,
+                324
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1219,
+                318,
+                1256,
+                378
+            ],
+            "foot_point": [
+                1237,
+                378
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1213,
+                309,
+                1259,
+                368
+            ],
+            "foot_point": [
+                1236,
+                368
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1263,
+                293,
+                1291,
+                345
+            ],
+            "foot_point": [
+                1277,
+                345
+            ],
+            "status": "manual"
+        }
+    ]
+}

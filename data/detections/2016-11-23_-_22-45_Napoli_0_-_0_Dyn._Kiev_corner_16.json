@@ -1,0 +1,214 @@
+{
+    "image": "2016-11-23_-_22-45_Napoli_0_-_0_Dyn._Kiev_corner_16.jpg",
+    "total_players": 16,
+    "players": [
+        {
+            "box": [
+                670,
+                403,
+                699,
+                479
+            ],
+            "foot_point": [
+                684,
+                479
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                585,
+                319,
+                602,
+                385
+            ],
+            "foot_point": [
+                593,
+                385
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                411,
+                217,
+                430,
+                281
+            ],
+            "foot_point": [
+                420,
+                281
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                336,
+                210,
+                363,
+                273
+            ],
+            "foot_point": [
+                349,
+                273
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                259,
+                216,
+                284,
+                278
+            ],
+            "foot_point": [
+                271,
+                278
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                460,
+                208,
+                484,
+                267
+            ],
+            "foot_point": [
+                472,
+                267
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                89,
+                184,
+                105,
+                240
+            ],
+            "foot_point": [
+                97,
+                240
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                104,
+                214,
+                125,
+                271
+            ],
+            "foot_point": [
+                114,
+                271
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                123,
+                201,
+                143,
+                256
+            ],
+            "foot_point": [
+                133,
+                256
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                146,
+                230,
+                158,
+                282
+            ],
+            "foot_point": [
+                152,
+                282
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                144,
+                208,
+                160,
+                263
+            ],
+            "foot_point": [
+                152,
+                263
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                151,
+                187,
+                171,
+                237
+            ],
+            "foot_point": [
+                161,
+                237
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                192,
+                189,
+                220,
+                248
+            ],
+            "foot_point": [
+                206,
+                248
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                253,
+                202,
+                280,
+                257
+            ],
+            "foot_point": [
+                266,
+                257
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                375,
+                192,
+                396,
+                244
+            ],
+            "foot_point": [
+                385,
+                244
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                399,
+                190,
+                420,
+                248
+            ],
+            "foot_point": [
+                409,
+                248
+            ],
+            "status": "manual"
+        }
+    ]
+}

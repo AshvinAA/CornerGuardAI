@@ -1,0 +1,240 @@
+{
+    "image": "2015-11-25_-_22-45_Atl._Madrid_2_-_0_Galatasaray_corner_1.jpg",
+    "total_players": 18,
+    "players": [
+        {
+            "box": [
+                34,
+                543,
+                70,
+                620
+            ],
+            "foot_point": [
+                52,
+                620
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                543,
+                415,
+                560,
+                462
+            ],
+            "foot_point": [
+                551,
+                462
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                286,
+                472,
+                303,
+                526
+            ],
+            "foot_point": [
+                294,
+                526
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1150,
+                520,
+                1172,
+                576
+            ],
+            "foot_point": [
+                1161,
+                576
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                164,
+                434,
+                187,
+                484
+            ],
+            "foot_point": [
+                175,
+                484
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                172,
+                412,
+                194,
+                449
+            ],
+            "foot_point": [
+                183,
+                449
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                194,
+                404,
+                219,
+                457
+            ],
+            "foot_point": [
+                206,
+                457
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                238,
+                394,
+                256,
+                425
+            ],
+            "foot_point": [
+                247,
+                425
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                252,
+                394,
+                270,
+                440
+            ],
+            "foot_point": [
+                261,
+                440
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                244,
+                417,
+                260,
+                466
+            ],
+            "foot_point": [
+                252,
+                466
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                259,
+                430,
+                279,
+                476
+            ],
+            "foot_point": [
+                269,
+                476
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                272,
+                412,
+                288,
+                454
+            ],
+            "foot_point": [
+                280,
+                454
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                293,
+                404,
+                312,
+                456
+            ],
+            "foot_point": [
+                302,
+                456
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                311,
+                395,
+                332,
+                445
+            ],
+            "foot_point": [
+                321,
+                445
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                347,
+                392,
+                375,
+                442
+            ],
+            "foot_point": [
+                361,
+                442
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                369,
+                431,
+                388,
+                463
+            ],
+            "foot_point": [
+                378,
+                463
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                376,
+                403,
+                399,
+                445
+            ],
+            "foot_point": [
+                387,
+                445
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                435,
+                412,
+                456,
+                463
+            ],
+            "foot_point": [
+                445,
+                463
+            ],
+            "status": "manual"
+        }
+    ]
+}

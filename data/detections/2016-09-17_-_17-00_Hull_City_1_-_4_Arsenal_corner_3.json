@@ -1,0 +1,162 @@
+{
+    "image": "2016-09-17_-_17-00_Hull_City_1_-_4_Arsenal_corner_3.jpg",
+    "total_players": 12,
+    "players": [
+        {
+            "box": [
+                197,
+                351,
+                227,
+                436
+            ],
+            "foot_point": [
+                212,
+                436
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                434,
+                442,
+                469,
+                539
+            ],
+            "foot_point": [
+                451,
+                539
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                852,
+                390,
+                885,
+                485
+            ],
+            "foot_point": [
+                868,
+                485
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                375,
+                423,
+                403,
+                527
+            ],
+            "foot_point": [
+                389,
+                527
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                664,
+                376,
+                691,
+                467
+            ],
+            "foot_point": [
+                677,
+                467
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                518,
+                372,
+                548,
+                466
+            ],
+            "foot_point": [
+                533,
+                466
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                909,
+                367,
+                951,
+                467
+            ],
+            "foot_point": [
+                930,
+                467
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1191,
+                389,
+                1216,
+                482
+            ],
+            "foot_point": [
+                1203,
+                482
+            ],
+            "status": "flagged"
+        },
+        {
+            "box": [
+                705,
+                386,
+                732,
+                499
+            ],
+            "foot_point": [
+                718,
+                499
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                560,
+                403,
+                616,
+                509
+            ],
+            "foot_point": [
+                588,
+                509
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                560,
+                369,
+                605,
+                463
+            ],
+            "foot_point": [
+                582,
+                463
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                781,
+                355,
+                821,
+                444
+            ],
+            "foot_point": [
+                801,
+                444
+            ],
+            "status": "manual"
+        }
+    ]
+}

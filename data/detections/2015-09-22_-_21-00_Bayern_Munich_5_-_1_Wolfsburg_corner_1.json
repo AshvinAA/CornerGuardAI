@@ -1,0 +1,188 @@
+{
+    "image": "2015-09-22_-_21-00_Bayern_Munich_5_-_1_Wolfsburg_corner_1.jpg",
+    "total_players": 14,
+    "players": [
+        {
+            "box": [
+                148,
+                539,
+                179,
+                620
+            ],
+            "foot_point": [
+                163,
+                620
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                360,
+                469,
+                392,
+                539
+            ],
+            "foot_point": [
+                376,
+                539
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                259,
+                445,
+                282,
+                510
+            ],
+            "foot_point": [
+                270,
+                510
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                474,
+                464,
+                500,
+                537
+            ],
+            "foot_point": [
+                487,
+                537
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                286,
+                375,
+                309,
+                427
+            ],
+            "foot_point": [
+                297,
+                427
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                166,
+                380,
+                187,
+                431
+            ],
+            "foot_point": [
+                176,
+                431
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                187,
+                379,
+                204,
+                421
+            ],
+            "foot_point": [
+                195,
+                421
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                202,
+                397,
+                236,
+                441
+            ],
+            "foot_point": [
+                219,
+                441
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                228,
+                387,
+                257,
+                438
+            ],
+            "foot_point": [
+                242,
+                438
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                223,
+                371,
+                241,
+                422
+            ],
+            "foot_point": [
+                232,
+                422
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                339,
+                385,
+                360,
+                449
+            ],
+            "foot_point": [
+                349,
+                449
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                353,
+                382,
+                378,
+                447
+            ],
+            "foot_point": [
+                365,
+                447
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                362,
+                391,
+                398,
+                448
+            ],
+            "foot_point": [
+                380,
+                448
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                420,
+                378,
+                435,
+                436
+            ],
+            "foot_point": [
+                427,
+                436
+            ],
+            "status": "manual"
+        }
+    ]
+}

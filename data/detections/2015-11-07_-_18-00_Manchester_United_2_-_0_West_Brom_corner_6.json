@@ -1,0 +1,188 @@
+{
+    "image": "2015-11-07_-_18-00_Manchester_United_2_-_0_West_Brom_corner_6.jpg",
+    "total_players": 14,
+    "players": [
+        {
+            "box": [
+                593,
+                400,
+                624,
+                481
+            ],
+            "foot_point": [
+                608,
+                481
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1037,
+                485,
+                1072,
+                582
+            ],
+            "foot_point": [
+                1054,
+                582
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                87,
+                341,
+                110,
+                419
+            ],
+            "foot_point": [
+                98,
+                419
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                672,
+                337,
+                697,
+                412
+            ],
+            "foot_point": [
+                684,
+                412
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                928,
+                227,
+                949,
+                279
+            ],
+            "foot_point": [
+                938,
+                279
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                411,
+                386,
+                444,
+                476
+            ],
+            "foot_point": [
+                427,
+                476
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                478,
+                298,
+                514,
+                353
+            ],
+            "foot_point": [
+                496,
+                353
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                1000,
+                456,
+                1030,
+                554
+            ],
+            "foot_point": [
+                1015,
+                554
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                685,
+                219,
+                708,
+                271
+            ],
+            "foot_point": [
+                696,
+                271
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                470,
+                398,
+                506,
+                479
+            ],
+            "foot_point": [
+                488,
+                479
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                449,
+                404,
+                474,
+                482
+            ],
+            "foot_point": [
+                461,
+                482
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                410,
+                344,
+                439,
+                430
+            ],
+            "foot_point": [
+                424,
+                430
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                442,
+                345,
+                468,
+                422
+            ],
+            "foot_point": [
+                455,
+                422
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                1005,
+                198,
+                1026,
+                246
+            ],
+            "foot_point": [
+                1015,
+                246
+            ],
+            "status": "flagged"
+        }
+    ]
+}

@@ -1,0 +1,188 @@
+{
+    "image": "2014-11-04_-_22-45_Dortmund_4_-_1_Galatasaray_corner_14.jpg",
+    "total_players": 14,
+    "players": [
+        {
+            "box": [
+                294,
+                450,
+                334,
+                546
+            ],
+            "foot_point": [
+                314,
+                546
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                220,
+                447,
+                260,
+                545
+            ],
+            "foot_point": [
+                240,
+                545
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                631,
+                343,
+                677,
+                428
+            ],
+            "foot_point": [
+                654,
+                428
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                934,
+                414,
+                976,
+                510
+            ],
+            "foot_point": [
+                955,
+                510
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                757,
+                377,
+                788,
+                455
+            ],
+            "foot_point": [
+                772,
+                455
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                716,
+                374,
+                762,
+                462
+            ],
+            "foot_point": [
+                739,
+                462
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                708,
+                341,
+                737,
+                404
+            ],
+            "foot_point": [
+                722,
+                404
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                803,
+                378,
+                829,
+                463
+            ],
+            "foot_point": [
+                816,
+                463
+            ],
+            "status": "safe"
+        },
+        {
+            "box": [
+                113,
+                349,
+                148,
+                430
+            ],
+            "foot_point": [
+                130,
+                430
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                797,
+                338,
+                830,
+                402
+            ],
+            "foot_point": [
+                813,
+                402
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                904,
+                325,
+                931,
+                408
+            ],
+            "foot_point": [
+                917,
+                408
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                923,
+                353,
+                947,
+                435
+            ],
+            "foot_point": [
+                935,
+                435
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                933,
+                358,
+                963,
+                425
+            ],
+            "foot_point": [
+                948,
+                425
+            ],
+            "status": "manual"
+        },
+        {
+            "box": [
+                958,
+                357,
+                998,
+                436
+            ],
+            "foot_point": [
+                978,
+                436
+            ],
+            "status": "manual"
+        }
+    ]
+}
