@@ -47,7 +47,7 @@ YOLOv10x identifying players in a dense penalty box scrum. Instead of static pix
 
 ---
 
-## Stage 3 — The Canonical Architecture
+## The Canonical Architecture
 
 The core engineering achievement of this pipeline is **Stage 3**. It takes raw YOLO bounding boxes and transforms them into perfectly standardized tactical geometry.
 
