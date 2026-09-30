@@ -1,36 +1,86 @@
-# Tactical Soccer Vision Pipeline (SoccerNet)
+<!-- ======================================================================
+     BANNER — place your banner image at docs/assets/banner.png and
+     uncomment the block below. 
 
-An end-to-end computer vision and data engineering pipeline designed to extract, clean, and process tactical soccer footage (specifically corner kicks) from the SoccerNet dataset. The system transforms raw, chaotic broadcast video into a standardized, mathematically rigorous 2D coordinate plane for downstream tactical modeling (e.g., XGBoost).
+<p align="center">
+  <img src="docs/assets/banner.png" alt="Tactical Soccer Vision Pipeline" width="720" />
+</p>
+====================================================================== -->
 
-##  Project Overview
-Broadcast soccer footage suffers from extreme variance in camera angles, zoom levels, lighting conditions, and player occlusion. This pipeline solves these issues through deterministic spatial mapping, dynamic color signal scanning, and self-gating statistical filters. It ensures that the tactical geometry of a penalty box scrum is captured accurately without algorithmic hallucination.
+# Tactical Soccer Vision Pipeline
 
-##  Architecture & Pipeline
+> **Standardizing the physical space of soccer.**
+> An end-to-end computer vision and data engineering pipeline that transforms chaotic broadcast footage into deterministic tactical geometry.
 
-### Stage 1: Metadata Ingestion & Data Mining
-* Parses raw SoccerNet `Labels-v2.json` files to isolate specific chronological events (Corner Kicks).
-* Extracts event metadata (home/away possession, match timestamps) to anchor the visual data in absolute ground truth.
+![Status](https://img.shields.io/badge/status-R%26D%20Paused-orange)
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5C3EE8?logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv10x-Ultralytics-00FFFF)
 
-### Stage 2: Player Detection & Data Cleaning
-* **Detection Engine (`player_detector.py`):** Utilizes **YOLOv10x** (Extra Large) for high-recall player detection in dense scrums. Employs relaxed NMS thresholds (IoU=0.65) to preserve distinct bounding boxes in tight marking situations.
-* **Custom Annotation GUI (`data_cleaner.py`):** A custom Pygame-based scrubbing engine built to instantly load, visualize, and drop corrupted frames or falsely classified clips at 60fps without manual spreadsheet data entry.
+---
 
-### Stage 2.5: Context Synchronization
-* **Dynamic Kit Patcher (`metadata_patcher.py`):** Automatically maps changing HSV kit colors (Home, Away, Goalkeeper) to specific corner events based on parsed match possession data.
-* **Rapid-Fire Tagger (`corner_tagger.py`):** A Pygame interface for lightning-fast manual tagging of `Corner_Side` (Left/Right) to set up the canonical coordinate mapping.
+## The problem it solves
 
-### Stage 3: Canonical Mapping & Team Classification (Architecture Locked)
-* **Canonical Spatial Mapping:** Maps raw YOLO pixel coordinates to a normalized `[0, 1]` grid. Applies a Dual-Axis Flip (conditional Y-axis and X-axis inversion) to ensure rotational invariance—forcing every corner kick to originate mathematically from `(1, 1)`.
-* **Occlusion-Aware Pixel Scanning:** Mitigates pixel contamination from overlapping bounding boxes by restricting HSV color extraction to strictly non-intersecting sub-regions. Scans boxes in overlapping horizontal bands to hunt for the strongest jersey signal, bypassing traditional fixed-crop assumptions.
-* **Automated Kicker Exclusion (MAD Filter):** Dynamically isolates and excludes the corner-taker from the tactical geometry using a Median Absolute Deviation (MAD) threshold. This self-scaling statistical filter prevents the outlier kicker from masking true penalty box density.
-* **Anchor/Fringe Splitting:** Prevents cascading uncertainty by computing the scrum's structural centroid using only high-confidence detections ("Anchors"), while gracefully degrading highly occluded players ("Fringe") into an Unclassified subset.
+If you feed raw broadcast soccer footage into a downstream machine learning model (like XGBoost) for tactical analysis, the model will fail. Broadcast video is inherently chaotic: camera angles flip depending on the half, zoom levels change wildly, stadium lighting shifts, and players in the penalty box heavily occlude one another. 
 
-##  Tech Stack
-* **Computer Vision:** OpenCV, Ultralytics YOLOv10
-* **Data Processing:** Pandas, NumPy
-* **Custom Tooling/GUI:** Pygame
-* **Data Source:** SoccerNet Dataset
+**This pipeline enforces mathematical order on visual chaos.** It extracts raw frames from the SoccerNet dataset, detects players using a heavy-weight YOLO architecture, dynamically handles heavy occlusion without hallucinating kit colors, and mathematically maps every single corner kick to an identical `[0, 1]` coordinate plane. It does not guess; it relies on self-gating statistical filters and explicit metadata anchors.
 
-##  Current Status
-**Status: Development Paused**
-The project successfully completed extraction, detection, and metadata synchronization (Stages 1–2.5). The theoretical architecture for Stage 3 (Canonical Mapping) is fully designed and stress-tested against severe edge cases (dual goalkeepers, pixel contamination, statistical masking). Development is temporarily paused to conduct a deeper theoretical study of image processing fundamentals (linear algebra, optics, and signal processing) before executing the final mathematical mapping layer.
+## Screenshots & demo
+
+### Custom Pygame Annotation Tooling
+A custom-built, 60fps Pygame interface designed for lightning-fast manual QA. Scrub through clips, drop corrupted frames, and lock in canonical sides without ever touching a spreadsheet.
+
+<p align="center">
+  <!-- Placeholder for your pygame GUI screenshots -->
+  <img src="docs/screenshots/pygame-gui.png" alt="Pygame Rapid-Fire Annotator" width="60%" />
+</p>
+
+### Dynamic Occlusion Handling
+YOLOv10x identifying players in a dense penalty box scrum. Instead of static pixel cropping, the pipeline dynamically scans horizontal bands to hunt for the strongest jersey signal.
+
+<p align="center">
+  <!-- Placeholder for YOLO bounding box output -->
+  <img src="docs/screenshots/dense-scrum-detection.png" alt="Dense scrum bounding boxes with confidence margins" width="60%" />
+</p>
+
+---
+
+## Stage 3 — The Canonical Architecture
+
+The core engineering achievement of this pipeline is **Stage 3**. It takes raw YOLO bounding boxes and transforms them into perfectly standardized tactical geometry.
+
+- **Dual-Axis Canonical Mapping** — Coordinates are normalized to a resolution-independent `[0, 1]` grid. The Y-axis is conditionally inverted so the goal line is always at $Y=0$. The X-axis is inverted based on metadata so every single corner mathematically originates from exactly $X=1, Y=1$. The downstream model only ever learns one spatial orientation.
+- **Dynamic Pixel Scanning** — Fixed spatial assumptions (e.g., "the top 30% of a box is the jersey") fail on occluded players. This pipeline slices the non-overlapping sub-regions of bounding boxes into 5 horizontal bands, computes HSV Euclidean distances to ground-truth kit colors, and locks onto the band with the highest confidence margin.
+- **Overlap-Scrubbing** — To maximize recall, the YOLO NMS threshold is relaxed (`iou=0.65`). To prevent the resulting bounding box overlap from causing classification bleed, the pipeline calculates cross-box IoU and strictly extracts pixels only from non-intersecting regions.
+- **Statistical Self-Gating (Kicker Exclusion)** — The corner-taker must be excluded from penalty box density calculations. The pipeline calculates a high-confidence "Anchor" centroid, generates a dynamic spatial floor using the 25th percentile of origin distances, and sets an isolation threshold using the **Median Absolute Deviation (MAD)**. If the camera doesn't show the corner flag, the self-scaling statistics gracefully do nothing.
+
+## The Data Contract (Methodology)
+
+The design rule underneath everything: **The computer vision layer is not allowed to inject false confidence into the tactical data.**
+
+- **Ground Truth Ingestion:** Kit colors and attacking directions are not guessed by an unsupervised clustering algorithm. They are cross-referenced directly from `match_metadata.csv` using chronological JSON event mapping (`metadata_patcher.py`).
+- **Class 3 (Kicker) Exclusion:** The corner taker is explicitly flagged and removed from all downstream geometric calculations (Convex Hull, Attacker-to-Defender Ratio).
+- **Class 4 (Unclassified) Degradation:** If a bounding box fails the confidence margin threshold, or if its non-overlapping pixel region is too thin, it is safely degraded to Class 4. **We intentionally trade a slight loss in recall to definitively prevent the catastrophic failure of injecting falsely classified positional data.**
+
+## Tech stack
+
+OpenCV + Ultralytics YOLOv10x + Pygame (Python 3.10+). Data manipulation relies on Pandas and NumPy. Designed for extraction and analysis from the SoccerNet dataset.
+
+## Getting started
+
+**Prerequisites:** Python 3.10+, Git. 
+
+```bash
+# 1. Clone
+git clone [https://github.com/AshvinAA/Tactical-Soccer-Vision.git](https://github.com/AshvinAA/Tactical-Soccer-Vision.git)
+cd Tactical-Soccer-Vision
+
+# 2. Backend — create env, install
+python -m venv .venv
+source .venv/bin/activate            # Windows: .venv\Scripts\activate
+pip install -r requirements.txt
+
+# 3. Setup Directory Structure
+mkdir -p data/extracted_frames data/detections data/SoccerNet
